@@ -1,0 +1,2164 @@
+{
+  "meta": {
+    "market": "KR",
+    "date": "2026-01-26",
+    "time": "23:09:11",
+    "timestamp": "2026-01-26T23:09:11.483641",
+    "avg_score": 44.1,
+    "buy_count": 0,
+    "sell_count": 50,
+    "high_growth_count": 0,
+    "top_alpha_ticker": "259960.KS"
+  },
+  "reports": [
+    {
+      "ticker": "259960.KS",
+      "name": "크래프톤",
+      "score": 52.5,
+      "short_term": {
+        "score": 55,
+        "signal": "Hold",
+        "details": [
+          "🔥 Whale Flow Detected (Volume Spike)"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,445원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Whale Entry",
+        "consecutive_days": 1
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 237357.14285714287,
+      "badges": [
+        "Macro Risk",
+        "Whale Entry"
+      ],
+      "price_info": {
+        "current": 255500,
+        "change_pct": 7.127882599580712,
+        "currency": "KRW"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "298380.KQ",
+      "name": "에이비엘바이오",
+      "score": 52.5,
+      "short_term": {
+        "score": 55,
+        "signal": "Hold",
+        "details": [
+          "🔥 Whale Flow Detected (Volume Spike)"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,445원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Whale Entry",
+        "consecutive_days": 1
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 209271.42857142858,
+      "badges": [
+        "Macro Risk",
+        "Whale Entry"
+      ],
+      "price_info": {
+        "current": 241000,
+        "change_pct": 21.71717171717172,
+        "currency": "KRW"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "028300.KQ",
+      "name": "HLB",
+      "score": 52.5,
+      "short_term": {
+        "score": 55,
+        "signal": "Hold",
+        "details": [
+          "🔥 Whale Flow Detected (Volume Spike)"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,445원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Whale Entry",
+        "consecutive_days": 1
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 57214.28571428572,
+      "badges": [
+        "Macro Risk",
+        "Whale Entry"
+      ],
+      "price_info": {
+        "current": 63100,
+        "change_pct": 10.12216404886562,
+        "currency": "KRW"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "141080.KQ",
+      "name": "리가켐바이오",
+      "score": 52.5,
+      "short_term": {
+        "score": 55,
+        "signal": "Hold",
+        "details": [
+          "🔥 Whale Flow Detected (Volume Spike)"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,445원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Whale Entry",
+        "consecutive_days": 1
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 163285.7142857143,
+      "badges": [
+        "Macro Risk",
+        "Whale Entry"
+      ],
+      "price_info": {
+        "current": 185600,
+        "change_pct": 11.874623267028332,
+        "currency": "KRW"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "087010.KQ",
+      "name": "펩트론",
+      "score": 52.5,
+      "short_term": {
+        "score": 55,
+        "signal": "Hold",
+        "details": [
+          "🔥 Whale Flow Detected (Volume Spike)"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,445원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Whale Entry",
+        "consecutive_days": 1
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 240821.42857142858,
+      "badges": [
+        "Macro Risk",
+        "Whale Entry"
+      ],
+      "price_info": {
+        "current": 280000,
+        "change_pct": 10.236220472440944,
+        "currency": "KRW"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "214450.KQ",
+      "name": "파마리서치",
+      "score": 52.5,
+      "short_term": {
+        "score": 55,
+        "signal": "Hold",
+        "details": [
+          "🔥 Whale Flow Detected (Volume Spike)"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,445원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Whale Entry",
+        "consecutive_days": 1
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 444142.85714285716,
+      "badges": [
+        "Macro Risk",
+        "Whale Entry"
+      ],
+      "price_info": {
+        "current": 501000,
+        "change_pct": 5.807814149947202,
+        "currency": "KRW"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "108490.KQ",
+      "name": "로보티즈",
+      "score": 52.5,
+      "short_term": {
+        "score": 55,
+        "signal": "Hold",
+        "details": [
+          "🔥 Whale Flow Detected (Volume Spike)"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,445원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Whale Entry",
+        "consecutive_days": 1
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 238642.85714285716,
+      "badges": [
+        "Macro Risk",
+        "Whale Entry"
+      ],
+      "price_info": {
+        "current": 280500,
+        "change_pct": 12.877263581488934,
+        "currency": "KRW"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "068760.KQ",
+      "name": "셀트리온제약",
+      "score": 52.5,
+      "short_term": {
+        "score": 55,
+        "signal": "Hold",
+        "details": [
+          "🔥 Whale Flow Detected (Volume Spike)"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,445원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Whale Entry",
+        "consecutive_days": 1
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 65485.71428571428,
+      "badges": [
+        "Macro Risk",
+        "Whale Entry"
+      ],
+      "price_info": {
+        "current": 70000,
+        "change_pct": 10.236220472440944,
+        "currency": "KRW"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "000660.KS",
+      "name": "SK하이닉스",
+      "score": 42.5,
+      "short_term": {
+        "score": 35,
+        "signal": "Hold",
+        "details": []
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,445원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 676714.2857142857,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 736000,
+        "change_pct": -4.041720990873533,
+        "currency": "KRW"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "373220.KS",
+      "name": "LG에너지솔루션",
+      "score": 42.5,
+      "short_term": {
+        "score": 35,
+        "signal": "Hold",
+        "details": []
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,445원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 387071.4285714286,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 416000,
+        "change_pct": 0.9708737864077669,
+        "currency": "KRW"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "005935.KS",
+      "name": "삼성전자우",
+      "score": 42.5,
+      "short_term": {
+        "score": 35,
+        "signal": "Hold",
+        "details": []
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,445원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 102400.0,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 110900,
+        "change_pct": -0.3593890386343217,
+        "currency": "KRW"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "207940.KS",
+      "name": "삼성바이오로직스",
+      "score": 42.5,
+      "short_term": {
+        "score": 35,
+        "signal": "Hold",
+        "details": []
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,445원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 1679428.5714285714,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 1807000,
+        "change_pct": 0.27746947835738067,
+        "currency": "KRW"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "329180.KS",
+      "name": "HD현대중공업",
+      "score": 42.5,
+      "short_term": {
+        "score": 35,
+        "signal": "Hold",
+        "details": []
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,445원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 549428.5714285715,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 605000,
+        "change_pct": -3.508771929824561,
+        "currency": "KRW"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "000270.KS",
+      "name": "기아",
+      "score": 42.5,
+      "short_term": {
+        "score": 35,
+        "signal": "Hold",
+        "details": []
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,445원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 134064.2857142857,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 155200,
+        "change_pct": -2.3899371069182394,
+        "currency": "KRW"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "034020.KS",
+      "name": "두산에너빌리티",
+      "score": 42.5,
+      "short_term": {
+        "score": 35,
+        "signal": "Hold",
+        "details": []
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,445원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 83128.57142857143,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 91800,
+        "change_pct": -1.607717041800643,
+        "currency": "KRW"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "402340.KS",
+      "name": "SK스퀘어",
+      "score": 42.5,
+      "short_term": {
+        "score": 35,
+        "signal": "Hold",
+        "details": []
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,445원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 398285.71428571426,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 441000,
+        "change_pct": -1.0101010101010102,
+        "currency": "KRW"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "105560.KS",
+      "name": "KB금융",
+      "score": 42.5,
+      "short_term": {
+        "score": 35,
+        "signal": "Hold",
+        "details": []
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,445원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 127728.57142857143,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 135500,
+        "change_pct": -0.07374631268436578,
+        "currency": "KRW"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "068270.KS",
+      "name": "셀트리온",
+      "score": 42.5,
+      "short_term": {
+        "score": 35,
+        "signal": "Hold",
+        "details": []
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,445원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 200785.7142857143,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 215000,
+        "change_pct": 1.4150943396226416,
+        "currency": "KRW"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "042660.KS",
+      "name": "한화오션",
+      "score": 42.5,
+      "short_term": {
+        "score": 35,
+        "signal": "Hold",
+        "details": []
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,445원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 124385.71428571429,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 139800,
+        "change_pct": -0.3563791874554526,
+        "currency": "KRW"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "035420.KS",
+      "name": "NAVER",
+      "score": 42.5,
+      "short_term": {
+        "score": 35,
+        "signal": "Hold",
+        "details": []
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,445원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 250357.14285714287,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 272500,
+        "change_pct": 2.443609022556391,
+        "currency": "KRW"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "055550.KS",
+      "name": "신한지주",
+      "score": 42.5,
+      "short_term": {
+        "score": 35,
+        "signal": "Hold",
+        "details": []
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,445원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 78214.28571428571,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 82400,
+        "change_pct": -1.7878426698450536,
+        "currency": "KRW"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "015760.KS",
+      "name": "한국전력",
+      "score": 42.5,
+      "short_term": {
+        "score": 35,
+        "signal": "Hold",
+        "details": []
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,445원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 53764.28571428572,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 60400,
+        "change_pct": -1.3071895424836601,
+        "currency": "KRW"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "032830.KS",
+      "name": "삼성생명",
+      "score": 42.5,
+      "short_term": {
+        "score": 35,
+        "signal": "Hold",
+        "details": []
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,445원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 167385.7142857143,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 182200,
+        "change_pct": -1.5667206915180982,
+        "currency": "KRW"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "267260.KS",
+      "name": "HD현대일렉트릭",
+      "score": 42.5,
+      "short_term": {
+        "score": 35,
+        "signal": "Hold",
+        "details": []
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,445원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 794000.0,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 872000,
+        "change_pct": -1.3574660633484164,
+        "currency": "KRW"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "009540.KS",
+      "name": "HD한국조선해양",
+      "score": 42.5,
+      "short_term": {
+        "score": 35,
+        "signal": "Hold",
+        "details": []
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,445원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 390642.85714285716,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 424000,
+        "change_pct": -2.7522935779816518,
+        "currency": "KRW"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "035720.KS",
+      "name": "카카오",
+      "score": 42.5,
+      "short_term": {
+        "score": 35,
+        "signal": "Hold",
+        "details": []
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,445원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 58057.142857142855,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 61800,
+        "change_pct": 1.3114754098360655,
+        "currency": "KRW"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "051910.KS",
+      "name": "LG화학",
+      "score": 42.5,
+      "short_term": {
+        "score": 35,
+        "signal": "Hold",
+        "details": []
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,445원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 319214.28571428574,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 349500,
+        "change_pct": -2.3743016759776534,
+        "currency": "KRW"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "064350.KS",
+      "name": "현대로템",
+      "score": 42.5,
+      "short_term": {
+        "score": 35,
+        "signal": "Hold",
+        "details": []
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,445원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 191257.14285714287,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 213000,
+        "change_pct": 2.6506024096385543,
+        "currency": "KRW"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "000810.KS",
+      "name": "삼성화재",
+      "score": 42.5,
+      "short_term": {
+        "score": 35,
+        "signal": "Hold",
+        "details": [
+          "⚡ Volatility Squeeze"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,445원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 463142.85714285716,
+      "badges": [
+        "Macro Risk",
+        "Squeeze Potential"
+      ],
+      "price_info": {
+        "current": 490500,
+        "change_pct": -0.3048780487804878,
+        "currency": "KRW"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "316140.KS",
+      "name": "우리금융지주",
+      "score": 42.5,
+      "short_term": {
+        "score": 35,
+        "signal": "Hold",
+        "details": [
+          "⚡ Volatility Squeeze"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,445원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 28150.0,
+      "badges": [
+        "Macro Risk",
+        "Squeeze Potential"
+      ],
+      "price_info": {
+        "current": 29550,
+        "change_pct": 0.0,
+        "currency": "KRW"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "034730.KS",
+      "name": "SK",
+      "score": 42.5,
+      "short_term": {
+        "score": 35,
+        "signal": "Hold",
+        "details": []
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,445원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 266142.85714285716,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 290000,
+        "change_pct": -2.1922428330522767,
+        "currency": "KRW"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "009150.KS",
+      "name": "삼성전기",
+      "score": 42.5,
+      "short_term": {
+        "score": 35,
+        "signal": "Hold",
+        "details": []
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,445원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 248500.0,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 275000,
+        "change_pct": 1.1029411764705883,
+        "currency": "KRW"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "003670.KS",
+      "name": "포스코퓨처엠",
+      "score": 42.5,
+      "short_term": {
+        "score": 35,
+        "signal": "Hold",
+        "details": [
+          "⚠️ Overbought (RSI 72)",
+          "🔥 Whale Flow Detected (Volume Spike)"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,445원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Whale Entry",
+        "consecutive_days": 1
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 205328.57142857142,
+      "badges": [
+        "Macro Risk",
+        "Whale Entry"
+      ],
+      "price_info": {
+        "current": 228500,
+        "change_pct": 6.775700934579438,
+        "currency": "KRW"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "096770.KS",
+      "name": "SK이노베이션",
+      "score": 42.5,
+      "short_term": {
+        "score": 35,
+        "signal": "Hold",
+        "details": []
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,445원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 105714.28571428571,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 114100,
+        "change_pct": 2.423698384201077,
+        "currency": "KRW"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "011200.KS",
+      "name": "HMM",
+      "score": 42.5,
+      "short_term": {
+        "score": 35,
+        "signal": "Hold",
+        "details": [
+          "⚡ Volatility Squeeze"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,445원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 18942.85714285714,
+      "badges": [
+        "Macro Risk",
+        "Squeeze Potential"
+      ],
+      "price_info": {
+        "current": 20100,
+        "change_pct": -1.2285012285012284,
+        "currency": "KRW"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "006800.KS",
+      "name": "미래에셋증권",
+      "score": 42.5,
+      "short_term": {
+        "score": 35,
+        "signal": "Hold",
+        "details": []
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,445원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 29271.428571428572,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 33300,
+        "change_pct": -4.310344827586207,
+        "currency": "KRW"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "138040.KS",
+      "name": "메리츠금융지주",
+      "score": 42.5,
+      "short_term": {
+        "score": 35,
+        "signal": "Hold",
+        "details": []
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,445원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 100828.57142857143,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 107600,
+        "change_pct": 0.186219739292365,
+        "currency": "KRW"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "033780.KS",
+      "name": "KT&G",
+      "score": 42.5,
+      "short_term": {
+        "score": 35,
+        "signal": "Hold",
+        "details": [
+          "⚡ Volatility Squeeze"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,445원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 136257.14285714287,
+      "badges": [
+        "Macro Risk",
+        "Squeeze Potential"
+      ],
+      "price_info": {
+        "current": 142000,
+        "change_pct": -2.001380262249828,
+        "currency": "KRW"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "066570.KS",
+      "name": "LG전자",
+      "score": 42.5,
+      "short_term": {
+        "score": 35,
+        "signal": "Hold",
+        "details": []
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,445원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 91657.14285714286,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 102500,
+        "change_pct": -2.9356060606060606,
+        "currency": "KRW"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "024110.KS",
+      "name": "기업은행",
+      "score": 42.5,
+      "short_term": {
+        "score": 35,
+        "signal": "Hold",
+        "details": [
+          "⚡ Volatility Squeeze"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,445원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 20200.0,
+      "badges": [
+        "Macro Risk",
+        "Squeeze Potential"
+      ],
+      "price_info": {
+        "current": 20900,
+        "change_pct": -0.7125890736342043,
+        "currency": "KRW"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "042700.KS",
+      "name": "한미반도체",
+      "score": 42.5,
+      "short_term": {
+        "score": 35,
+        "signal": "Hold",
+        "details": []
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,445원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 150271.42857142858,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 169500,
+        "change_pct": -0.9351256575102279,
+        "currency": "KRW"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "010120.KS",
+      "name": "LS ELECTRIC",
+      "score": 42.5,
+      "short_term": {
+        "score": 35,
+        "signal": "Hold",
+        "details": []
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,445원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 448428.5714285714,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 501000,
+        "change_pct": -1.5717092337917484,
+        "currency": "KRW"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "000150.KS",
+      "name": "두산",
+      "score": 42.5,
+      "short_term": {
+        "score": 35,
+        "signal": "Hold",
+        "details": []
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,445원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 791285.7142857143,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 890000,
+        "change_pct": -5.9196617336152215,
+        "currency": "KRW"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "003550.KS",
+      "name": "LG",
+      "score": 42.5,
+      "short_term": {
+        "score": 35,
+        "signal": "Hold",
+        "details": []
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,445원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 83014.28571428571,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 89600,
+        "change_pct": -3.965702036441586,
+        "currency": "KRW"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "030200.KS",
+      "name": "KT",
+      "score": 42.5,
+      "short_term": {
+        "score": 35,
+        "signal": "Hold",
+        "details": [
+          "⚡ Volatility Squeeze"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,445원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 51857.142857142855,
+      "badges": [
+        "Macro Risk",
+        "Squeeze Potential"
+      ],
+      "price_info": {
+        "current": 54400,
+        "change_pct": 0.36900369003690037,
+        "currency": "KRW"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "018260.KS",
+      "name": "삼성에스디에스",
+      "score": 42.5,
+      "short_term": {
+        "score": 35,
+        "signal": "Hold",
+        "details": [
+          "⚡ Volatility Squeeze"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,445원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 159157.14285714287,
+      "badges": [
+        "Macro Risk",
+        "Squeeze Potential"
+      ],
+      "price_info": {
+        "current": 172200,
+        "change_pct": -1.3180515759312321,
+        "currency": "KRW"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "307950.KS",
+      "name": "현대오토에버",
+      "score": 42.5,
+      "short_term": {
+        "score": 35,
+        "signal": "Hold",
+        "details": []
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,445원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 342428.5714285714,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 433500,
+        "change_pct": -3.128491620111732,
+        "currency": "KRW"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "079550.KS",
+      "name": "LIG넥스원",
+      "score": 42.5,
+      "short_term": {
+        "score": 35,
+        "signal": "Hold",
+        "details": []
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,445원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 475428.5714285714,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 529000,
+        "change_pct": 0.1893939393939394,
+        "currency": "KRW"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "323410.KS",
+      "name": "카카오뱅크",
+      "score": 42.5,
+      "short_term": {
+        "score": 35,
+        "signal": "Hold",
+        "details": []
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,445원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 21714.285714285714,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 23050,
+        "change_pct": -1.9148936170212765,
+        "currency": "KRW"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "039490.KS",
+      "name": "키움증권",
+      "score": 42.5,
+      "short_term": {
+        "score": 35,
+        "signal": "Hold",
+        "details": []
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,445원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 326678.5714285714,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 358500,
+        "change_pct": 4.366812227074235,
+        "currency": "KRW"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      }
+    }
+  ]
+}

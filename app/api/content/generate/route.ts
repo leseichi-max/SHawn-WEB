@@ -11,8 +11,9 @@ export async function POST(req: NextRequest) {
         const botRepoPath = "/Users/soohyunglee/Documents/GitHub/SHawn-BOT";
         const scriptPath = path.join(botRepoPath, "engines", "content_engine.py");
 
-        // CLI 명령 구성
-        const command = `python3 ${scriptPath} --type ${type || "quote"} ${topic ? `--topic "${topic}"` : ""} --style ${style || "sovereign"}`;
+        // CLI 명령 구성 (.venv 파이썬 사용)
+        const pythonPath = "/Users/soohyunglee/Documents/GitHub/.venv/bin/python3";
+        const command = `${pythonPath} ${scriptPath} --type ${type || "quote"} ${topic ? `--topic "${topic}"` : ""} --style ${style || "sovereign"}`;
 
         console.log(`[API] Executing command: ${command}`);
 

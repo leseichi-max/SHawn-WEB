@@ -1,0 +1,2288 @@
+{
+  "meta": {
+    "market": "US",
+    "date": "2026-01-26",
+    "time": "23:31:50",
+    "timestamp": "2026-01-26T23:31:50.128814",
+    "avg_score": 0.0,
+    "buy_count": 0,
+    "sell_count": 50,
+    "high_growth_count": 0,
+    "top_alpha_ticker": "CARR"
+  },
+  "reports": [
+    {
+      "ticker": "CARR",
+      "name": "CARR",
+      "score": 0,
+      "short_term": {
+        "score": 40,
+        "signal": "Hold",
+        "details": [
+          "⚖️ RSI Neutral (66)"
+        ]
+      },
+      "long_term": {
+        "score": 0,
+        "signal": "NEUTRAL",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,443원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "Analysis Failed: name 'fwd_pe' is not defined",
+      "stop_loss": 54.17714309692383,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 0,
+        "change_pct": 0,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (API Blocked)",
+        "layers": []
+      },
+      "rank": 1
+    },
+    {
+      "ticker": "ALGN",
+      "name": "ALGN",
+      "score": 0,
+      "short_term": {
+        "score": 40,
+        "signal": "Hold",
+        "details": [
+          "⚖️ RSI Neutral (62)"
+        ]
+      },
+      "long_term": {
+        "score": 0,
+        "signal": "NEUTRAL",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,443원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "Analysis Failed: name 'fwd_pe' is not defined",
+      "stop_loss": 159.00000217982702,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 0,
+        "change_pct": 0,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (API Blocked)",
+        "layers": []
+      },
+      "rank": 2
+    },
+    {
+      "ticker": "AMT",
+      "name": "AMT",
+      "score": 0,
+      "short_term": {
+        "score": 40,
+        "signal": "Hold",
+        "details": [
+          "⚖️ RSI Neutral (56)"
+        ]
+      },
+      "long_term": {
+        "score": 0,
+        "signal": "NEUTRAL",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,443원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "Analysis Failed: name 'fwd_pe' is not defined",
+      "stop_loss": 171.11857386997767,
+      "badges": [
+        "Macro Risk",
+        "Squeeze Potential"
+      ],
+      "price_info": {
+        "current": 0,
+        "change_pct": 0,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (API Blocked)",
+        "layers": []
+      },
+      "rank": 3
+    },
+    {
+      "ticker": "AJG",
+      "name": "AJG",
+      "score": 0,
+      "short_term": {
+        "score": 55,
+        "signal": "Hold",
+        "details": [
+          "❄️ Oversold (RSI 34)"
+        ]
+      },
+      "long_term": {
+        "score": 0,
+        "signal": "NEUTRAL",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,443원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "Analysis Failed: name 'fwd_pe' is not defined",
+      "stop_loss": 241.0085688999721,
+      "badges": [
+        "Macro Risk",
+        "Squeeze Potential"
+      ],
+      "price_info": {
+        "current": 0,
+        "change_pct": 0,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (API Blocked)",
+        "layers": []
+      },
+      "rank": 4
+    },
+    {
+      "ticker": "ALLE",
+      "name": "ALLE",
+      "score": 0,
+      "short_term": {
+        "score": 40,
+        "signal": "Hold",
+        "details": [
+          "⚖️ RSI Neutral (64)"
+        ]
+      },
+      "long_term": {
+        "score": 0,
+        "signal": "NEUTRAL",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,443원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "Analysis Failed: name 'fwd_pe' is not defined",
+      "stop_loss": 160.62000165666853,
+      "badges": [
+        "Macro Risk",
+        "Squeeze Potential"
+      ],
+      "price_info": {
+        "current": 0,
+        "change_pct": 0,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (API Blocked)",
+        "layers": []
+      },
+      "rank": 5
+    },
+    {
+      "ticker": "BG",
+      "name": "BG",
+      "score": 0,
+      "short_term": {
+        "score": 20,
+        "signal": "SellNow",
+        "details": [
+          "⛔ extreme Overbought (RSI 90)",
+          "🚀 Strong 5D Momentum (+6.4%)"
+        ]
+      },
+      "long_term": {
+        "score": 0,
+        "signal": "NEUTRAL",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,443원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "Analysis Failed: name 'fwd_pe' is not defined",
+      "stop_loss": 108.85342734200614,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 0,
+        "change_pct": 0,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (API Blocked)",
+        "layers": []
+      },
+      "rank": 6
+    },
+    {
+      "ticker": "MO",
+      "name": "MO",
+      "score": 0,
+      "short_term": {
+        "score": 20,
+        "signal": "SellNow",
+        "details": [
+          "⚠️ Overbought (RSI 78)"
+        ]
+      },
+      "long_term": {
+        "score": 0,
+        "signal": "NEUTRAL",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,443원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "Analysis Failed: name 'fwd_pe' is not defined",
+      "stop_loss": 60.027144295828684,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 0,
+        "change_pct": 0,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (API Blocked)",
+        "layers": []
+      },
+      "rank": 7
+    },
+    {
+      "ticker": "CAT",
+      "name": "CAT",
+      "score": 0,
+      "short_term": {
+        "score": 40,
+        "signal": "Hold",
+        "details": [
+          "⚖️ RSI Neutral (53)"
+        ]
+      },
+      "long_term": {
+        "score": 0,
+        "signal": "NEUTRAL",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,443원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "Analysis Failed: name 'fwd_pe' is not defined",
+      "stop_loss": 592.1248168945312,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 0,
+        "change_pct": 0,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (API Blocked)",
+        "layers": []
+      },
+      "rank": 8
+    },
+    {
+      "ticker": "CNP",
+      "name": "CNP",
+      "score": 0,
+      "short_term": {
+        "score": 40,
+        "signal": "Hold",
+        "details": [
+          "⚖️ RSI Neutral (61)"
+        ]
+      },
+      "long_term": {
+        "score": 0,
+        "signal": "NEUTRAL",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,443원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "Analysis Failed: name 'fwd_pe' is not defined",
+      "stop_loss": 37.92714309692383,
+      "badges": [
+        "Macro Risk",
+        "Squeeze Potential"
+      ],
+      "price_info": {
+        "current": 0,
+        "change_pct": 0,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (API Blocked)",
+        "layers": []
+      },
+      "rank": 9
+    },
+    {
+      "ticker": "BA",
+      "name": "BA",
+      "score": 0,
+      "short_term": {
+        "score": 20,
+        "signal": "SellNow",
+        "details": [
+          "⚠️ Overbought (RSI 79)"
+        ]
+      },
+      "long_term": {
+        "score": 0,
+        "signal": "NEUTRAL",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,443원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "Analysis Failed: name 'fwd_pe' is not defined",
+      "stop_loss": 237.6014360700335,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 0,
+        "change_pct": 0,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (API Blocked)",
+        "layers": []
+      },
+      "rank": 10
+    },
+    {
+      "ticker": "ADM",
+      "name": "ADM",
+      "score": 0,
+      "short_term": {
+        "score": 20,
+        "signal": "SellNow",
+        "details": [
+          "⚠️ Overbought (RSI 75)"
+        ]
+      },
+      "long_term": {
+        "score": 0,
+        "signal": "NEUTRAL",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,443원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "Analysis Failed: name 'fwd_pe' is not defined",
+      "stop_loss": 64.0528564453125,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 0,
+        "change_pct": 0,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (API Blocked)",
+        "layers": []
+      },
+      "rank": 11
+    },
+    {
+      "ticker": "CAH",
+      "name": "CAH",
+      "score": 0,
+      "short_term": {
+        "score": 40,
+        "signal": "Hold",
+        "details": [
+          "⚖️ RSI Neutral (57)"
+        ]
+      },
+      "long_term": {
+        "score": 0,
+        "signal": "NEUTRAL",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,443원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "Analysis Failed: name 'fwd_pe' is not defined",
+      "stop_loss": 200.8000008719308,
+      "badges": [
+        "Macro Risk",
+        "Squeeze Potential"
+      ],
+      "price_info": {
+        "current": 0,
+        "change_pct": 0,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (API Blocked)",
+        "layers": []
+      },
+      "rank": 12
+    },
+    {
+      "ticker": "AXP",
+      "name": "AXP",
+      "score": 0,
+      "short_term": {
+        "score": 40,
+        "signal": "Hold",
+        "details": [
+          "⚖️ RSI Neutral (40)"
+        ]
+      },
+      "long_term": {
+        "score": 0,
+        "signal": "NEUTRAL",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,443원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "Analysis Failed: name 'fwd_pe' is not defined",
+      "stop_loss": 344.2418648856027,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 0,
+        "change_pct": 0,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (API Blocked)",
+        "layers": []
+      },
+      "rank": 13
+    },
+    {
+      "ticker": "ATO",
+      "name": "ATO",
+      "score": 0,
+      "short_term": {
+        "score": 40,
+        "signal": "Hold",
+        "details": [
+          "⚖️ RSI Neutral (52)"
+        ]
+      },
+      "long_term": {
+        "score": 0,
+        "signal": "NEUTRAL",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,443원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "Analysis Failed: name 'fwd_pe' is not defined",
+      "stop_loss": 162.40036010742188,
+      "badges": [
+        "Macro Risk",
+        "Squeeze Potential"
+      ],
+      "price_info": {
+        "current": 0,
+        "change_pct": 0,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (API Blocked)",
+        "layers": []
+      },
+      "rank": 14
+    },
+    {
+      "ticker": "CPB",
+      "name": "CPB",
+      "score": 0,
+      "short_term": {
+        "score": 40,
+        "signal": "Hold",
+        "details": [
+          "⚖️ RSI Neutral (54)"
+        ]
+      },
+      "long_term": {
+        "score": 0,
+        "signal": "NEUTRAL",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,443원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "Analysis Failed: name 'fwd_pe' is not defined",
+      "stop_loss": 25.73499952043806,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 0,
+        "change_pct": 0,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (API Blocked)",
+        "layers": []
+      },
+      "rank": 15
+    },
+    {
+      "ticker": "COR",
+      "name": "COR",
+      "score": 0,
+      "short_term": {
+        "score": 40,
+        "signal": "Hold",
+        "details": [
+          "⚖️ RSI Neutral (65)"
+        ]
+      },
+      "long_term": {
+        "score": 0,
+        "signal": "NEUTRAL",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,443원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "Analysis Failed: name 'fwd_pe' is not defined",
+      "stop_loss": 339.3794599260603,
+      "badges": [
+        "Macro Risk",
+        "Squeeze Potential"
+      ],
+      "price_info": {
+        "current": 0,
+        "change_pct": 0,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (API Blocked)",
+        "layers": []
+      },
+      "rank": 16
+    },
+    {
+      "ticker": "BLK",
+      "name": "BLK",
+      "score": 0,
+      "short_term": {
+        "score": 40,
+        "signal": "Hold",
+        "details": [
+          "⚖️ RSI Neutral (54)"
+        ]
+      },
+      "long_term": {
+        "score": 0,
+        "signal": "NEUTRAL",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,443원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "Analysis Failed: name 'fwd_pe' is not defined",
+      "stop_loss": 1085.448521205357,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 0,
+        "change_pct": 0,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (API Blocked)",
+        "layers": []
+      },
+      "rank": 17
+    },
+    {
+      "ticker": "AVY",
+      "name": "AVY",
+      "score": 0,
+      "short_term": {
+        "score": 40,
+        "signal": "Hold",
+        "details": [
+          "⚖️ RSI Neutral (59)"
+        ]
+      },
+      "long_term": {
+        "score": 0,
+        "signal": "NEUTRAL",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,443원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "Analysis Failed: name 'fwd_pe' is not defined",
+      "stop_loss": 179.2757088797433,
+      "badges": [
+        "Macro Risk",
+        "Squeeze Potential"
+      ],
+      "price_info": {
+        "current": 0,
+        "change_pct": 0,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (API Blocked)",
+        "layers": []
+      },
+      "rank": 18
+    },
+    {
+      "ticker": "BALL",
+      "name": "BALL",
+      "score": 0,
+      "short_term": {
+        "score": 20,
+        "signal": "SellNow",
+        "details": [
+          "⚠️ Overbought (RSI 75)"
+        ]
+      },
+      "long_term": {
+        "score": 0,
+        "signal": "NEUTRAL",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,443원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "Analysis Failed: name 'fwd_pe' is not defined",
+      "stop_loss": 55.26714106968471,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 0,
+        "change_pct": 0,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (API Blocked)",
+        "layers": []
+      },
+      "rank": 19
+    },
+    {
+      "ticker": "BR",
+      "name": "BR",
+      "score": 0,
+      "short_term": {
+        "score": 55,
+        "signal": "Hold",
+        "details": [
+          "❄️ Oversold (RSI 25)"
+        ]
+      },
+      "long_term": {
+        "score": 0,
+        "signal": "NEUTRAL",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,443원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "Analysis Failed: name 'fwd_pe' is not defined",
+      "stop_loss": 199.58572823660714,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 0,
+        "change_pct": 0,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (API Blocked)",
+        "layers": []
+      },
+      "rank": 20
+    },
+    {
+      "ticker": "BIIB",
+      "name": "BIIB",
+      "score": 0,
+      "short_term": {
+        "score": 55,
+        "signal": "Hold",
+        "details": [
+          "⚖️ RSI Neutral (49)",
+          "🚀 Strong 5D Momentum (+5.3%)"
+        ]
+      },
+      "long_term": {
+        "score": 0,
+        "signal": "NEUTRAL",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,443원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "Analysis Failed: name 'fwd_pe' is not defined",
+      "stop_loss": 161.65826416015625,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 0,
+        "change_pct": 0,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (API Blocked)",
+        "layers": []
+      },
+      "rank": 21
+    },
+    {
+      "ticker": "AMAT",
+      "name": "AMAT",
+      "score": 0,
+      "short_term": {
+        "score": 40,
+        "signal": "Hold",
+        "details": [
+          "⚖️ RSI Neutral (65)"
+        ]
+      },
+      "long_term": {
+        "score": 0,
+        "signal": "NEUTRAL",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,443원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "Analysis Failed: name 'fwd_pe' is not defined",
+      "stop_loss": 293.0700029645647,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 0,
+        "change_pct": 0,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (API Blocked)",
+        "layers": []
+      },
+      "rank": 22
+    },
+    {
+      "ticker": "AWK",
+      "name": "AWK",
+      "score": 0,
+      "short_term": {
+        "score": 40,
+        "signal": "Hold",
+        "details": [
+          "⚖️ RSI Neutral (60)"
+        ]
+      },
+      "long_term": {
+        "score": 0,
+        "signal": "NEUTRAL",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,443원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "Analysis Failed: name 'fwd_pe' is not defined",
+      "stop_loss": 125.73857661655971,
+      "badges": [
+        "Macro Risk",
+        "Squeeze Potential"
+      ],
+      "price_info": {
+        "current": 0,
+        "change_pct": 0,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (API Blocked)",
+        "layers": []
+      },
+      "rank": 23
+    },
+    {
+      "ticker": "BKR",
+      "name": "BKR",
+      "score": 0,
+      "short_term": {
+        "score": 35,
+        "signal": "Hold",
+        "details": [
+          "⚠️ Overbought (RSI 71)",
+          "🚀 Strong 5D Momentum (+6.6%)"
+        ]
+      },
+      "long_term": {
+        "score": 0,
+        "signal": "NEUTRAL",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,443원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "Analysis Failed: name 'fwd_pe' is not defined",
+      "stop_loss": 51.87142726353237,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 0,
+        "change_pct": 0,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (API Blocked)",
+        "layers": []
+      },
+      "rank": 24
+    },
+    {
+      "ticker": "ADSK",
+      "name": "ADSK",
+      "score": 0,
+      "short_term": {
+        "score": 40,
+        "signal": "Hold",
+        "details": [
+          "⚖️ RSI Neutral (39)"
+        ]
+      },
+      "long_term": {
+        "score": 0,
+        "signal": "NEUTRAL",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,443원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "Analysis Failed: name 'fwd_pe' is not defined",
+      "stop_loss": 255.4292755126953,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 0,
+        "change_pct": 0,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (API Blocked)",
+        "layers": []
+      },
+      "rank": 25
+    },
+    {
+      "ticker": "BRO",
+      "name": "BRO",
+      "score": 0,
+      "short_term": {
+        "score": 40,
+        "signal": "Hold",
+        "details": [
+          "⚖️ RSI Neutral (47)"
+        ]
+      },
+      "long_term": {
+        "score": 0,
+        "signal": "NEUTRAL",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,443원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "Analysis Failed: name 'fwd_pe' is not defined",
+      "stop_loss": 75.95713806152344,
+      "badges": [
+        "Macro Risk",
+        "Squeeze Potential"
+      ],
+      "price_info": {
+        "current": 0,
+        "change_pct": 0,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (API Blocked)",
+        "layers": []
+      },
+      "rank": 26
+    },
+    {
+      "ticker": "AEP",
+      "name": "AEP",
+      "score": 0,
+      "short_term": {
+        "score": 40,
+        "signal": "Hold",
+        "details": [
+          "⚖️ RSI Neutral (63)"
+        ]
+      },
+      "long_term": {
+        "score": 0,
+        "signal": "NEUTRAL",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,443원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "Analysis Failed: name 'fwd_pe' is not defined",
+      "stop_loss": 113.75714111328125,
+      "badges": [
+        "Macro Risk",
+        "Squeeze Potential"
+      ],
+      "price_info": {
+        "current": 0,
+        "change_pct": 0,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (API Blocked)",
+        "layers": []
+      },
+      "rank": 27
+    },
+    {
+      "ticker": "AMD",
+      "name": "AMD",
+      "score": 0,
+      "short_term": {
+        "score": 35,
+        "signal": "Hold",
+        "details": [
+          "⚠️ Overbought (RSI 72)",
+          "🚀 Strong 5D Momentum (+10.3%)"
+        ]
+      },
+      "long_term": {
+        "score": 0,
+        "signal": "NEUTRAL",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,443원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "Analysis Failed: name 'fwd_pe' is not defined",
+      "stop_loss": 234.36988394601005,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 0,
+        "change_pct": 0,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (API Blocked)",
+        "layers": []
+      },
+      "rank": 28
+    },
+    {
+      "ticker": "APA",
+      "name": "APA",
+      "score": 0,
+      "short_term": {
+        "score": 40,
+        "signal": "Hold",
+        "details": [
+          "⚖️ RSI Neutral (58)"
+        ]
+      },
+      "long_term": {
+        "score": 0,
+        "signal": "NEUTRAL",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,443원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "Analysis Failed: name 'fwd_pe' is not defined",
+      "stop_loss": 23.78582763671875,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 0,
+        "change_pct": 0,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (API Blocked)",
+        "layers": []
+      },
+      "rank": 29
+    },
+    {
+      "ticker": "AAPL",
+      "name": "AAPL",
+      "score": 0,
+      "short_term": {
+        "score": 55,
+        "signal": "Hold",
+        "details": [
+          "❄️ Oversold (RSI 20)"
+        ]
+      },
+      "long_term": {
+        "score": 0,
+        "signal": "NEUTRAL",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,443원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "Analysis Failed: name 'fwd_pe' is not defined",
+      "stop_loss": 240.38143702915735,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 0,
+        "change_pct": 0,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (API Blocked)",
+        "layers": []
+      },
+      "rank": 30
+    },
+    {
+      "ticker": "CF",
+      "name": "CF",
+      "score": 0,
+      "short_term": {
+        "score": 35,
+        "signal": "Hold",
+        "details": [
+          "⚠️ Overbought (RSI 73)",
+          "🚀 Strong 5D Momentum (+7.0%)"
+        ]
+      },
+      "long_term": {
+        "score": 0,
+        "signal": "NEUTRAL",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,443원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "Analysis Failed: name 'fwd_pe' is not defined",
+      "stop_loss": 86.08928789411273,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 0,
+        "change_pct": 0,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (API Blocked)",
+        "layers": []
+      },
+      "rank": 31
+    },
+    {
+      "ticker": "BLDR",
+      "name": "BLDR",
+      "score": 0,
+      "short_term": {
+        "score": 40,
+        "signal": "Hold",
+        "details": [
+          "⚖️ RSI Neutral (64)"
+        ]
+      },
+      "long_term": {
+        "score": 0,
+        "signal": "NEUTRAL",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,443원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "Analysis Failed: name 'fwd_pe' is not defined",
+      "stop_loss": 111.30999755859375,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 0,
+        "change_pct": 0,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (API Blocked)",
+        "layers": []
+      },
+      "rank": 32
+    },
+    {
+      "ticker": "COF",
+      "name": "COF",
+      "score": 0,
+      "short_term": {
+        "score": 45,
+        "signal": "Hold",
+        "details": [
+          "❄️ Oversold (RSI 30)",
+          "📉 Weakening Trend (-8.7%)"
+        ]
+      },
+      "long_term": {
+        "score": 0,
+        "signal": "NEUTRAL",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,443원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "Analysis Failed: name 'fwd_pe' is not defined",
+      "stop_loss": 201.09071350097656,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 0,
+        "change_pct": 0,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (API Blocked)",
+        "layers": []
+      },
+      "rank": 33
+    },
+    {
+      "ticker": "BMY",
+      "name": "BMY",
+      "score": 0,
+      "short_term": {
+        "score": 40,
+        "signal": "Hold",
+        "details": [
+          "⚖️ RSI Neutral (59)"
+        ]
+      },
+      "long_term": {
+        "score": 0,
+        "signal": "NEUTRAL",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,443원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "Analysis Failed: name 'fwd_pe' is not defined",
+      "stop_loss": 52.320713588169646,
+      "badges": [
+        "Macro Risk",
+        "Squeeze Potential"
+      ],
+      "price_info": {
+        "current": 0,
+        "change_pct": 0,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (API Blocked)",
+        "layers": []
+      },
+      "rank": 34
+    },
+    {
+      "ticker": "ADP",
+      "name": "ADP",
+      "score": 0,
+      "short_term": {
+        "score": 40,
+        "signal": "Hold",
+        "details": [
+          "⚖️ RSI Neutral (54)"
+        ]
+      },
+      "long_term": {
+        "score": 0,
+        "signal": "NEUTRAL",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,443원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "Analysis Failed: name 'fwd_pe' is not defined",
+      "stop_loss": 251.06143188476562,
+      "badges": [
+        "Macro Risk",
+        "Squeeze Potential"
+      ],
+      "price_info": {
+        "current": 0,
+        "change_pct": 0,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (API Blocked)",
+        "layers": []
+      },
+      "rank": 35
+    },
+    {
+      "ticker": "AXON",
+      "name": "AXON",
+      "score": 0,
+      "short_term": {
+        "score": 40,
+        "signal": "Hold",
+        "details": [
+          "⚖️ RSI Neutral (59)"
+        ]
+      },
+      "long_term": {
+        "score": 0,
+        "signal": "NEUTRAL",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,443원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "Analysis Failed: name 'fwd_pe' is not defined",
+      "stop_loss": 570.4385811941964,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 0,
+        "change_pct": 0,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (API Blocked)",
+        "layers": []
+      },
+      "rank": 36
+    },
+    {
+      "ticker": "AOS",
+      "name": "AOS",
+      "score": 0,
+      "short_term": {
+        "score": 40,
+        "signal": "Hold",
+        "details": [
+          "⚖️ RSI Neutral (65)"
+        ]
+      },
+      "long_term": {
+        "score": 0,
+        "signal": "NEUTRAL",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,443원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "Analysis Failed: name 'fwd_pe' is not defined",
+      "stop_loss": 69.22714015415737,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 0,
+        "change_pct": 0,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (API Blocked)",
+        "layers": []
+      },
+      "rank": 37
+    },
+    {
+      "ticker": "T",
+      "name": "T",
+      "score": 0,
+      "short_term": {
+        "score": 55,
+        "signal": "Hold",
+        "details": [
+          "❄️ Oversold (RSI 33)"
+        ]
+      },
+      "long_term": {
+        "score": 0,
+        "signal": "NEUTRAL",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,443원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "Analysis Failed: name 'fwd_pe' is not defined",
+      "stop_loss": 22.920000076293945,
+      "badges": [
+        "Macro Risk",
+        "Squeeze Potential"
+      ],
+      "price_info": {
+        "current": 0,
+        "change_pct": 0,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (API Blocked)",
+        "layers": []
+      },
+      "rank": 38
+    },
+    {
+      "ticker": "APD",
+      "name": "APD",
+      "score": 0,
+      "short_term": {
+        "score": 40,
+        "signal": "Hold",
+        "details": [
+          "⚖️ RSI Neutral (62)"
+        ]
+      },
+      "long_term": {
+        "score": 0,
+        "signal": "NEUTRAL",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,443원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "Analysis Failed: name 'fwd_pe' is not defined",
+      "stop_loss": 252.19570922851562,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 0,
+        "change_pct": 0,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (API Blocked)",
+        "layers": []
+      },
+      "rank": 39
+    },
+    {
+      "ticker": "APO",
+      "name": "APO",
+      "score": 0,
+      "short_term": {
+        "score": 55,
+        "signal": "Hold",
+        "details": [
+          "❄️ Oversold (RSI 27)"
+        ]
+      },
+      "long_term": {
+        "score": 0,
+        "signal": "NEUTRAL",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,443원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "Analysis Failed: name 'fwd_pe' is not defined",
+      "stop_loss": 128.71072387695312,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 0,
+        "change_pct": 0,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (API Blocked)",
+        "layers": []
+      },
+      "rank": 40
+    },
+    {
+      "ticker": "AMZN",
+      "name": "AMZN",
+      "score": 0,
+      "short_term": {
+        "score": 40,
+        "signal": "Hold",
+        "details": [
+          "⚖️ RSI Neutral (58)"
+        ]
+      },
+      "long_term": {
+        "score": 0,
+        "signal": "NEUTRAL",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,443원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "Analysis Failed: name 'fwd_pe' is not defined",
+      "stop_loss": 229.24285888671875,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 0,
+        "change_pct": 0,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (API Blocked)",
+        "layers": []
+      },
+      "rank": 41
+    },
+    {
+      "ticker": "TECH",
+      "name": "TECH",
+      "score": 0,
+      "short_term": {
+        "score": 40,
+        "signal": "Hold",
+        "details": [
+          "⚖️ RSI Neutral (62)"
+        ]
+      },
+      "long_term": {
+        "score": 0,
+        "signal": "NEUTRAL",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,443원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "Analysis Failed: name 'fwd_pe' is not defined",
+      "stop_loss": 61.92143031529018,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 0,
+        "change_pct": 0,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (API Blocked)",
+        "layers": []
+      },
+      "rank": 42
+    },
+    {
+      "ticker": "APP",
+      "name": "APP",
+      "score": 0,
+      "short_term": {
+        "score": 55,
+        "signal": "Hold",
+        "details": [
+          "❄️ Oversold (RSI 34)"
+        ]
+      },
+      "long_term": {
+        "score": 0,
+        "signal": "NEUTRAL",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,443원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "Analysis Failed: name 'fwd_pe' is not defined",
+      "stop_loss": 470.98758806501115,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 0,
+        "change_pct": 0,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (API Blocked)",
+        "layers": []
+      },
+      "rank": 43
+    },
+    {
+      "ticker": "ADBE",
+      "name": "ADBE",
+      "score": 0,
+      "short_term": {
+        "score": 55,
+        "signal": "Hold",
+        "details": [
+          "❄️ Oversold (RSI 31)"
+        ]
+      },
+      "long_term": {
+        "score": 0,
+        "signal": "NEUTRAL",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,443원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "Analysis Failed: name 'fwd_pe' is not defined",
+      "stop_loss": 287.7442844935826,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 0,
+        "change_pct": 0,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (API Blocked)",
+        "layers": []
+      },
+      "rank": 44
+    },
+    {
+      "ticker": "ABT",
+      "name": "ABT",
+      "score": 0,
+      "short_term": {
+        "score": 60,
+        "signal": "Hold",
+        "details": [
+          "💎 Deep Value Oversold (RSI 12)",
+          "📉 Weakening Trend (-11.1%)"
+        ]
+      },
+      "long_term": {
+        "score": 0,
+        "signal": "NEUTRAL",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,443원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "Analysis Failed: name 'fwd_pe' is not defined",
+      "stop_loss": 101.84928240094867,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 0,
+        "change_pct": 0,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (API Blocked)",
+        "layers": []
+      },
+      "rank": 45
+    },
+    {
+      "ticker": "MMM",
+      "name": "MMM",
+      "score": 0,
+      "short_term": {
+        "score": 40,
+        "signal": "Hold",
+        "details": [
+          "⚖️ RSI Neutral (49)"
+        ]
+      },
+      "long_term": {
+        "score": 0,
+        "signal": "NEUTRAL",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,443원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "Analysis Failed: name 'fwd_pe' is not defined",
+      "stop_loss": 153.44428362165178,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 0,
+        "change_pct": 0,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (API Blocked)",
+        "layers": []
+      },
+      "rank": 46
+    },
+    {
+      "ticker": "BKNG",
+      "name": "BKNG",
+      "score": 0,
+      "short_term": {
+        "score": 40,
+        "signal": "Hold",
+        "details": [
+          "⚖️ RSI Neutral (38)"
+        ]
+      },
+      "long_term": {
+        "score": 0,
+        "signal": "NEUTRAL",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,443원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "Analysis Failed: name 'fwd_pe' is not defined",
+      "stop_loss": 4884.3974609375,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 0,
+        "change_pct": 0,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (API Blocked)",
+        "layers": []
+      },
+      "rank": 47
+    },
+    {
+      "ticker": "AFL",
+      "name": "AFL",
+      "score": 0,
+      "short_term": {
+        "score": 55,
+        "signal": "Hold",
+        "details": [
+          "❄️ Oversold (RSI 27)"
+        ]
+      },
+      "long_term": {
+        "score": 0,
+        "signal": "NEUTRAL",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,443원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "Analysis Failed: name 'fwd_pe' is not defined",
+      "stop_loss": 104.29785701206752,
+      "badges": [
+        "Macro Risk",
+        "Squeeze Potential"
+      ],
+      "price_info": {
+        "current": 0,
+        "change_pct": 0,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (API Blocked)",
+        "layers": []
+      },
+      "rank": 48
+    },
+    {
+      "ticker": "AIZ",
+      "name": "AIZ",
+      "score": 0,
+      "short_term": {
+        "score": 40,
+        "signal": "Hold",
+        "details": [
+          "⚖️ RSI Neutral (39)"
+        ]
+      },
+      "long_term": {
+        "score": 0,
+        "signal": "NEUTRAL",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,443원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "Analysis Failed: name 'fwd_pe' is not defined",
+      "stop_loss": 224.73714556012834,
+      "badges": [
+        "Macro Risk",
+        "Squeeze Potential"
+      ],
+      "price_info": {
+        "current": 0,
+        "change_pct": 0,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (API Blocked)",
+        "layers": []
+      },
+      "rank": 49
+    },
+    {
+      "ticker": "ACN",
+      "name": "ACN",
+      "score": 0,
+      "short_term": {
+        "score": 40,
+        "signal": "Hold",
+        "details": [
+          "⚖️ RSI Neutral (64)"
+        ]
+      },
+      "long_term": {
+        "score": 0,
+        "signal": "NEUTRAL",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,443원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "Analysis Failed: name 'fwd_pe' is not defined",
+      "stop_loss": 265.60855974469865,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 0,
+        "change_pct": 0,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (API Blocked)",
+        "layers": []
+      },
+      "rank": 50
+    }
+  ]
+}

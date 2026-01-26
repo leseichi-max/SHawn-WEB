@@ -1,0 +1,2294 @@
+{
+  "meta": {
+    "market": "KR",
+    "date": "2026-01-26",
+    "time": "23:31:29",
+    "timestamp": "2026-01-26T23:31:29.770512",
+    "avg_score": 0.0,
+    "buy_count": 0,
+    "sell_count": 50,
+    "high_growth_count": 0,
+    "top_alpha_ticker": "005930.KS"
+  },
+  "reports": [
+    {
+      "ticker": "005930.KS",
+      "name": "삼성전자",
+      "score": 0,
+      "short_term": {
+        "score": 20,
+        "signal": "SellNow",
+        "details": [
+          "⚠️ Overbought (RSI 73)"
+        ]
+      },
+      "long_term": {
+        "score": 0,
+        "signal": "NEUTRAL",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,443원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "Analysis Failed: name 'fwd_pe' is not defined",
+      "stop_loss": 141042.85714285713,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 0,
+        "change_pct": 0,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      },
+      "rank": 1
+    },
+    {
+      "ticker": "000660.KS",
+      "name": "SK하이닉스",
+      "score": 0,
+      "short_term": {
+        "score": 40,
+        "signal": "Hold",
+        "details": [
+          "⚖️ RSI Neutral (53)"
+        ]
+      },
+      "long_term": {
+        "score": 0,
+        "signal": "NEUTRAL",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,443원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "Analysis Failed: name 'fwd_pe' is not defined",
+      "stop_loss": 676714.2857142857,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 0,
+        "change_pct": 0,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      },
+      "rank": 2
+    },
+    {
+      "ticker": "005380.KS",
+      "name": "현대차",
+      "score": 0,
+      "short_term": {
+        "score": 20,
+        "signal": "SellNow",
+        "details": [
+          "⚠️ Overbought (RSI 77)"
+        ]
+      },
+      "long_term": {
+        "score": 0,
+        "signal": "NEUTRAL",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,443원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "Analysis Failed: name 'fwd_pe' is not defined",
+      "stop_loss": 412785.7142857143,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 0,
+        "change_pct": 0,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      },
+      "rank": 3
+    },
+    {
+      "ticker": "373220.KS",
+      "name": "LG에너지솔루션",
+      "score": 0,
+      "short_term": {
+        "score": 40,
+        "signal": "Hold",
+        "details": [
+          "⚖️ RSI Neutral (68)"
+        ]
+      },
+      "long_term": {
+        "score": 0,
+        "signal": "NEUTRAL",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,443원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "Analysis Failed: name 'fwd_pe' is not defined",
+      "stop_loss": 387071.4285714286,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 0,
+        "change_pct": 0,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      },
+      "rank": 4
+    },
+    {
+      "ticker": "005935.KS",
+      "name": "삼성전자우",
+      "score": 0,
+      "short_term": {
+        "score": 40,
+        "signal": "Hold",
+        "details": [
+          "⚖️ RSI Neutral (70)"
+        ]
+      },
+      "long_term": {
+        "score": 0,
+        "signal": "NEUTRAL",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,443원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "Analysis Failed: name 'fwd_pe' is not defined",
+      "stop_loss": 102400.0,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 0,
+        "change_pct": 0,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      },
+      "rank": 5
+    },
+    {
+      "ticker": "207940.KS",
+      "name": "삼성바이오로직스",
+      "score": 0,
+      "short_term": {
+        "score": 30,
+        "signal": "SellNow",
+        "details": [
+          "⚖️ RSI Neutral (58)",
+          "📉 Weakening Trend (-5.9%)"
+        ]
+      },
+      "long_term": {
+        "score": 0,
+        "signal": "NEUTRAL",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,443원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "Analysis Failed: name 'fwd_pe' is not defined",
+      "stop_loss": 1679428.5714285714,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 0,
+        "change_pct": 0,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      },
+      "rank": 6
+    },
+    {
+      "ticker": "012450.KS",
+      "name": "한화에어로스페이스",
+      "score": 0,
+      "short_term": {
+        "score": 10,
+        "signal": "SellNow",
+        "details": [
+          "⚠️ Overbought (RSI 76)",
+          "📉 Weakening Trend (-5.1%)"
+        ]
+      },
+      "long_term": {
+        "score": 0,
+        "signal": "NEUTRAL",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,443원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "Analysis Failed: name 'fwd_pe' is not defined",
+      "stop_loss": 1131000.0,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 0,
+        "change_pct": 0,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      },
+      "rank": 7
+    },
+    {
+      "ticker": "329180.KS",
+      "name": "HD현대중공업",
+      "score": 0,
+      "short_term": {
+        "score": 30,
+        "signal": "SellNow",
+        "details": [
+          "⚖️ RSI Neutral (61)",
+          "📉 Weakening Trend (-6.6%)"
+        ]
+      },
+      "long_term": {
+        "score": 0,
+        "signal": "NEUTRAL",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,443원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "Analysis Failed: name 'fwd_pe' is not defined",
+      "stop_loss": 549428.5714285715,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 0,
+        "change_pct": 0,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      },
+      "rank": 8
+    },
+    {
+      "ticker": "000270.KS",
+      "name": "기아",
+      "score": 0,
+      "short_term": {
+        "score": 30,
+        "signal": "SellNow",
+        "details": [
+          "⚖️ RSI Neutral (67)",
+          "📉 Weakening Trend (-8.4%)"
+        ]
+      },
+      "long_term": {
+        "score": 0,
+        "signal": "NEUTRAL",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,443원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "Analysis Failed: name 'fwd_pe' is not defined",
+      "stop_loss": 134064.2857142857,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 0,
+        "change_pct": 0,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      },
+      "rank": 9
+    },
+    {
+      "ticker": "034020.KS",
+      "name": "두산에너빌리티",
+      "score": 0,
+      "short_term": {
+        "score": 40,
+        "signal": "Hold",
+        "details": [
+          "⚖️ RSI Neutral (61)"
+        ]
+      },
+      "long_term": {
+        "score": 0,
+        "signal": "NEUTRAL",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,443원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "Analysis Failed: name 'fwd_pe' is not defined",
+      "stop_loss": 83128.57142857143,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 0,
+        "change_pct": 0,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      },
+      "rank": 10
+    },
+    {
+      "ticker": "402340.KS",
+      "name": "SK스퀘어",
+      "score": 0,
+      "short_term": {
+        "score": 40,
+        "signal": "Hold",
+        "details": [
+          "⚖️ RSI Neutral (55)"
+        ]
+      },
+      "long_term": {
+        "score": 0,
+        "signal": "NEUTRAL",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,443원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "Analysis Failed: name 'fwd_pe' is not defined",
+      "stop_loss": 398285.71428571426,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 0,
+        "change_pct": 0,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      },
+      "rank": 11
+    },
+    {
+      "ticker": "105560.KS",
+      "name": "KB금융",
+      "score": 0,
+      "short_term": {
+        "score": 40,
+        "signal": "Hold",
+        "details": [
+          "⚖️ RSI Neutral (69)"
+        ]
+      },
+      "long_term": {
+        "score": 0,
+        "signal": "NEUTRAL",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,443원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "Analysis Failed: name 'fwd_pe' is not defined",
+      "stop_loss": 127728.57142857143,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 0,
+        "change_pct": 0,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      },
+      "rank": 12
+    },
+    {
+      "ticker": "028260.KS",
+      "name": "삼성물산",
+      "score": 0,
+      "short_term": {
+        "score": 20,
+        "signal": "SellNow",
+        "details": [
+          "⚠️ Overbought (RSI 79)"
+        ]
+      },
+      "long_term": {
+        "score": 0,
+        "signal": "NEUTRAL",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,443원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "Analysis Failed: name 'fwd_pe' is not defined",
+      "stop_loss": 272928.5714285714,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 0,
+        "change_pct": 0,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      },
+      "rank": 13
+    },
+    {
+      "ticker": "068270.KS",
+      "name": "셀트리온",
+      "score": 0,
+      "short_term": {
+        "score": 40,
+        "signal": "Hold",
+        "details": [
+          "⚖️ RSI Neutral (52)"
+        ]
+      },
+      "long_term": {
+        "score": 0,
+        "signal": "NEUTRAL",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,443원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "Analysis Failed: name 'fwd_pe' is not defined",
+      "stop_loss": 200785.7142857143,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 0,
+        "change_pct": 0,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      },
+      "rank": 14
+    },
+    {
+      "ticker": "042660.KS",
+      "name": "한화오션",
+      "score": 0,
+      "short_term": {
+        "score": 30,
+        "signal": "SellNow",
+        "details": [
+          "⚖️ RSI Neutral (66)",
+          "📉 Weakening Trend (-6.0%)"
+        ]
+      },
+      "long_term": {
+        "score": 0,
+        "signal": "NEUTRAL",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,443원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "Analysis Failed: name 'fwd_pe' is not defined",
+      "stop_loss": 124385.71428571429,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 0,
+        "change_pct": 0,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      },
+      "rank": 15
+    },
+    {
+      "ticker": "035420.KS",
+      "name": "NAVER",
+      "score": 0,
+      "short_term": {
+        "score": 65,
+        "signal": "Hold",
+        "details": [
+          "⚖️ RSI Neutral (57)",
+          "🚀 Strong 5D Momentum (+14.5%)",
+          "🔊 Increasing Volume (1.6x)"
+        ]
+      },
+      "long_term": {
+        "score": 0,
+        "signal": "NEUTRAL",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,443원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "Analysis Failed: name 'fwd_pe' is not defined",
+      "stop_loss": 250357.14285714287,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 0,
+        "change_pct": 0,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      },
+      "rank": 16
+    },
+    {
+      "ticker": "012330.KS",
+      "name": "현대모비스",
+      "score": 0,
+      "short_term": {
+        "score": 20,
+        "signal": "SellNow",
+        "details": [
+          "⚠️ Overbought (RSI 71)"
+        ]
+      },
+      "long_term": {
+        "score": 0,
+        "signal": "NEUTRAL",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,443원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "Analysis Failed: name 'fwd_pe' is not defined",
+      "stop_loss": 401214.28571428574,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 0,
+        "change_pct": 0,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      },
+      "rank": 17
+    },
+    {
+      "ticker": "055550.KS",
+      "name": "신한지주",
+      "score": 0,
+      "short_term": {
+        "score": 40,
+        "signal": "Hold",
+        "details": [
+          "⚖️ RSI Neutral (57)"
+        ]
+      },
+      "long_term": {
+        "score": 0,
+        "signal": "NEUTRAL",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,443원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "Analysis Failed: name 'fwd_pe' is not defined",
+      "stop_loss": 78214.28571428571,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 0,
+        "change_pct": 0,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      },
+      "rank": 18
+    },
+    {
+      "ticker": "015760.KS",
+      "name": "한국전력",
+      "score": 0,
+      "short_term": {
+        "score": 55,
+        "signal": "Hold",
+        "details": [
+          "⚖️ RSI Neutral (66)",
+          "🚀 Strong 5D Momentum (+7.3%)"
+        ]
+      },
+      "long_term": {
+        "score": 0,
+        "signal": "NEUTRAL",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,443원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "Analysis Failed: name 'fwd_pe' is not defined",
+      "stop_loss": 53764.28571428572,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 0,
+        "change_pct": 0,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      },
+      "rank": 19
+    },
+    {
+      "ticker": "010130.KS",
+      "name": "고려아연",
+      "score": 0,
+      "short_term": {
+        "score": 35,
+        "signal": "Hold",
+        "details": [
+          "⚠️ Overbought (RSI 78)",
+          "🚀 Strong 5D Momentum (+14.1%)"
+        ]
+      },
+      "long_term": {
+        "score": 0,
+        "signal": "NEUTRAL",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,443원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "Analysis Failed: name 'fwd_pe' is not defined",
+      "stop_loss": 1555428.5714285714,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 0,
+        "change_pct": 0,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      },
+      "rank": 20
+    },
+    {
+      "ticker": "032830.KS",
+      "name": "삼성생명",
+      "score": 0,
+      "short_term": {
+        "score": 55,
+        "signal": "Hold",
+        "details": [
+          "⚖️ RSI Neutral (68)",
+          "🚀 Strong 5D Momentum (+9.1%)"
+        ]
+      },
+      "long_term": {
+        "score": 0,
+        "signal": "NEUTRAL",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,443원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "Analysis Failed: name 'fwd_pe' is not defined",
+      "stop_loss": 167385.7142857143,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 0,
+        "change_pct": 0,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      },
+      "rank": 21
+    },
+    {
+      "ticker": "267260.KS",
+      "name": "HD현대일렉트릭",
+      "score": 0,
+      "short_term": {
+        "score": 30,
+        "signal": "SellNow",
+        "details": [
+          "⚖️ RSI Neutral (58)",
+          "📉 Weakening Trend (-5.0%)"
+        ]
+      },
+      "long_term": {
+        "score": 0,
+        "signal": "NEUTRAL",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,443원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "Analysis Failed: name 'fwd_pe' is not defined",
+      "stop_loss": 794000.0,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 0,
+        "change_pct": 0,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      },
+      "rank": 22
+    },
+    {
+      "ticker": "006400.KS",
+      "name": "삼성SDI",
+      "score": 0,
+      "short_term": {
+        "score": 35,
+        "signal": "Hold",
+        "details": [
+          "⚠️ Overbought (RSI 79)",
+          "🚀 Strong 5D Momentum (+23.2%)"
+        ]
+      },
+      "long_term": {
+        "score": 0,
+        "signal": "NEUTRAL",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,443원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "Analysis Failed: name 'fwd_pe' is not defined",
+      "stop_loss": 345714.28571428574,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 0,
+        "change_pct": 0,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      },
+      "rank": 23
+    },
+    {
+      "ticker": "009540.KS",
+      "name": "HD한국조선해양",
+      "score": 0,
+      "short_term": {
+        "score": 40,
+        "signal": "Hold",
+        "details": [
+          "⚖️ RSI Neutral (53)"
+        ]
+      },
+      "long_term": {
+        "score": 0,
+        "signal": "NEUTRAL",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,443원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "Analysis Failed: name 'fwd_pe' is not defined",
+      "stop_loss": 390642.85714285716,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 0,
+        "change_pct": 0,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      },
+      "rank": 24
+    },
+    {
+      "ticker": "005490.KS",
+      "name": "POSCO홀딩스",
+      "score": 0,
+      "short_term": {
+        "score": 35,
+        "signal": "Hold",
+        "details": [
+          "⚠️ Overbought (RSI 70)",
+          "🚀 Strong 5D Momentum (+5.0%)"
+        ]
+      },
+      "long_term": {
+        "score": 0,
+        "signal": "NEUTRAL",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,443원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "Analysis Failed: name 'fwd_pe' is not defined",
+      "stop_loss": 329571.4285714286,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 0,
+        "change_pct": 0,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      },
+      "rank": 25
+    },
+    {
+      "ticker": "086790.KS",
+      "name": "하나금융지주",
+      "score": 0,
+      "short_term": {
+        "score": 35,
+        "signal": "Hold",
+        "details": [
+          "⚠️ Overbought (RSI 73)",
+          "🚀 Strong 5D Momentum (+5.2%)"
+        ]
+      },
+      "long_term": {
+        "score": 0,
+        "signal": "NEUTRAL",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,443원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "Analysis Failed: name 'fwd_pe' is not defined",
+      "stop_loss": 96600.0,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 0,
+        "change_pct": 0,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      },
+      "rank": 26
+    },
+    {
+      "ticker": "035720.KS",
+      "name": "카카오",
+      "score": 0,
+      "short_term": {
+        "score": 55,
+        "signal": "Hold",
+        "details": [
+          "⚖️ RSI Neutral (45)",
+          "🚀 Strong 5D Momentum (+9.2%)"
+        ]
+      },
+      "long_term": {
+        "score": 0,
+        "signal": "NEUTRAL",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,443원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "Analysis Failed: name 'fwd_pe' is not defined",
+      "stop_loss": 58057.142857142855,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 0,
+        "change_pct": 0,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      },
+      "rank": 27
+    },
+    {
+      "ticker": "010140.KS",
+      "name": "삼성중공업",
+      "score": 0,
+      "short_term": {
+        "score": 10,
+        "signal": "SellNow",
+        "details": [
+          "⚠️ Overbought (RSI 70)",
+          "📉 Weakening Trend (-6.1%)"
+        ]
+      },
+      "long_term": {
+        "score": 0,
+        "signal": "NEUTRAL",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,443원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "Analysis Failed: name 'fwd_pe' is not defined",
+      "stop_loss": 27014.285714285714,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 0,
+        "change_pct": 0,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      },
+      "rank": 28
+    },
+    {
+      "ticker": "051910.KS",
+      "name": "LG화학",
+      "score": 0,
+      "short_term": {
+        "score": 40,
+        "signal": "Hold",
+        "details": [
+          "⚖️ RSI Neutral (59)"
+        ]
+      },
+      "long_term": {
+        "score": 0,
+        "signal": "NEUTRAL",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,443원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "Analysis Failed: name 'fwd_pe' is not defined",
+      "stop_loss": 319214.28571428574,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 0,
+        "change_pct": 0,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      },
+      "rank": 29
+    },
+    {
+      "ticker": "064350.KS",
+      "name": "현대로템",
+      "score": 0,
+      "short_term": {
+        "score": 40,
+        "signal": "Hold",
+        "details": [
+          "⚖️ RSI Neutral (54)"
+        ]
+      },
+      "long_term": {
+        "score": 0,
+        "signal": "NEUTRAL",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,443원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "Analysis Failed: name 'fwd_pe' is not defined",
+      "stop_loss": 191257.14285714287,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 0,
+        "change_pct": 0,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      },
+      "rank": 30
+    },
+    {
+      "ticker": "000810.KS",
+      "name": "삼성화재",
+      "score": 0,
+      "short_term": {
+        "score": 40,
+        "signal": "Hold",
+        "details": [
+          "⚖️ RSI Neutral (48)"
+        ]
+      },
+      "long_term": {
+        "score": 0,
+        "signal": "NEUTRAL",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,443원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "Analysis Failed: name 'fwd_pe' is not defined",
+      "stop_loss": 463142.85714285716,
+      "badges": [
+        "Macro Risk",
+        "Squeeze Potential"
+      ],
+      "price_info": {
+        "current": 0,
+        "change_pct": 0,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      },
+      "rank": 31
+    },
+    {
+      "ticker": "298040.KS",
+      "name": "효성중공업",
+      "score": 0,
+      "short_term": {
+        "score": 5,
+        "signal": "SellNow",
+        "details": [
+          "⛔ extreme Overbought (RSI 90)"
+        ]
+      },
+      "long_term": {
+        "score": 0,
+        "signal": "NEUTRAL",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,443원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "Analysis Failed: name 'fwd_pe' is not defined",
+      "stop_loss": 2078285.7142857143,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 0,
+        "change_pct": 0,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      },
+      "rank": 32
+    },
+    {
+      "ticker": "316140.KS",
+      "name": "우리금융지주",
+      "score": 0,
+      "short_term": {
+        "score": 55,
+        "signal": "Hold",
+        "details": [
+          "⚖️ RSI Neutral (64)",
+          "🚀 Strong 5D Momentum (+7.3%)"
+        ]
+      },
+      "long_term": {
+        "score": 0,
+        "signal": "NEUTRAL",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,443원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "Analysis Failed: name 'fwd_pe' is not defined",
+      "stop_loss": 28150.0,
+      "badges": [
+        "Macro Risk",
+        "Squeeze Potential"
+      ],
+      "price_info": {
+        "current": 0,
+        "change_pct": 0,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      },
+      "rank": 33
+    },
+    {
+      "ticker": "034730.KS",
+      "name": "SK",
+      "score": 0,
+      "short_term": {
+        "score": 40,
+        "signal": "Hold",
+        "details": [
+          "⚖️ RSI Neutral (52)"
+        ]
+      },
+      "long_term": {
+        "score": 0,
+        "signal": "NEUTRAL",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,443원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "Analysis Failed: name 'fwd_pe' is not defined",
+      "stop_loss": 266142.85714285716,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 0,
+        "change_pct": 0,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      },
+      "rank": 34
+    },
+    {
+      "ticker": "009150.KS",
+      "name": "삼성전기",
+      "score": 0,
+      "short_term": {
+        "score": 30,
+        "signal": "SellNow",
+        "details": [
+          "⚖️ RSI Neutral (55)",
+          "📉 Weakening Trend (-5.8%)"
+        ]
+      },
+      "long_term": {
+        "score": 0,
+        "signal": "NEUTRAL",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,443원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "Analysis Failed: name 'fwd_pe' is not defined",
+      "stop_loss": 248500.0,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 0,
+        "change_pct": 0,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      },
+      "rank": 35
+    },
+    {
+      "ticker": "003670.KS",
+      "name": "포스코퓨처엠",
+      "score": 0,
+      "short_term": {
+        "score": 65,
+        "signal": "Hold",
+        "details": [
+          "⚠️ Overbought (RSI 72)",
+          "🚀 Strong 5D Momentum (+16.0%)",
+          "🔊 Increasing Volume (2.0x)"
+        ]
+      },
+      "long_term": {
+        "score": 0,
+        "signal": "NEUTRAL",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,443원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Whale Entry",
+        "consecutive_days": 1
+      },
+      "sector": "Market",
+      "explanation": "Analysis Failed: name 'fwd_pe' is not defined",
+      "stop_loss": 205328.57142857142,
+      "badges": [
+        "Macro Risk",
+        "Whale Entry"
+      ],
+      "price_info": {
+        "current": 0,
+        "change_pct": 0,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      },
+      "rank": 36
+    },
+    {
+      "ticker": "096770.KS",
+      "name": "SK이노베이션",
+      "score": 0,
+      "short_term": {
+        "score": 55,
+        "signal": "Hold",
+        "details": [
+          "⚖️ RSI Neutral (61)",
+          "🚀 Strong 5D Momentum (+7.4%)"
+        ]
+      },
+      "long_term": {
+        "score": 0,
+        "signal": "NEUTRAL",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,443원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "Analysis Failed: name 'fwd_pe' is not defined",
+      "stop_loss": 105714.28571428571,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 0,
+        "change_pct": 0,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      },
+      "rank": 37
+    },
+    {
+      "ticker": "267250.KS",
+      "name": "HD현대",
+      "score": 0,
+      "short_term": {
+        "score": 20,
+        "signal": "SellNow",
+        "details": [
+          "⚠️ Overbought (RSI 73)"
+        ]
+      },
+      "long_term": {
+        "score": 0,
+        "signal": "NEUTRAL",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,443원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "Analysis Failed: name 'fwd_pe' is not defined",
+      "stop_loss": 213057.14285714287,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 0,
+        "change_pct": 0,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      },
+      "rank": 38
+    },
+    {
+      "ticker": "011200.KS",
+      "name": "HMM",
+      "score": 0,
+      "short_term": {
+        "score": 40,
+        "signal": "Hold",
+        "details": [
+          "⚖️ RSI Neutral (52)"
+        ]
+      },
+      "long_term": {
+        "score": 0,
+        "signal": "NEUTRAL",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,443원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "Analysis Failed: name 'fwd_pe' is not defined",
+      "stop_loss": 18942.85714285714,
+      "badges": [
+        "Macro Risk",
+        "Squeeze Potential"
+      ],
+      "price_info": {
+        "current": 0,
+        "change_pct": 0,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      },
+      "rank": 39
+    },
+    {
+      "ticker": "006800.KS",
+      "name": "미래에셋증권",
+      "score": 0,
+      "short_term": {
+        "score": 40,
+        "signal": "Hold",
+        "details": [
+          "⚖️ RSI Neutral (65)"
+        ]
+      },
+      "long_term": {
+        "score": 0,
+        "signal": "NEUTRAL",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,443원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "Analysis Failed: name 'fwd_pe' is not defined",
+      "stop_loss": 29271.428571428572,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 0,
+        "change_pct": 0,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      },
+      "rank": 40
+    },
+    {
+      "ticker": "138040.KS",
+      "name": "메리츠금융지주",
+      "score": 0,
+      "short_term": {
+        "score": 40,
+        "signal": "Hold",
+        "details": [
+          "⚖️ RSI Neutral (49)"
+        ]
+      },
+      "long_term": {
+        "score": 0,
+        "signal": "NEUTRAL",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,443원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "Analysis Failed: name 'fwd_pe' is not defined",
+      "stop_loss": 100828.57142857143,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 0,
+        "change_pct": 0,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      },
+      "rank": 41
+    },
+    {
+      "ticker": "086280.KS",
+      "name": "현대글로비스",
+      "score": 0,
+      "short_term": {
+        "score": 10,
+        "signal": "SellNow",
+        "details": [
+          "⚠️ Overbought (RSI 70)",
+          "📉 Weakening Trend (-11.0%)"
+        ]
+      },
+      "long_term": {
+        "score": 0,
+        "signal": "NEUTRAL",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,443원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "Analysis Failed: name 'fwd_pe' is not defined",
+      "stop_loss": 198307.14285714284,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 0,
+        "change_pct": 0,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      },
+      "rank": 42
+    },
+    {
+      "ticker": "272210.KS",
+      "name": "한화시스템",
+      "score": 0,
+      "short_term": {
+        "score": 20,
+        "signal": "SellNow",
+        "details": [
+          "⚠️ Overbought (RSI 77)"
+        ]
+      },
+      "long_term": {
+        "score": 0,
+        "signal": "NEUTRAL",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,443원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "Analysis Failed: name 'fwd_pe' is not defined",
+      "stop_loss": 75500.0,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 0,
+        "change_pct": 0,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      },
+      "rank": 43
+    },
+    {
+      "ticker": "033780.KS",
+      "name": "KT&G",
+      "score": 0,
+      "short_term": {
+        "score": 40,
+        "signal": "Hold",
+        "details": [
+          "⚖️ RSI Neutral (48)"
+        ]
+      },
+      "long_term": {
+        "score": 0,
+        "signal": "NEUTRAL",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,443원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "Analysis Failed: name 'fwd_pe' is not defined",
+      "stop_loss": 136257.14285714287,
+      "badges": [
+        "Macro Risk",
+        "Squeeze Potential"
+      ],
+      "price_info": {
+        "current": 0,
+        "change_pct": 0,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      },
+      "rank": 44
+    },
+    {
+      "ticker": "066570.KS",
+      "name": "LG전자",
+      "score": 0,
+      "short_term": {
+        "score": 40,
+        "signal": "Hold",
+        "details": [
+          "⚖️ RSI Neutral (61)"
+        ]
+      },
+      "long_term": {
+        "score": 0,
+        "signal": "NEUTRAL",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,443원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "Analysis Failed: name 'fwd_pe' is not defined",
+      "stop_loss": 91657.14285714286,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 0,
+        "change_pct": 0,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      },
+      "rank": 45
+    },
+    {
+      "ticker": "024110.KS",
+      "name": "기업은행",
+      "score": 0,
+      "short_term": {
+        "score": 40,
+        "signal": "Hold",
+        "details": [
+          "⚖️ RSI Neutral (49)"
+        ]
+      },
+      "long_term": {
+        "score": 0,
+        "signal": "NEUTRAL",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,443원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "Analysis Failed: name 'fwd_pe' is not defined",
+      "stop_loss": 20200.0,
+      "badges": [
+        "Macro Risk",
+        "Squeeze Potential"
+      ],
+      "price_info": {
+        "current": 0,
+        "change_pct": 0,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      },
+      "rank": 46
+    },
+    {
+      "ticker": "047810.KS",
+      "name": "한국항공우주",
+      "score": 0,
+      "short_term": {
+        "score": 20,
+        "signal": "SellNow",
+        "details": [
+          "⚠️ Overbought (RSI 73)"
+        ]
+      },
+      "long_term": {
+        "score": 0,
+        "signal": "NEUTRAL",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,443원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "Analysis Failed: name 'fwd_pe' is not defined",
+      "stop_loss": 148000.0,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 0,
+        "change_pct": 0,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      },
+      "rank": 47
+    },
+    {
+      "ticker": "352820.KS",
+      "name": "하이브",
+      "score": 0,
+      "short_term": {
+        "score": 20,
+        "signal": "SellNow",
+        "details": [
+          "⚠️ Overbought (RSI 75)"
+        ]
+      },
+      "long_term": {
+        "score": 0,
+        "signal": "NEUTRAL",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,443원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "Analysis Failed: name 'fwd_pe' is not defined",
+      "stop_loss": 349214.28571428574,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 0,
+        "change_pct": 0,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      },
+      "rank": 48
+    },
+    {
+      "ticker": "042700.KS",
+      "name": "한미반도체",
+      "score": 0,
+      "short_term": {
+        "score": 55,
+        "signal": "Hold",
+        "details": [
+          "❄️ Oversold (RSI 35)"
+        ]
+      },
+      "long_term": {
+        "score": 0,
+        "signal": "NEUTRAL",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,443원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "Analysis Failed: name 'fwd_pe' is not defined",
+      "stop_loss": 150271.42857142858,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 0,
+        "change_pct": 0,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      },
+      "rank": 49
+    },
+    {
+      "ticker": "010120.KS",
+      "name": "LS ELECTRIC",
+      "score": 0,
+      "short_term": {
+        "score": 30,
+        "signal": "SellNow",
+        "details": [
+          "⚖️ RSI Neutral (53)",
+          "📉 Weakening Trend (-6.0%)"
+        ]
+      },
+      "long_term": {
+        "score": 0,
+        "signal": "NEUTRAL",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,443원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "Analysis Failed: name 'fwd_pe' is not defined",
+      "stop_loss": 448428.5714285714,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 0,
+        "change_pct": 0,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      },
+      "rank": 50
+    }
+  ]
+}
