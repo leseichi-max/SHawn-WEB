@@ -1,0 +1,12 @@
+# Next.js
+node_modules/
+.next/
+out/
+*.log
+
+# 환경 변수
+.env.local
+.env*.local
+
+# 기타
+.DS_Store
