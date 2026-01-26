@@ -1,21 +1,23 @@
 [
   {
     "date": "2026-01-26",
-    "time": "14:57",
+    "time": "15:37",
     "type": "KR",
-    "title": "2026-01-26 14:57 KR Market Report",
-    "path": "/reports/2026-01-26_14-57_KR.html",
-    "filename": "2026-01-26_14-57_KR.html",
-    "timestamp": "2026-01-26T14:57:06.572891"
+    "title": "2026-01-26 15:37 KR Market Report",
+    "path": "/reports/2026-01-26_15-37_KR.html",
+    "filename": "2026-01-26_15-37_KR.html",
+    "timestamp": "2026-01-26T15:37:46.311968",
+    "json_path": "/reports/2026-01-26_15-37_KR.json"
   },
   {
     "date": "2026-01-26",
-    "time": "14:57",
+    "time": "15:37",
     "type": "US",
-    "title": "2026-01-26 14:57 US Market Report",
-    "path": "/reports/2026-01-26_14-57_US.html",
-    "filename": "2026-01-26_14-57_US.html",
-    "timestamp": "2026-01-26T14:57:06.572891"
+    "title": "2026-01-26 15:37 US Market Report",
+    "path": "/reports/2026-01-26_15-37_US.html",
+    "filename": "2026-01-26_15-37_US.html",
+    "timestamp": "2026-01-26T15:37:46.311968",
+    "json_path": "/reports/2026-01-26_15-37_US.json"
   },
   {
     "date": "2026-01-26",

@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "market": "KR",
+    "date": "2026-01-26",
+    "time": "15:28:24",
+    "timestamp": "2026-01-26T15:28:24.885136",
+    "avg_score": 49.5,
+    "buy_count": 8,
+    "sell_count": 42,
+    "high_growth_count": 0,
+    "top_alpha_ticker": "005380.KS"
+  },
+  "reports": [
+    {
+      "ticker": "005380.KS",
+      "name": "현대차",
+      "score": 60.0,
+      "short_term": {
+        "score": 70,
+        "signal": "Aggressive Buy",
+        "details": [
+          "🔥 Super Momentum (RSI 77 + Whale Flow)"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "Moderate Growth",
+        "rationale": "Stable outlook without high-growth catalysts detected.",
+        "is_high_growth": false
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 412785.7142857143,
+      "badges": [
+        "Whale Entry"
+      ],
+      "price_info": {
+        "current": 

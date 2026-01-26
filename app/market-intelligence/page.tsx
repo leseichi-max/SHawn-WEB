@@ -2,12 +2,14 @@
 
 import { useState, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import { Calendar, FileText, ExternalLink, RefreshCw, TrendingUp, Globe } from "lucide-react";
+import { Calendar, FileText, ExternalLink, RefreshCw, TrendingUp, Globe, AlertTriangle } from "lucide-react";
 import Link from "next/link";
+import { ReportDetailView, FullJsonReport } from "@/components/market/ReportDetailView";
 
 type ReportRequest = {
     date: string;
-    path: string;
+    path: string; // Original HTML path
+    json_path?: string; // New JSON data path
     title: string;
 };
 
@@ -17,163 +19,211 @@ type ReportData = {
 };
 
 export default function MarketIntelligencePage() {
-    const [data, setData] = useState<ReportData>({ KR: [], US: [] });
+    const [indexData, setIndexData] = useState<ReportData>({ KR: [], US: [] });
     const [activeTab, setActiveTab] = useState<"KR" | "US">("KR");
-    const [selectedReport, setSelectedReport] = useState<string | null>(null);
-    const [loading, setLoading] = useState(true);
+
+    // Selected Report State
+    const [selectedReportPath, setSelectedReportPath] = useState<string | null>(null);
+    const [reportJsonData, setReportJsonData] = useState<FullJsonReport | null>(null);
+    const [isLoadingReport, setIsLoadingReport] = useState(false);
+    const [loadingIndex, setLoadingIndex] = useState(true);
 
     useEffect(() => {
-        fetchData();
+        fetchIndex();
     }, []);
 
-    const fetchData = async () => {
-        setLoading(true);
+    // Fetch the list of reports
+    const fetchIndex = async () => {
+        setLoadingIndex(true);
         try {
-            const res = await fetch("/data/quant_reports.json", { cache: "no-store" });
+            const res = await fetch("/reports/index.json", { cache: "no-store" });
             if (res.ok) {
-                const json = await res.json();
-                setData(json);
-                // Auto-select the first report of the active tab if available
-                if (json[activeTab].length > 0 && !selectedReport) {
-                    setSelectedReport(json[activeTab][0].path);
+                const rawData = await res.json();
+
+                // Group by type (KR/US)
+                const grouped: ReportData = { KR: [], US: [] };
+                rawData.forEach((r: any) => {
+                    if (r.type === 'KR') grouped.KR.push(r);
+                    if (r.type === 'US') grouped.US.push(r);
+                });
+
+                setIndexData(grouped);
+
+                // Auto-select first report if available
+                const currentList = grouped[activeTab];
+                if (currentList.length > 0 && !selectedReportPath) {
+                    handleSelectReport(currentList[0]);
                 }
             }
         } catch (error) {
-            console.error("Failed to load report data", error);
+            console.error("Failed to load index", error);
         } finally {
-            setLoading(false);
+            setLoadingIndex(false);
         }
     };
 
-    const currentList = data[activeTab];
+    // Handle Report Selection
+    const handleSelectReport = async (report: ReportRequest) => {
+        setSelectedReportPath(report.path);
+
+        // If JSON data exists, load it
+        if (report.json_path) {
+            setIsLoadingReport(true);
+            try {
+                const res = await fetch(report.json_path);
+                if (res.ok) {
+                    const jsonData = await res.json();
+                    setReportJsonData(jsonData);
+                } else {
+                    setReportJsonData(null);
+                }
+            } catch (e) {
+                console.error("Failed to load JSON report", e);
+                setReportJsonData(null);
+            } finally {
+                setIsLoadingReport(false);
+            }
+        } else {
+            // Legacy report (HTML only) -> ReportDetailView handles null data or we show iframe
+            setReportJsonData(null);
+        }
+    };
+
+    const currentList = indexData[activeTab];
 
     return (
-        <div className="min-h-screen bg-[#1e1e1e] text-white p-6 md:p-12 font-sans">
-            <div className="max-w-7xl mx-auto space-y-8">
+        <div className="min-h-screen bg-[#1e1e1e] text-white p-4 md:p-8 font-sans">
+            <div className="max-w-[1600px] mx-auto space-y-6">
 
                 {/* Header */}
-                <header className="flex flex-col md:flex-row justify-between items-start md:items-center border-b border-[#2c2c2c] pb-6">
+                <header className="flex flex-col md:flex-row justify-between items-start md:items-center border-b border-[#2c2c2c] pb-4">
                     <div>
-                        <h1 className="text-4xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-blue-400 to-purple-500 mb-2">
+                        <h1 className="text-3xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-blue-400 to-purple-500 mb-1">
                             Market Intelligence
                         </h1>
-                        <p className="text-gray-400 max-w-xl">
-                            Automated Market Analysis Reports for Korea (KR) and United States (US) Markets.
-                            Powered by SHawn-INV Algorithms.
+                        <p className="text-gray-400 text-sm">
+                            Real-time AI Market Analysis & Sovereign Alpha Signals
                         </p>
                     </div>
-                    <div className="mt-4 md:mt-0 flex gap-4">
+                    <div className="mt-4 md:mt-0 flex gap-3">
                         <button
-                            onClick={fetchData}
-                            className="flex items-center gap-2 px-4 py-2 bg-[#2c2c2c] hover:bg-[#3c3c3c] rounded-lg transition-colors text-sm text-gray-300 border border-gray-700"
+                            onClick={fetchIndex}
+                            className="flex items-center gap-2 px-3 py-1.5 bg-[#2c2c2c] hover:bg-[#3c3c3c] rounded-lg transition-colors text-xs text-gray-300 border border-gray-700"
                         >
-                            <RefreshCw size={16} className={loading ? "animate-spin" : ""} />
-                            Refresh Data
+                            <RefreshCw size={14} className={loadingIndex ? "animate-spin" : ""} />
+                            Refresh
                         </button>
                     </div>
                 </header>
 
-                <div className="grid grid-cols-1 lg:grid-cols-12 gap-8">
+                <div className="grid grid-cols-1 lg:grid-cols-12 gap-6 h-[calc(100vh-200px)] min-h-[600px]">
 
                     {/* Sidebar / List */}
-                    <div className="lg:col-span-4 space-y-6">
+                    <div className="lg:col-span-3 flex flex-col gap-4 h-full">
 
                         {/* Tabs */}
-                        <div className="flex p-1 bg-[#2c2c2c] rounded-xl border border-gray-800">
+                        <div className="flex p-1 bg-[#2c2c2c] rounded-xl border border-gray-800 shrink-0">
                             <button
                                 onClick={() => setActiveTab("KR")}
-                                className={`flex-1 flex items-center justify-center gap-2 py-3 rounded-lg text-sm font-medium transition-all ${activeTab === "KR"
-                                        ? "bg-[#1e1e1e] text-blue-400 shadow-md border border-gray-700"
-                                        : "text-gray-400 hover:text-white"
+                                className={`flex-1 flex items-center justify-center gap-2 py-2.5 rounded-lg text-sm font-medium transition-all ${activeTab === "KR"
+                                    ? "bg-[#1e1e1e] text-blue-400 shadow-md border border-gray-700"
+                                    : "text-gray-400 hover:text-white"
                                     }`}
                             >
                                 <TrendingUp size={16} />
-                                Korea Market
+                                KR
                             </button>
                             <button
                                 onClick={() => setActiveTab("US")}
-                                className={`flex-1 flex items-center justify-center gap-2 py-3 rounded-lg text-sm font-medium transition-all ${activeTab === "US"
-                                        ? "bg-[#1e1e1e] text-green-400 shadow-md border border-gray-700"
-                                        : "text-gray-400 hover:text-white"
+                                className={`flex-1 flex items-center justify-center gap-2 py-2.5 rounded-lg text-sm font-medium transition-all ${activeTab === "US"
+                                    ? "bg-[#1e1e1e] text-green-400 shadow-md border border-gray-700"
+                                    : "text-gray-400 hover:text-white"
                                     }`}
                             >
                                 <Globe size={16} />
-                                US Market
+                                US
                             </button>
                         </div>
 
                         {/* Report List */}
-                        <div className="h-[600px] overflow-y-auto pr-2 space-y-3 custom-scrollbar">
-                            {loading ? (
-                                <div className="text-center py-10 text-gray-500">Loading history...</div>
+                        <div className="flex-1 overflow-y-auto pr-2 custom-scrollbar bg-[#252525] rounded-xl border border-[#2c2c2c] p-2">
+                            {loadingIndex ? (
+                                <div className="text-center py-10 text-gray-500 text-sm">Loading...</div>
                             ) : currentList.length === 0 ? (
-                                <div className="text-center py-10 text-gray-500 bg-[#252525] rounded-xl border border-[#2c2c2c] border-dashed">
+                                <div className="text-center py-10 text-gray-500 text-sm">
                                     No reports found.
                                 </div>
                             ) : (
                                 <AnimatePresence>
-                                    {currentList.map((report) => {
-                                        const isSelected = selectedReport === report.path;
-                                        return (
-                                            <motion.div
-                                                key={report.path}
-                                                initial={{ opacity: 0, y: 10 }}
-                                                animate={{ opacity: 1, y: 0 }}
-                                                exit={{ opacity: 0, x: -10 }}
-                                                onClick={() => setSelectedReport(report.path)}
-                                                className={`p-4 rounded-xl cursor-pointer border transition-all duration-200 group ${isSelected
-                                                        ? "bg-[#2c2c2c] border-blue-500/50 shadow-[0_0_15px_rgba(59,130,246,0.1)]"
-                                                        : "bg-[#252525] border-transparent hover:bg-[#2c2c2c] hover:border-gray-700"
-                                                    }`}
-                                            >
-                                                <div className="flex justify-between items-start">
-                                                    <div>
-                                                        <h3 className={`font-semibold text-sm mb-1 ${isSelected ? "text-blue-300" : "text-gray-200 group-hover:text-white"
-                                                            }`}>
-                                                            {report.title || report.date}
-                                                        </h3>
-                                                        <div className="flex items-center gap-2 text-xs text-gray-500">
-                                                            <Calendar size={12} />
-                                                            {report.date}
+                                    <div className="space-y-2">
+                                        {currentList.map((report) => {
+                                            const isSelected = selectedReportPath === report.path;
+                                            return (
+                                                <motion.div
+                                                    key={report.path}
+                                                    initial={{ opacity: 0, y: 5 }}
+                                                    animate={{ opacity: 1, y: 0 }}
+                                                    onClick={() => handleSelectReport(report)}
+                                                    className={`p-3 rounded-lg cursor-pointer border transition-all duration-200 group ${isSelected
+                                                        ? "bg-[#2c2c2c] border-blue-500/50 shadow-md"
+                                                        : "bg-transparent border-transparent hover:bg-[#2c2c2c] hover:border-gray-700"
+                                                        }`}
+                                                >
+                                                    <div className="flex justify-between items-start">
+                                                        <div>
+                                                            <h3 className={`font-semibold text-sm mb-1 line-clamp-1 ${isSelected ? "text-blue-300" : "text-gray-300"
+                                                                }`}>
+                                                                {report.title?.replace(/^\d{4}-\d{2}-\d{2} \d{2}:\d{2} (KR|US) Market Report/, "Market Report") || report.date}
+                                                            </h3>
+                                                            <div className="flex items-center gap-2 text-xs text-gray-500">
+                                                                <Calendar size={12} />
+                                                                {report.date}
+                                                                {report.json_path && <span className="text-green-500 ml-1 text-[10px] border border-green-900 bg-green-900/20 px-1 rounded">V2</span>}
+                                                            </div>
                                                         </div>
                                                     </div>
-                                                    {isSelected && (
-                                                        <div className="text-blue-400">
-                                                            <FileText size={16} />
-                                                        </div>
-                                                    )}
-                                                </div>
-                                            </motion.div>
-                                        );
-                                    })}
+                                                </motion.div>
+                                            );
+                                        })}
+                                    </div>
                                 </AnimatePresence>
                             )}
                         </div>
                     </div>
 
                     {/* Viewer */}
-                    <div className="lg:col-span-8 bg-[#252525] rounded-2xl border border-[#2c2c2c] overflow-hidden flex flex-col h-[750px] shadow-2xl relative">
-                        {selectedReport ? (
-                            <>
-                                <div className="bg-[#2c2c2c] px-4 py-3 flex justify-between items-center border-b border-gray-700">
-                                    <span className="text-xs font-mono text-gray-400 truncate max-w-md">
-                                        Viewing: {selectedReport}
-                                    </span>
-                                    <Link
-                                        href={selectedReport}
-                                        target="_blank"
-                                        className="flex items-center gap-1 text-xs text-blue-400 hover:text-blue-300 hover:underline"
-                                    >
-                                        <ExternalLink size={12} />
-                                        Open Fullscreen
-                                    </Link>
-                                </div>
-                                <iframe
-                                    src={selectedReport}
-                                    className="w-full h-full bg-white"
-                                    title="Report Viewer"
+                    <div className="lg:col-span-9 bg-[#252525] rounded-2xl border border-[#2c2c2c] overflow-hidden flex flex-col h-full shadow-2xl relative">
+                        {selectedReportPath ? (
+                            reportJsonData ? (
+                                // Modern JSON View
+                                <ReportDetailView
+                                    data={reportJsonData}
+                                    loading={isLoadingReport}
                                 />
-                            </>
+                            ) : (
+                                // Legacy HTML Iframe Fallback
+                                <div className="flex flex-col h-full">
+                                    <div className="bg-[#2c2c2c] px-4 py-2 flex justify-between items-center border-b border-gray-700 shrink-0">
+                                        <div className="flex items-center gap-2 text-yellow-500 text-xs">
+                                            <AlertTriangle size={14} />
+                                            <span>Legacy HTML Report Mode</span>
+                                        </div>
+                                        <Link
+                                            href={selectedReportPath}
+                                            target="_blank"
+                                            className="flex items-center gap-1 text-xs text-blue-400 hover:text-blue-300 hover:underline"
+                                        >
+                                            <ExternalLink size={12} />
+                                            Full Window
+                                        </Link>
+                                    </div>
+                                    <iframe
+                                        src={selectedReportPath}
+                                        className="w-full flex-1 bg-white" // HTML reports have their own dark mode but white base bg in iframe can be safer
+                                        title="Report Viewer"
+                                    />
+                                </div>
+                            )
                         ) : (
                             <div className="flex flex-col items-center justify-center h-full text-gray-500">
                                 <FileText size={48} className="mb-4 opacity-20" />

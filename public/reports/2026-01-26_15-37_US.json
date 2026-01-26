@@ -1,0 +1,2998 @@
+{
+  "meta": {
+    "market": "US",
+    "date": "2026-01-26",
+    "time": "15:27:42",
+    "timestamp": "2026-01-26T15:27:42.717390",
+    "avg_score": 47.75,
+    "buy_count": 1,
+    "sell_count": 49,
+    "high_growth_count": 0,
+    "top_alpha_ticker": "AAPL"
+  },
+  "reports": [
+    {
+      "ticker": "AAPL",
+      "name": "AAPL",
+      "score": 60.0,
+      "short_term": {
+        "score": 70,
+        "signal": "Aggressive Buy",
+        "details": [
+          "❄️ Oversold (RSI 12)"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "Moderate Growth",
+        "rationale": "Stable outlook without high-growth catalysts detected.",
+        "is_high_growth": false
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 237.91856384277344,
+      "badges": [],
+      "price_info": {
+        "current": 248.0399932861328,
+        "change_pct": -0.12482899527435284,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "⚖️ 섹터 중립 (Sector Neutral)",
+        "layers": [
+          {
+            "diagnosis": "⚖️ 섹터 중립 (Sector Neutral)",
+            "detail": "업종 평균과 유사한 흐름",
+            "insight": "섹터 전체 트렌드를 따르는 중"
+          },
+          {
+            "diagnosis": "⚖️ 정상 범위 (Normal Range)",
+            "detail": "VIX 20.0 - 안정적 시장 환경",
+            "action": "전략대로 진행",
+            "color": "blue"
+          },
+          {
+            "diagnosis": "➡️ 중립 흐름 (Neutral Flow)",
+            "detail": "특별한 수급 패턴 없음",
+            "insight": "기술적/펀더멘털 분석 우선"
+          },
+          {
+            "diagnosis": "⚖️ 58% 승률 패턴 (Moderate)",
+            "detail": "유사 패턴 50건 분석",
+            "expected_return": "평균 수익률 +2.8% (3일 기준)",
+            "confidence": "중간"
+          }
+        ]
+      }
+    },
+    {
+      "ticker": "ABT",
+      "name": "ABT",
+      "score": 55.0,
+      "short_term": {
+        "score": 60,
+        "signal": "Hold",
+        "details": [
+          "❄️ Oversold (RSI 17)",
+          "💧 Low Liquidity Warning"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "Moderate Growth",
+        "rationale": "Stable outlook without high-growth catalysts detected.",
+        "is_high_growth": false
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 100.61142294747489,
+      "badges": [],
+      "price_info": {
+        "current": 107.41999816894531,
+        "change_pct": -1.0956656244534,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "⚖️ 섹터 중립 (Sector Neutral)",
+        "layers": [
+          {
+            "diagnosis": "⚖️ 섹터 중립 (Sector Neutral)",
+            "detail": "업종 평균과 유사한 흐름",
+            "insight": "섹터 전체 트렌드를 따르는 중"
+          },
+          {
+            "diagnosis": "⚖️ 정상 범위 (Normal Range)",
+            "detail": "VIX 20.0 - 안정적 시장 환경",
+            "action": "전략대로 진행",
+            "color": "blue"
+          },
+          {
+            "diagnosis": "➡️ 중립 흐름 (Neutral Flow)",
+            "detail": "특별한 수급 패턴 없음",
+            "insight": "기술적/펀더멘털 분석 우선"
+          },
+          {
+            "diagnosis": "⚠️ 35% 승률 패턴 (Low Probability)",
+            "detail": "과거 성공률 낮음",
+            "expected_return": "평균 수익률 -1.2% (3일 기준)",
+            "confidence": "낮음"
+          }
+        ]
+      }
+    },
+    {
+      "ticker": "AIG",
+      "name": "AIG",
+      "score": 55.0,
+      "short_term": {
+        "score": 60,
+        "signal": "Hold",
+        "details": [
+          "❄️ Oversold (RSI 17)",
+          "💧 Low Liquidity Warning"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "Moderate Growth",
+        "rationale": "Stable outlook without high-growth catalysts detected.",
+        "is_high_growth": false
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 67.96571568080357,
+      "badges": [],
+      "price_info": {
+        "current": 72.31999969482422,
+        "change_pct": 0.013832300605962387,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "⚖️ 섹터 중립 (Sector Neutral)",
+        "layers": [
+          {
+            "diagnosis": "⚖️ 섹터 중립 (Sector Neutral)",
+            "detail": "업종 평균과 유사한 흐름",
+            "insight": "섹터 전체 트렌드를 따르는 중"
+          },
+          {
+            "diagnosis": "⚖️ 정상 범위 (Normal Range)",
+            "detail": "VIX 20.0 - 안정적 시장 환경",
+            "action": "전략대로 진행",
+            "color": "blue"
+          },
+          {
+            "diagnosis": "➡️ 중립 흐름 (Neutral Flow)",
+            "detail": "특별한 수급 패턴 없음",
+            "insight": "기술적/펀더멘털 분석 우선"
+          },
+          {
+            "diagnosis": "⚠️ 35% 승률 패턴 (Low Probability)",
+            "detail": "과거 성공률 낮음",
+            "expected_return": "평균 수익률 -1.2% (3일 기준)",
+            "confidence": "낮음"
+          }
+        ]
+      }
+    },
+    {
+      "ticker": "ADBE",
+      "name": "ADBE",
+      "score": 55.0,
+      "short_term": {
+        "score": 60,
+        "signal": "Hold",
+        "details": [
+          "❄️ Oversold (RSI 27)",
+          "💧 Low Liquidity Warning"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "Moderate Growth",
+        "rationale": "Stable outlook without high-growth catalysts detected.",
+        "is_high_growth": false
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 283.90857369559154,
+      "badges": [],
+      "price_info": {
+        "current": 301.07000732421875,
+        "change_pct": 0.44706779060297286,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "⚖️ 섹터 중립 (Sector Neutral)",
+        "layers": [
+          {
+            "diagnosis": "⚖️ 섹터 중립 (Sector Neutral)",
+            "detail": "업종 평균과 유사한 흐름",
+            "insight": "섹터 전체 트렌드를 따르는 중"
+          },
+          {
+            "diagnosis": "⚖️ 정상 범위 (Normal Range)",
+            "detail": "VIX 20.0 - 안정적 시장 환경",
+            "action": "전략대로 진행",
+            "color": "blue"
+          },
+          {
+            "diagnosis": "➡️ 중립 흐름 (Neutral Flow)",
+            "detail": "특별한 수급 패턴 없음",
+            "insight": "기술적/펀더멘털 분석 우선"
+          },
+          {
+            "diagnosis": "⚠️ 35% 승률 패턴 (Low Probability)",
+            "detail": "과거 성공률 낮음",
+            "expected_return": "평균 수익률 -1.2% (3일 기준)",
+            "confidence": "낮음"
+          }
+        ]
+      }
+    },
+    {
+      "ticker": "AWK",
+      "name": "AWK",
+      "score": 52.5,
+      "short_term": {
+        "score": 55,
+        "signal": "Hold",
+        "details": [
+          "⚡ Volatility Squeeze (Ready to Breakout)",
+          "💧 Low Liquidity Warning"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "Moderate Growth",
+        "rationale": "Stable outlook without high-growth catalysts detected.",
+        "is_high_growth": false
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 123.9457255772182,
+      "badges": [
+        "Squeeze Potential"
+      ],
+      "price_info": {
+        "current": 129.7100067138672,
+        "change_pct": -1.4061955602443819,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "⚖️ 섹터 중립 (Sector Neutral)",
+        "layers": [
+          {
+            "diagnosis": "⚖️ 섹터 중립 (Sector Neutral)",
+            "detail": "업종 평균과 유사한 흐름",
+            "insight": "섹터 전체 트렌드를 따르는 중"
+          },
+          {
+            "diagnosis": "⚖️ 정상 범위 (Normal Range)",
+            "detail": "VIX 20.0 - 안정적 시장 환경",
+            "action": "전략대로 진행",
+            "color": "blue"
+          },
+          {
+            "diagnosis": "➡️ 중립 흐름 (Neutral Flow)",
+            "detail": "특별한 수급 패턴 없음",
+            "insight": "기술적/펀더멘털 분석 우선"
+          },
+          {
+            "diagnosis": "⚠️ 35% 승률 패턴 (Low Probability)",
+            "detail": "과거 성공률 낮음",
+            "expected_return": "평균 수익률 -1.2% (3일 기준)",
+            "confidence": "낮음"
+          }
+        ]
+      }
+    },
+    {
+      "ticker": "ABNB",
+      "name": "ABNB",
+      "score": 52.5,
+      "short_term": {
+        "score": 55,
+        "signal": "Hold",
+        "details": [
+          "⚡ Volatility Squeeze (Ready to Breakout)",
+          "💧 Low Liquidity Warning"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "Moderate Growth",
+        "rationale": "Stable outlook without high-growth catalysts detected.",
+        "is_high_growth": false
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 123.8821302141462,
+      "badges": [
+        "Squeeze Potential"
+      ],
+      "price_info": {
+        "current": 132.14999389648438,
+        "change_pct": -1.2331906708814984,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "⚖️ 섹터 중립 (Sector Neutral)",
+        "layers": [
+          {
+            "diagnosis": "⚖️ 섹터 중립 (Sector Neutral)",
+            "detail": "업종 평균과 유사한 흐름",
+            "insight": "섹터 전체 트렌드를 따르는 중"
+          },
+          {
+            "diagnosis": "⚖️ 정상 범위 (Normal Range)",
+            "detail": "VIX 20.0 - 안정적 시장 환경",
+            "action": "전략대로 진행",
+            "color": "blue"
+          },
+          {
+            "diagnosis": "➡️ 중립 흐름 (Neutral Flow)",
+            "detail": "특별한 수급 패턴 없음",
+            "insight": "기술적/펀더멘털 분석 우선"
+          },
+          {
+            "diagnosis": "⚠️ 35% 승률 패턴 (Low Probability)",
+            "detail": "과거 성공률 낮음",
+            "expected_return": "평균 수익률 -1.2% (3일 기준)",
+            "confidence": "낮음"
+          }
+        ]
+      }
+    },
+    {
+      "ticker": "ALLE",
+      "name": "ALLE",
+      "score": 52.5,
+      "short_term": {
+        "score": 55,
+        "signal": "Hold",
+        "details": [
+          "⚡ Volatility Squeeze (Ready to Breakout)",
+          "💧 Low Liquidity Warning"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "Moderate Growth",
+        "rationale": "Stable outlook without high-growth catalysts detected.",
+        "is_high_growth": false
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 159.2442844935826,
+      "badges": [
+        "Squeeze Potential"
+      ],
+      "price_info": {
+        "current": 166.8000030517578,
+        "change_pct": -0.07188780164378442,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "⚖️ 섹터 중립 (Sector Neutral)",
+        "layers": [
+          {
+            "diagnosis": "⚖️ 섹터 중립 (Sector Neutral)",
+            "detail": "업종 평균과 유사한 흐름",
+            "insight": "섹터 전체 트렌드를 따르는 중"
+          },
+          {
+            "diagnosis": "⚖️ 정상 범위 (Normal Range)",
+            "detail": "VIX 20.0 - 안정적 시장 환경",
+            "action": "전략대로 진행",
+            "color": "blue"
+          },
+          {
+            "diagnosis": "➡️ 중립 흐름 (Neutral Flow)",
+            "detail": "특별한 수급 패턴 없음",
+            "insight": "기술적/펀더멘털 분석 우선"
+          },
+          {
+            "diagnosis": "⚠️ 35% 승률 패턴 (Low Probability)",
+            "detail": "과거 성공률 낮음",
+            "expected_return": "평균 수익률 -1.2% (3일 기준)",
+            "confidence": "낮음"
+          }
+        ]
+      }
+    },
+    {
+      "ticker": "AIZ",
+      "name": "AIZ",
+      "score": 52.5,
+      "short_term": {
+        "score": 55,
+        "signal": "Hold",
+        "details": [
+          "⚡ Volatility Squeeze (Ready to Breakout)",
+          "💧 Low Liquidity Warning"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "Moderate Growth",
+        "rationale": "Stable outlook without high-growth catalysts detected.",
+        "is_high_growth": false
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 223.38714599609375,
+      "badges": [
+        "Squeeze Potential"
+      ],
+      "price_info": {
+        "current": 233.38999938964844,
+        "change_pct": -1.6974133646607035,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "⚖️ 섹터 중립 (Sector Neutral)",
+        "layers": [
+          {
+            "diagnosis": "⚖️ 섹터 중립 (Sector Neutral)",
+            "detail": "업종 평균과 유사한 흐름",
+            "insight": "섹터 전체 트렌드를 따르는 중"
+          },
+          {
+            "diagnosis": "⚖️ 정상 범위 (Normal Range)",
+            "detail": "VIX 20.0 - 안정적 시장 환경",
+            "action": "전략대로 진행",
+            "color": "blue"
+          },
+          {
+            "diagnosis": "➡️ 중립 흐름 (Neutral Flow)",
+            "detail": "특별한 수급 패턴 없음",
+            "insight": "기술적/펀더멘털 분석 우선"
+          },
+          {
+            "diagnosis": "⚠️ 35% 승률 패턴 (Low Probability)",
+            "detail": "과거 성공률 낮음",
+            "expected_return": "평균 수익률 -1.2% (3일 기준)",
+            "confidence": "낮음"
+          }
+        ]
+      }
+    },
+    {
+      "ticker": "ATO",
+      "name": "ATO",
+      "score": 52.5,
+      "short_term": {
+        "score": 55,
+        "signal": "Hold",
+        "details": [
+          "⚡ Volatility Squeeze (Ready to Breakout)",
+          "💧 Low Liquidity Warning"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "Moderate Growth",
+        "rationale": "Stable outlook without high-growth catalysts detected.",
+        "is_high_growth": false
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 159.79571315220423,
+      "badges": [
+        "Squeeze Potential"
+      ],
+      "price_info": {
+        "current": 165.33999633789062,
+        "change_pct": -0.03627422056091458,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "⚖️ 섹터 중립 (Sector Neutral)",
+        "layers": [
+          {
+            "diagnosis": "⚖️ 섹터 중립 (Sector Neutral)",
+            "detail": "업종 평균과 유사한 흐름",
+            "insight": "섹터 전체 트렌드를 따르는 중"
+          },
+          {
+            "diagnosis": "⚖️ 정상 범위 (Normal Range)",
+            "detail": "VIX 20.0 - 안정적 시장 환경",
+            "action": "전략대로 진행",
+            "color": "blue"
+          },
+          {
+            "diagnosis": "➡️ 중립 흐름 (Neutral Flow)",
+            "detail": "특별한 수급 패턴 없음",
+            "insight": "기술적/펀더멘털 분석 우선"
+          },
+          {
+            "diagnosis": "⚠️ 35% 승률 패턴 (Low Probability)",
+            "detail": "과거 성공률 낮음",
+            "expected_return": "평균 수익률 -1.2% (3일 기준)",
+            "confidence": "낮음"
+          }
+        ]
+      }
+    },
+    {
+      "ticker": "AMT",
+      "name": "AMT",
+      "score": 52.5,
+      "short_term": {
+        "score": 55,
+        "signal": "Hold",
+        "details": [
+          "⚡ Volatility Squeeze (Ready to Breakout)",
+          "💧 Low Liquidity Warning"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "Moderate Growth",
+        "rationale": "Stable outlook without high-growth catalysts detected.",
+        "is_high_growth": false
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 169.16285487583704,
+      "badges": [
+        "Squeeze Potential"
+      ],
+      "price_info": {
+        "current": 178.75,
+        "change_pct": 1.0172382496758747,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "⚖️ 섹터 중립 (Sector Neutral)",
+        "layers": [
+          {
+            "diagnosis": "⚖️ 섹터 중립 (Sector Neutral)",
+            "detail": "업종 평균과 유사한 흐름",
+            "insight": "섹터 전체 트렌드를 따르는 중"
+          },
+          {
+            "diagnosis": "⚖️ 정상 범위 (Normal Range)",
+            "detail": "VIX 20.0 - 안정적 시장 환경",
+            "action": "전략대로 진행",
+            "color": "blue"
+          },
+          {
+            "diagnosis": "➡️ 중립 흐름 (Neutral Flow)",
+            "detail": "특별한 수급 패턴 없음",
+            "insight": "기술적/펀더멘털 분석 우선"
+          },
+          {
+            "diagnosis": "⚠️ 35% 승률 패턴 (Low Probability)",
+            "detail": "과거 성공률 낮음",
+            "expected_return": "평균 수익률 -1.2% (3일 기준)",
+            "confidence": "낮음"
+          }
+        ]
+      }
+    },
+    {
+      "ticker": "ACGL",
+      "name": "ACGL",
+      "score": 52.5,
+      "short_term": {
+        "score": 55,
+        "signal": "Hold",
+        "details": [
+          "⚡ Volatility Squeeze (Ready to Breakout)",
+          "💧 Low Liquidity Warning"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "Moderate Growth",
+        "rationale": "Stable outlook without high-growth catalysts detected.",
+        "is_high_growth": false
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 89.16000039236886,
+      "badges": [
+        "Squeeze Potential"
+      ],
+      "price_info": {
+        "current": 92.95999908447266,
+        "change_pct": 0.486430588964338,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "⚖️ 섹터 중립 (Sector Neutral)",
+        "layers": [
+          {
+            "diagnosis": "⚖️ 섹터 중립 (Sector Neutral)",
+            "detail": "업종 평균과 유사한 흐름",
+            "insight": "섹터 전체 트렌드를 따르는 중"
+          },
+          {
+            "diagnosis": "⚖️ 정상 범위 (Normal Range)",
+            "detail": "VIX 20.0 - 안정적 시장 환경",
+            "action": "전략대로 진행",
+            "color": "blue"
+          },
+          {
+            "diagnosis": "➡️ 중립 흐름 (Neutral Flow)",
+            "detail": "특별한 수급 패턴 없음",
+            "insight": "기술적/펀더멘털 분석 우선"
+          },
+          {
+            "diagnosis": "⚠️ 35% 승률 패턴 (Low Probability)",
+            "detail": "과거 성공률 낮음",
+            "expected_return": "평균 수익률 -1.2% (3일 기준)",
+            "confidence": "낮음"
+          }
+        ]
+      }
+    },
+    {
+      "ticker": "T",
+      "name": "T",
+      "score": 52.5,
+      "short_term": {
+        "score": 55,
+        "signal": "Hold",
+        "details": [
+          "⚡ Volatility Squeeze (Ready to Breakout)",
+          "💧 Low Liquidity Warning"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "Moderate Growth",
+        "rationale": "Stable outlook without high-growth catalysts detected.",
+        "is_high_growth": false
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 22.748572213309153,
+      "badges": [
+        "Squeeze Potential"
+      ],
+      "price_info": {
+        "current": 23.59000015258789,
+        "change_pct": 0.04240979183287549,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "⚖️ 섹터 중립 (Sector Neutral)",
+        "layers": [
+          {
+            "diagnosis": "⚖️ 섹터 중립 (Sector Neutral)",
+            "detail": "업종 평균과 유사한 흐름",
+            "insight": "섹터 전체 트렌드를 따르는 중"
+          },
+          {
+            "diagnosis": "⚖️ 정상 범위 (Normal Range)",
+            "detail": "VIX 20.0 - 안정적 시장 환경",
+            "action": "전략대로 진행",
+            "color": "blue"
+          },
+          {
+            "diagnosis": "➡️ 중립 흐름 (Neutral Flow)",
+            "detail": "특별한 수급 패턴 없음",
+            "insight": "기술적/펀더멘털 분석 우선"
+          },
+          {
+            "diagnosis": "⚠️ 35% 승률 패턴 (Low Probability)",
+            "detail": "과거 성공률 낮음",
+            "expected_return": "평균 수익률 -1.2% (3일 기준)",
+            "confidence": "낮음"
+          }
+        ]
+      }
+    },
+    {
+      "ticker": "AME",
+      "name": "AME",
+      "score": 52.5,
+      "short_term": {
+        "score": 55,
+        "signal": "Hold",
+        "details": [
+          "⚡ Volatility Squeeze (Ready to Breakout)",
+          "💧 Low Liquidity Warning"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "Moderate Growth",
+        "rationale": "Stable outlook without high-growth catalysts detected.",
+        "is_high_growth": false
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 212.6071493966239,
+      "badges": [
+        "Squeeze Potential"
+      ],
+      "price_info": {
+        "current": 220.74000549316406,
+        "change_pct": -0.5317198474753655,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "⚖️ 섹터 중립 (Sector Neutral)",
+        "layers": [
+          {
+            "diagnosis": "⚖️ 섹터 중립 (Sector Neutral)",
+            "detail": "업종 평균과 유사한 흐름",
+            "insight": "섹터 전체 트렌드를 따르는 중"
+          },
+          {
+            "diagnosis": "⚖️ 정상 범위 (Normal Range)",
+            "detail": "VIX 20.0 - 안정적 시장 환경",
+            "action": "전략대로 진행",
+            "color": "blue"
+          },
+          {
+            "diagnosis": "➡️ 중립 흐름 (Neutral Flow)",
+            "detail": "특별한 수급 패턴 없음",
+            "insight": "기술적/펀더멘털 분석 우선"
+          },
+          {
+            "diagnosis": "⚠️ 35% 승률 패턴 (Low Probability)",
+            "detail": "과거 성공률 낮음",
+            "expected_return": "평균 수익률 -1.2% (3일 기준)",
+            "confidence": "낮음"
+          }
+        ]
+      }
+    },
+    {
+      "ticker": "AJG",
+      "name": "AJG",
+      "score": 52.5,
+      "short_term": {
+        "score": 55,
+        "signal": "Hold",
+        "details": [
+          "⚡ Volatility Squeeze (Ready to Breakout)",
+          "💧 Low Liquidity Warning"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "Moderate Growth",
+        "rationale": "Stable outlook without high-growth catalysts detected.",
+        "is_high_growth": false
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 240.05001177106584,
+      "badges": [
+        "Squeeze Potential"
+      ],
+      "price_info": {
+        "current": 253.2100067138672,
+        "change_pct": 1.1302826806714208,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "⚖️ 섹터 중립 (Sector Neutral)",
+        "layers": [
+          {
+            "diagnosis": "⚖️ 섹터 중립 (Sector Neutral)",
+            "detail": "업종 평균과 유사한 흐름",
+            "insight": "섹터 전체 트렌드를 따르는 중"
+          },
+          {
+            "diagnosis": "⚖️ 정상 범위 (Normal Range)",
+            "detail": "VIX 20.0 - 안정적 시장 환경",
+            "action": "전략대로 진행",
+            "color": "blue"
+          },
+          {
+            "diagnosis": "➡️ 중립 흐름 (Neutral Flow)",
+            "detail": "특별한 수급 패턴 없음",
+            "insight": "기술적/펀더멘털 분석 우선"
+          },
+          {
+            "diagnosis": "⚠️ 35% 승률 패턴 (Low Probability)",
+            "detail": "과거 성공률 낮음",
+            "expected_return": "평균 수익률 -1.2% (3일 기준)",
+            "confidence": "낮음"
+          }
+        ]
+      }
+    },
+    {
+      "ticker": "AES",
+      "name": "AES",
+      "score": 52.5,
+      "short_term": {
+        "score": 55,
+        "signal": "Hold",
+        "details": [
+          "⚡ Volatility Squeeze (Ready to Breakout)",
+          "💧 Low Liquidity Warning"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "Moderate Growth",
+        "rationale": "Stable outlook without high-growth catalysts detected.",
+        "is_high_growth": false
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 13.295714514596122,
+      "badges": [
+        "Squeeze Potential"
+      ],
+      "price_info": {
+        "current": 14.25,
+        "change_pct": -2.464063416406136,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "⚖️ 섹터 중립 (Sector Neutral)",
+        "layers": [
+          {
+            "diagnosis": "⚖️ 섹터 중립 (Sector Neutral)",
+            "detail": "업종 평균과 유사한 흐름",
+            "insight": "섹터 전체 트렌드를 따르는 중"
+          },
+          {
+            "diagnosis": "⚖️ 정상 범위 (Normal Range)",
+            "detail": "VIX 20.0 - 안정적 시장 환경",
+            "action": "전략대로 진행",
+            "color": "blue"
+          },
+          {
+            "diagnosis": "➡️ 중립 흐름 (Neutral Flow)",
+            "detail": "특별한 수급 패턴 없음",
+            "insight": "기술적/펀더멘털 분석 우선"
+          },
+          {
+            "diagnosis": "⚠️ 35% 승률 패턴 (Low Probability)",
+            "detail": "과거 성공률 낮음",
+            "expected_return": "평균 수익률 -1.2% (3일 기준)",
+            "confidence": "낮음"
+          }
+        ]
+      }
+    },
+    {
+      "ticker": "AMGN",
+      "name": "AMGN",
+      "score": 52.5,
+      "short_term": {
+        "score": 55,
+        "signal": "Hold",
+        "details": [
+          "⚡ Volatility Squeeze (Ready to Breakout)",
+          "💧 Low Liquidity Warning"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "Moderate Growth",
+        "rationale": "Stable outlook without high-growth catalysts detected.",
+        "is_high_growth": false
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 326.412850516183,
+      "badges": [
+        "Squeeze Potential"
+      ],
+      "price_info": {
+        "current": 344.75,
+        "change_pct": -0.6684551460107854,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "⚖️ 섹터 중립 (Sector Neutral)",
+        "layers": [
+          {
+            "diagnosis": "⚖️ 섹터 중립 (Sector Neutral)",
+            "detail": "업종 평균과 유사한 흐름",
+            "insight": "섹터 전체 트렌드를 따르는 중"
+          },
+          {
+            "diagnosis": "⚖️ 정상 범위 (Normal Range)",
+            "detail": "VIX 20.0 - 안정적 시장 환경",
+            "action": "전략대로 진행",
+            "color": "blue"
+          },
+          {
+            "diagnosis": "➡️ 중립 흐름 (Neutral Flow)",
+            "detail": "특별한 수급 패턴 없음",
+            "insight": "기술적/펀더멘털 분석 우선"
+          },
+          {
+            "diagnosis": "⚠️ 35% 승률 패턴 (Low Probability)",
+            "detail": "과거 성공률 낮음",
+            "expected_return": "평균 수익률 -1.2% (3일 기준)",
+            "confidence": "낮음"
+          }
+        ]
+      }
+    },
+    {
+      "ticker": "LNT",
+      "name": "LNT",
+      "score": 52.5,
+      "short_term": {
+        "score": 55,
+        "signal": "Hold",
+        "details": [
+          "⚡ Volatility Squeeze (Ready to Breakout)",
+          "💧 Low Liquidity Warning"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "Moderate Growth",
+        "rationale": "Stable outlook without high-growth catalysts detected.",
+        "is_high_growth": false
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 64.81142915998187,
+      "badges": [
+        "Squeeze Potential"
+      ],
+      "price_info": {
+        "current": 66.83000183105469,
+        "change_pct": -0.05981892311106319,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "⚖️ 섹터 중립 (Sector Neutral)",
+        "layers": [
+          {
+            "diagnosis": "⚖️ 섹터 중립 (Sector Neutral)",
+            "detail": "업종 평균과 유사한 흐름",
+            "insight": "섹터 전체 트렌드를 따르는 중"
+          },
+          {
+            "diagnosis": "⚖️ 정상 범위 (Normal Range)",
+            "detail": "VIX 20.0 - 안정적 시장 환경",
+            "action": "전략대로 진행",
+            "color": "blue"
+          },
+          {
+            "diagnosis": "➡️ 중립 흐름 (Neutral Flow)",
+            "detail": "특별한 수급 패턴 없음",
+            "insight": "기술적/펀더멘털 분석 우선"
+          },
+          {
+            "diagnosis": "⚠️ 35% 승률 패턴 (Low Probability)",
+            "detail": "과거 성공률 낮음",
+            "expected_return": "평균 수익률 -1.2% (3일 기준)",
+            "confidence": "낮음"
+          }
+        ]
+      }
+    },
+    {
+      "ticker": "AFL",
+      "name": "AFL",
+      "score": 52.5,
+      "short_term": {
+        "score": 55,
+        "signal": "Hold",
+        "details": [
+          "⚡ Volatility Squeeze (Ready to Breakout)",
+          "💧 Low Liquidity Warning"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "Moderate Growth",
+        "rationale": "Stable outlook without high-growth catalysts detected.",
+        "is_high_growth": false
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 103.29570988246373,
+      "badges": [
+        "Squeeze Potential"
+      ],
+      "price_info": {
+        "current": 107.08999633789062,
+        "change_pct": -1.1172730191788744,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "⚖️ 섹터 중립 (Sector Neutral)",
+        "layers": [
+          {
+            "diagnosis": "⚖️ 섹터 중립 (Sector Neutral)",
+            "detail": "업종 평균과 유사한 흐름",
+            "insight": "섹터 전체 트렌드를 따르는 중"
+          },
+          {
+            "diagnosis": "⚖️ 정상 범위 (Normal Range)",
+            "detail": "VIX 20.0 - 안정적 시장 환경",
+            "action": "전략대로 진행",
+            "color": "blue"
+          },
+          {
+            "diagnosis": "➡️ 중립 흐름 (Neutral Flow)",
+            "detail": "특별한 수급 패턴 없음",
+            "insight": "기술적/펀더멘털 분석 우선"
+          },
+          {
+            "diagnosis": "⚠️ 35% 승률 패턴 (Low Probability)",
+            "detail": "과거 성공률 낮음",
+            "expected_return": "평균 수익률 -1.2% (3일 기준)",
+            "confidence": "낮음"
+          }
+        ]
+      }
+    },
+    {
+      "ticker": "AON",
+      "name": "AON",
+      "score": 52.5,
+      "short_term": {
+        "score": 55,
+        "signal": "Hold",
+        "details": [
+          "⚡ Volatility Squeeze (Ready to Breakout)",
+          "💧 Low Liquidity Warning"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "Moderate Growth",
+        "rationale": "Stable outlook without high-growth catalysts detected.",
+        "is_high_growth": false
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 325.4928763253348,
+      "badges": [
+        "Squeeze Potential"
+      ],
+      "price_info": {
+        "current": 338.69000244140625,
+        "change_pct": 0.8126000285046323,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "⚖️ 섹터 중립 (Sector Neutral)",
+        "layers": [
+          {
+            "diagnosis": "⚖️ 섹터 중립 (Sector Neutral)",
+            "detail": "업종 평균과 유사한 흐름",
+            "insight": "섹터 전체 트렌드를 따르는 중"
+          },
+          {
+            "diagnosis": "⚖️ 정상 범위 (Normal Range)",
+            "detail": "VIX 20.0 - 안정적 시장 환경",
+            "action": "전략대로 진행",
+            "color": "blue"
+          },
+          {
+            "diagnosis": "➡️ 중립 흐름 (Neutral Flow)",
+            "detail": "특별한 수급 패턴 없음",
+            "insight": "기술적/펀더멘털 분석 우선"
+          },
+          {
+            "diagnosis": "⚠️ 35% 승률 패턴 (Low Probability)",
+            "detail": "과거 성공률 낮음",
+            "expected_return": "평균 수익률 -1.2% (3일 기준)",
+            "confidence": "낮음"
+          }
+        ]
+      }
+    },
+    {
+      "ticker": "AEE",
+      "name": "AEE",
+      "score": 52.5,
+      "short_term": {
+        "score": 55,
+        "signal": "Hold",
+        "details": [
+          "⚡ Volatility Squeeze (Ready to Breakout)",
+          "💧 Low Liquidity Warning"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "Moderate Growth",
+        "rationale": "Stable outlook without high-growth catalysts detected.",
+        "is_high_growth": false
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 98.98428453717914,
+      "badges": [
+        "Squeeze Potential"
+      ],
+      "price_info": {
+        "current": 102.31999969482422,
+        "change_pct": -0.5636558041340938,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "⚖️ 섹터 중립 (Sector Neutral)",
+        "layers": [
+          {
+            "diagnosis": "⚖️ 섹터 중립 (Sector Neutral)",
+            "detail": "업종 평균과 유사한 흐름",
+            "insight": "섹터 전체 트렌드를 따르는 중"
+          },
+          {
+            "diagnosis": "⚖️ 정상 범위 (Normal Range)",
+            "detail": "VIX 20.0 - 안정적 시장 환경",
+            "action": "전략대로 진행",
+            "color": "blue"
+          },
+          {
+            "diagnosis": "➡️ 중립 흐름 (Neutral Flow)",
+            "detail": "특별한 수급 패턴 없음",
+            "insight": "기술적/펀더멘털 분석 우선"
+          },
+          {
+            "diagnosis": "⚠️ 35% 승률 패턴 (Low Probability)",
+            "detail": "과거 성공률 낮음",
+            "expected_return": "평균 수익률 -1.2% (3일 기준)",
+            "confidence": "낮음"
+          }
+        ]
+      }
+    },
+    {
+      "ticker": "AMCR",
+      "name": "AMCR",
+      "score": 52.5,
+      "short_term": {
+        "score": 55,
+        "signal": "Hold",
+        "details": [
+          "⚡ Volatility Squeeze (Ready to Breakout)",
+          "💧 Low Liquidity Warning"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "Moderate Growth",
+        "rationale": "Stable outlook without high-growth catalysts detected.",
+        "is_high_growth": false
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 41.64571162632534,
+      "badges": [
+        "Squeeze Potential"
+      ],
+      "price_info": {
+        "current": 44.279998779296875,
+        "change_pct": 3.5305080789614673,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "⚖️ 섹터 중립 (Sector Neutral)",
+        "layers": [
+          {
+            "diagnosis": "⚖️ 섹터 중립 (Sector Neutral)",
+            "detail": "업종 평균과 유사한 흐름",
+            "insight": "섹터 전체 트렌드를 따르는 중"
+          },
+          {
+            "diagnosis": "⚖️ 정상 범위 (Normal Range)",
+            "detail": "VIX 20.0 - 안정적 시장 환경",
+            "action": "전략대로 진행",
+            "color": "blue"
+          },
+          {
+            "diagnosis": "➡️ 중립 흐름 (Neutral Flow)",
+            "detail": "특별한 수급 패턴 없음",
+            "insight": "기술적/펀더멘털 분석 우선"
+          },
+          {
+            "diagnosis": "⚠️ 35% 승률 패턴 (Low Probability)",
+            "detail": "과거 성공률 낮음",
+            "expected_return": "평균 수익률 -1.2% (3일 기준)",
+            "confidence": "낮음"
+          }
+        ]
+      }
+    },
+    {
+      "ticker": "AEP",
+      "name": "AEP",
+      "score": 52.5,
+      "short_term": {
+        "score": 55,
+        "signal": "Hold",
+        "details": [
+          "⚡ Volatility Squeeze (Ready to Breakout)",
+          "💧 Low Liquidity Warning"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "Moderate Growth",
+        "rationale": "Stable outlook without high-growth catalysts detected.",
+        "is_high_growth": false
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 112.4114259992327,
+      "badges": [
+        "Squeeze Potential"
+      ],
+      "price_info": {
+        "current": 116.62999725341797,
+        "change_pct": -0.4693659757001376,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "⚖️ 섹터 중립 (Sector Neutral)",
+        "layers": [
+          {
+            "diagnosis": "⚖️ 섹터 중립 (Sector Neutral)",
+            "detail": "업종 평균과 유사한 흐름",
+            "insight": "섹터 전체 트렌드를 따르는 중"
+          },
+          {
+            "diagnosis": "⚖️ 정상 범위 (Normal Range)",
+            "detail": "VIX 20.0 - 안정적 시장 환경",
+            "action": "전략대로 진행",
+            "color": "blue"
+          },
+          {
+            "diagnosis": "➡️ 중립 흐름 (Neutral Flow)",
+            "detail": "특별한 수급 패턴 없음",
+            "insight": "기술적/펀더멘털 분석 우선"
+          },
+          {
+            "diagnosis": "⚠️ 35% 승률 패턴 (Low Probability)",
+            "detail": "과거 성공률 낮음",
+            "expected_return": "평균 수익률 -1.2% (3일 기준)",
+            "confidence": "낮음"
+          }
+        ]
+      }
+    },
+    {
+      "ticker": "AMP",
+      "name": "AMP",
+      "score": 52.5,
+      "short_term": {
+        "score": 55,
+        "signal": "Hold",
+        "details": [
+          "⚡ Volatility Squeeze (Ready to Breakout)",
+          "💧 Low Liquidity Warning"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "Moderate Growth",
+        "rationale": "Stable outlook without high-growth catalysts detected.",
+        "is_high_growth": false
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 469.22142246791293,
+      "badges": [
+        "Squeeze Potential"
+      ],
+      "price_info": {
+        "current": 496.6000061035156,
+        "change_pct": -2.2575631419596243,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "⚖️ 섹터 중립 (Sector Neutral)",
+        "layers": [
+          {
+            "diagnosis": "⚖️ 섹터 중립 (Sector Neutral)",
+            "detail": "업종 평균과 유사한 흐름",
+            "insight": "섹터 전체 트렌드를 따르는 중"
+          },
+          {
+            "diagnosis": "⚖️ 정상 범위 (Normal Range)",
+            "detail": "VIX 20.0 - 안정적 시장 환경",
+            "action": "전략대로 진행",
+            "color": "blue"
+          },
+          {
+            "diagnosis": "➡️ 중립 흐름 (Neutral Flow)",
+            "detail": "특별한 수급 패턴 없음",
+            "insight": "기술적/펀더멘털 분석 우선"
+          },
+          {
+            "diagnosis": "⚠️ 35% 승률 패턴 (Low Probability)",
+            "detail": "과거 성공률 낮음",
+            "expected_return": "평균 수익률 -1.2% (3일 기준)",
+            "confidence": "낮음"
+          }
+        ]
+      }
+    },
+    {
+      "ticker": "AMZN",
+      "name": "AMZN",
+      "score": 50.0,
+      "short_term": {
+        "score": 50,
+        "signal": "Hold",
+        "details": [
+          "Neutral Momentum (RSI 63)"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "Moderate Growth",
+        "rationale": "Stable outlook without high-growth catalysts detected.",
+        "is_high_growth": false
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 227.0271497453962,
+      "badges": [],
+      "price_info": {
+        "current": 239.16000366210938,
+        "change_pct": 2.0568436457892867,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "⚖️ 섹터 중립 (Sector Neutral)",
+        "layers": [
+          {
+            "diagnosis": "⚖️ 섹터 중립 (Sector Neutral)",
+            "detail": "업종 평균과 유사한 흐름",
+            "insight": "섹터 전체 트렌드를 따르는 중"
+          },
+          {
+            "diagnosis": "⚖️ 정상 범위 (Normal Range)",
+            "detail": "VIX 20.0 - 안정적 시장 환경",
+            "action": "전략대로 진행",
+            "color": "blue"
+          },
+          {
+            "diagnosis": "➡️ 중립 흐름 (Neutral Flow)",
+            "detail": "특별한 수급 패턴 없음",
+            "insight": "기술적/펀더멘털 분석 우선"
+          },
+          {
+            "diagnosis": "⚠️ 35% 승률 패턴 (Low Probability)",
+            "detail": "과거 성공률 낮음",
+            "expected_return": "평균 수익률 -1.2% (3일 기준)",
+            "confidence": "낮음"
+          }
+        ]
+      }
+    },
+    {
+      "ticker": "GOOG",
+      "name": "GOOG",
+      "score": 50.0,
+      "short_term": {
+        "score": 50,
+        "signal": "Hold",
+        "details": [
+          "Neutral Momentum (RSI 63)"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "Moderate Growth",
+        "rationale": "Stable outlook without high-growth catalysts detected.",
+        "is_high_growth": false
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 312.43985857282365,
+      "badges": [],
+      "price_info": {
+        "current": 328.42999267578125,
+        "change_pct": -0.7284499119773932,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "⚖️ 섹터 중립 (Sector Neutral)",
+        "layers": [
+          {
+            "diagnosis": "⚖️ 섹터 중립 (Sector Neutral)",
+            "detail": "업종 평균과 유사한 흐름",
+            "insight": "섹터 전체 트렌드를 따르는 중"
+          },
+          {
+            "diagnosis": "⚖️ 정상 범위 (Normal Range)",
+            "detail": "VIX 20.0 - 안정적 시장 환경",
+            "action": "전략대로 진행",
+            "color": "blue"
+          },
+          {
+            "diagnosis": "➡️ 중립 흐름 (Neutral Flow)",
+            "detail": "특별한 수급 패턴 없음",
+            "insight": "기술적/펀더멘털 분석 우선"
+          },
+          {
+            "diagnosis": "⚠️ 35% 승률 패턴 (Low Probability)",
+            "detail": "과거 성공률 낮음",
+            "expected_return": "평균 수익률 -1.2% (3일 기준)",
+            "confidence": "낮음"
+          }
+        ]
+      }
+    },
+    {
+      "ticker": "GOOGL",
+      "name": "GOOGL",
+      "score": 50.0,
+      "short_term": {
+        "score": 50,
+        "signal": "Hold",
+        "details": [
+          "Neutral Momentum (RSI 63)"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "Moderate Growth",
+        "rationale": "Stable outlook without high-growth catalysts detected.",
+        "is_high_growth": false
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 311.7814287458147,
+      "badges": [],
+      "price_info": {
+        "current": 327.92999267578125,
+        "change_pct": -0.7896217709409032,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "⚖️ 섹터 중립 (Sector Neutral)",
+        "layers": [
+          {
+            "diagnosis": "⚖️ 섹터 중립 (Sector Neutral)",
+            "detail": "업종 평균과 유사한 흐름",
+            "insight": "섹터 전체 트렌드를 따르는 중"
+          },
+          {
+            "diagnosis": "⚖️ 정상 범위 (Normal Range)",
+            "detail": "VIX 20.0 - 안정적 시장 환경",
+            "action": "전략대로 진행",
+            "color": "blue"
+          },
+          {
+            "diagnosis": "➡️ 중립 흐름 (Neutral Flow)",
+            "detail": "특별한 수급 패턴 없음",
+            "insight": "기술적/펀더멘털 분석 우선"
+          },
+          {
+            "diagnosis": "⚠️ 35% 승률 패턴 (Low Probability)",
+            "detail": "과거 성공률 낮음",
+            "expected_return": "평균 수익률 -1.2% (3일 기준)",
+            "confidence": "낮음"
+          }
+        ]
+      }
+    },
+    {
+      "ticker": "ARES",
+      "name": "ARES",
+      "score": 45.0,
+      "short_term": {
+        "score": 40,
+        "signal": "Hold",
+        "details": [
+          "Neutral Momentum (RSI 37)",
+          "💧 Low Liquidity Warning"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "Moderate Growth",
+        "rationale": "Stable outlook without high-growth catalysts detected.",
+        "is_high_growth": false
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 145.159428187779,
+      "badges": [],
+      "price_info": {
+        "current": 155.88999938964844,
+        "change_pct": -3.4856393845281817,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "⚖️ 섹터 중립 (Sector Neutral)",
+        "layers": [
+          {
+            "diagnosis": "⚖️ 섹터 중립 (Sector Neutral)",
+            "detail": "업종 평균과 유사한 흐름",
+            "insight": "섹터 전체 트렌드를 따르는 중"
+          },
+          {
+            "diagnosis": "⚖️ 정상 범위 (Normal Range)",
+            "detail": "VIX 20.0 - 안정적 시장 환경",
+            "action": "전략대로 진행",
+            "color": "blue"
+          },
+          {
+            "diagnosis": "➡️ 중립 흐름 (Neutral Flow)",
+            "detail": "특별한 수급 패턴 없음",
+            "insight": "기술적/펀더멘털 분석 우선"
+          },
+          {
+            "diagnosis": "⚠️ 35% 승률 패턴 (Low Probability)",
+            "detail": "과거 성공률 낮음",
+            "expected_return": "평균 수익률 -1.2% (3일 기준)",
+            "confidence": "낮음"
+          }
+        ]
+      }
+    },
+    {
+      "ticker": "APD",
+      "name": "APD",
+      "score": 45.0,
+      "short_term": {
+        "score": 40,
+        "signal": "Hold",
+        "details": [
+          "Neutral Momentum (RSI 63)",
+          "💧 Low Liquidity Warning"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "Moderate Growth",
+        "rationale": "Stable outlook without high-growth catalysts detected.",
+        "is_high_growth": false
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 249.0928671700614,
+      "badges": [],
+      "price_info": {
+        "current": 261.3500061035156,
+        "change_pct": -1.0187859242356418,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "⚖️ 섹터 중립 (Sector Neutral)",
+        "layers": [
+          {
+            "diagnosis": "⚖️ 섹터 중립 (Sector Neutral)",
+            "detail": "업종 평균과 유사한 흐름",
+            "insight": "섹터 전체 트렌드를 따르는 중"
+          },
+          {
+            "diagnosis": "⚖️ 정상 범위 (Normal Range)",
+            "detail": "VIX 20.0 - 안정적 시장 환경",
+            "action": "전략대로 진행",
+            "color": "blue"
+          },
+          {
+            "diagnosis": "➡️ 중립 흐름 (Neutral Flow)",
+            "detail": "특별한 수급 패턴 없음",
+            "insight": "기술적/펀더멘털 분석 우선"
+          },
+          {
+            "diagnosis": "⚠️ 35% 승률 패턴 (Low Probability)",
+            "detail": "과거 성공률 낮음",
+            "expected_return": "평균 수익률 -1.2% (3일 기준)",
+            "confidence": "낮음"
+          }
+        ]
+      }
+    },
+    {
+      "ticker": "ALL",
+      "name": "ALL",
+      "score": 45.0,
+      "short_term": {
+        "score": 40,
+        "signal": "Hold",
+        "details": [
+          "Neutral Momentum (RSI 35)",
+          "💧 Low Liquidity Warning"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "Moderate Growth",
+        "rationale": "Stable outlook without high-growth catalysts detected.",
+        "is_high_growth": false
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 183.19427708217077,
+      "badges": [],
+      "price_info": {
+        "current": 193.64999389648438,
+        "change_pct": -0.8347013995297655,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "⚖️ 섹터 중립 (Sector Neutral)",
+        "layers": [
+          {
+            "diagnosis": "⚖️ 섹터 중립 (Sector Neutral)",
+            "detail": "업종 평균과 유사한 흐름",
+            "insight": "섹터 전체 트렌드를 따르는 중"
+          },
+          {
+            "diagnosis": "⚖️ 정상 범위 (Normal Range)",
+            "detail": "VIX 20.0 - 안정적 시장 환경",
+            "action": "전략대로 진행",
+            "color": "blue"
+          },
+          {
+            "diagnosis": "➡️ 중립 흐름 (Neutral Flow)",
+            "detail": "특별한 수급 패턴 없음",
+            "insight": "기술적/펀더멘털 분석 우선"
+          },
+          {
+            "diagnosis": "⚠️ 35% 승률 패턴 (Low Probability)",
+            "detail": "과거 성공률 낮음",
+            "expected_return": "평균 수익률 -1.2% (3일 기준)",
+            "confidence": "낮음"
+          }
+        ]
+      }
+    },
+    {
+      "ticker": "MMM",
+      "name": "MMM",
+      "score": 45.0,
+      "short_term": {
+        "score": 40,
+        "signal": "Hold",
+        "details": [
+          "Neutral Momentum (RSI 51)",
+          "💧 Low Liquidity Warning"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "Moderate Growth",
+        "rationale": "Stable outlook without high-growth catalysts detected.",
+        "is_high_growth": false
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 152.98285348074776,
+      "badges": [],
+      "price_info": {
+        "current": 162.67999267578125,
+        "change_pct": 1.2762172263297364,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "⚖️ 섹터 중립 (Sector Neutral)",
+        "layers": [
+          {
+            "diagnosis": "⚖️ 섹터 중립 (Sector Neutral)",
+            "detail": "업종 평균과 유사한 흐름",
+            "insight": "섹터 전체 트렌드를 따르는 중"
+          },
+          {
+            "diagnosis": "⚖️ 정상 범위 (Normal Range)",
+            "detail": "VIX 20.0 - 안정적 시장 환경",
+            "action": "전략대로 진행",
+            "color": "blue"
+          },
+          {
+            "diagnosis": "➡️ 중립 흐름 (Neutral Flow)",
+            "detail": "특별한 수급 패턴 없음",
+            "insight": "기술적/펀더멘털 분석 우선"
+          },
+          {
+            "diagnosis": "⚠️ 35% 승률 패턴 (Low Probability)",
+            "detail": "과거 성공률 낮음",
+            "expected_return": "평균 수익률 -1.2% (3일 기준)",
+            "confidence": "낮음"
+          }
+        ]
+      }
+    },
+    {
+      "ticker": "APTV",
+      "name": "APTV",
+      "score": 45.0,
+      "short_term": {
+        "score": 40,
+        "signal": "Hold",
+        "details": [
+          "Neutral Momentum (RSI 47)",
+          "💧 Low Liquidity Warning"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "Moderate Growth",
+        "rationale": "Stable outlook without high-growth catalysts detected.",
+        "is_high_growth": false
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 69.94285692487445,
+      "badges": [],
+      "price_info": {
+        "current": 76.47000122070312,
+        "change_pct": -1.3672095644051592,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "⚖️ 섹터 중립 (Sector Neutral)",
+        "layers": [
+          {
+            "diagnosis": "⚖️ 섹터 중립 (Sector Neutral)",
+            "detail": "업종 평균과 유사한 흐름",
+            "insight": "섹터 전체 트렌드를 따르는 중"
+          },
+          {
+            "diagnosis": "⚖️ 정상 범위 (Normal Range)",
+            "detail": "VIX 20.0 - 안정적 시장 환경",
+            "action": "전략대로 진행",
+            "color": "blue"
+          },
+          {
+            "diagnosis": "➡️ 중립 흐름 (Neutral Flow)",
+            "detail": "특별한 수급 패턴 없음",
+            "insight": "기술적/펀더멘털 분석 우선"
+          },
+          {
+            "diagnosis": "⚠️ 35% 승률 패턴 (Low Probability)",
+            "detail": "과거 성공률 낮음",
+            "expected_return": "평균 수익률 -1.2% (3일 기준)",
+            "confidence": "낮음"
+          }
+        ]
+      }
+    },
+    {
+      "ticker": "A",
+      "name": "A",
+      "score": 45.0,
+      "short_term": {
+        "score": 40,
+        "signal": "Hold",
+        "details": [
+          "Neutral Momentum (RSI 46)",
+          "💧 Low Liquidity Warning"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "Moderate Growth",
+        "rationale": "Stable outlook without high-growth catalysts detected.",
+        "is_high_growth": false
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 126.36857386997768,
+      "badges": [],
+      "price_info": {
+        "current": 135.0500030517578,
+        "change_pct": -2.5824148488496084,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "⚖️ 섹터 중립 (Sector Neutral)",
+        "layers": [
+          {
+            "diagnosis": "⚖️ 섹터 중립 (Sector Neutral)",
+            "detail": "업종 평균과 유사한 흐름",
+            "insight": "섹터 전체 트렌드를 따르는 중"
+          },
+          {
+            "diagnosis": "⚖️ 정상 범위 (Normal Range)",
+            "detail": "VIX 20.0 - 안정적 시장 환경",
+            "action": "전략대로 진행",
+            "color": "blue"
+          },
+          {
+            "diagnosis": "➡️ 중립 흐름 (Neutral Flow)",
+            "detail": "특별한 수급 패턴 없음",
+            "insight": "기술적/펀더멘털 분석 우선"
+          },
+          {
+            "diagnosis": "⚠️ 35% 승률 패턴 (Low Probability)",
+            "detail": "과거 성공률 낮음",
+            "expected_return": "평균 수익률 -1.2% (3일 기준)",
+            "confidence": "낮음"
+          }
+        ]
+      }
+    },
+    {
+      "ticker": "AXP",
+      "name": "AXP",
+      "score": 45.0,
+      "short_term": {
+        "score": 40,
+        "signal": "Hold",
+        "details": [
+          "Neutral Momentum (RSI 44)",
+          "💧 Low Liquidity Warning"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "Moderate Growth",
+        "rationale": "Stable outlook without high-growth catalysts detected.",
+        "is_high_growth": false
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 341.21856689453125,
+      "badges": [],
+      "price_info": {
+        "current": 361.69000244140625,
+        "change_pct": -1.7200116192684487,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "⚖️ 섹터 중립 (Sector Neutral)",
+        "layers": [
+          {
+            "diagnosis": "⚖️ 섹터 중립 (Sector Neutral)",
+            "detail": "업종 평균과 유사한 흐름",
+            "insight": "섹터 전체 트렌드를 따르는 중"
+          },
+          {
+            "diagnosis": "⚖️ 정상 범위 (Normal Range)",
+            "detail": "VIX 20.0 - 안정적 시장 환경",
+            "action": "전략대로 진행",
+            "color": "blue"
+          },
+          {
+            "diagnosis": "➡️ 중립 흐름 (Neutral Flow)",
+            "detail": "특별한 수급 패턴 없음",
+            "insight": "기술적/펀더멘털 분석 우선"
+          },
+          {
+            "diagnosis": "⚠️ 35% 승률 패턴 (Low Probability)",
+            "detail": "과거 성공률 낮음",
+            "expected_return": "평균 수익률 -1.2% (3일 기준)",
+            "confidence": "낮음"
+          }
+        ]
+      }
+    },
+    {
+      "ticker": "APH",
+      "name": "APH",
+      "score": 45.0,
+      "short_term": {
+        "score": 40,
+        "signal": "Hold",
+        "details": [
+          "Neutral Momentum (RSI 65)",
+          "💧 Low Liquidity Warning"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "Moderate Growth",
+        "rationale": "Stable outlook without high-growth catalysts detected.",
+        "is_high_growth": false
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 139.42000252859933,
+      "badges": [],
+      "price_info": {
+        "current": 150.99000549316406,
+        "change_pct": -0.9901603323514344,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "⚖️ 섹터 중립 (Sector Neutral)",
+        "layers": [
+          {
+            "diagnosis": "⚖️ 섹터 중립 (Sector Neutral)",
+            "detail": "업종 평균과 유사한 흐름",
+            "insight": "섹터 전체 트렌드를 따르는 중"
+          },
+          {
+            "diagnosis": "⚖️ 정상 범위 (Normal Range)",
+            "detail": "VIX 20.0 - 안정적 시장 환경",
+            "action": "전략대로 진행",
+            "color": "blue"
+          },
+          {
+            "diagnosis": "➡️ 중립 흐름 (Neutral Flow)",
+            "detail": "특별한 수급 패턴 없음",
+            "insight": "기술적/펀더멘털 분석 우선"
+          },
+          {
+            "diagnosis": "⚠️ 35% 승률 패턴 (Low Probability)",
+            "detail": "과거 성공률 낮음",
+            "expected_return": "평균 수익률 -1.2% (3일 기준)",
+            "confidence": "낮음"
+          }
+        ]
+      }
+    },
+    {
+      "ticker": "APA",
+      "name": "APA",
+      "score": 45.0,
+      "short_term": {
+        "score": 40,
+        "signal": "Hold",
+        "details": [
+          "Neutral Momentum (RSI 52)",
+          "💧 Low Liquidity Warning"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "Moderate Growth",
+        "rationale": "Stable outlook without high-growth catalysts detected.",
+        "is_high_growth": false
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 23.384284155709402,
+      "badges": [],
+      "price_info": {
+        "current": 25.799999237060547,
+        "change_pct": 0.9784736104311593,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "⚖️ 섹터 중립 (Sector Neutral)",
+        "layers": [
+          {
+            "diagnosis": "⚖️ 섹터 중립 (Sector Neutral)",
+            "detail": "업종 평균과 유사한 흐름",
+            "insight": "섹터 전체 트렌드를 따르는 중"
+          },
+          {
+            "diagnosis": "⚖️ 정상 범위 (Normal Range)",
+            "detail": "VIX 20.0 - 안정적 시장 환경",
+            "action": "전략대로 진행",
+            "color": "blue"
+          },
+          {
+            "diagnosis": "➡️ 중립 흐름 (Neutral Flow)",
+            "detail": "특별한 수급 패턴 없음",
+            "insight": "기술적/펀더멘털 분석 우선"
+          },
+          {
+            "diagnosis": "⚠️ 35% 승률 패턴 (Low Probability)",
+            "detail": "과거 성공률 낮음",
+            "expected_return": "평균 수익률 -1.2% (3일 기준)",
+            "confidence": "낮음"
+          }
+        ]
+      }
+    },
+    {
+      "ticker": "ABBV",
+      "name": "ABBV",
+      "score": 45.0,
+      "short_term": {
+        "score": 40,
+        "signal": "Hold",
+        "details": [
+          "Neutral Momentum (RSI 40)",
+          "💧 Low Liquidity Warning"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "Moderate Growth",
+        "rationale": "Stable outlook without high-growth catalysts detected.",
+        "is_high_growth": false
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 206.30428205217635,
+      "badges": [],
+      "price_info": {
+        "current": 219.25999450683594,
+        "change_pct": 0.5272540888846323,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "⚖️ 섹터 중립 (Sector Neutral)",
+        "layers": [
+          {
+            "diagnosis": "⚖️ 섹터 중립 (Sector Neutral)",
+            "detail": "업종 평균과 유사한 흐름",
+            "insight": "섹터 전체 트렌드를 따르는 중"
+          },
+          {
+            "diagnosis": "⚖️ 정상 범위 (Normal Range)",
+            "detail": "VIX 20.0 - 안정적 시장 환경",
+            "action": "전략대로 진행",
+            "color": "blue"
+          },
+          {
+            "diagnosis": "➡️ 중립 흐름 (Neutral Flow)",
+            "detail": "특별한 수급 패턴 없음",
+            "insight": "기술적/펀더멘털 분석 우선"
+          },
+          {
+            "diagnosis": "⚠️ 35% 승률 패턴 (Low Probability)",
+            "detail": "과거 성공률 낮음",
+            "expected_return": "평균 수익률 -1.2% (3일 기준)",
+            "confidence": "낮음"
+          }
+        ]
+      }
+    },
+    {
+      "ticker": "ALGN",
+      "name": "ALGN",
+      "score": 45.0,
+      "short_term": {
+        "score": 40,
+        "signal": "Hold",
+        "details": [
+          "Neutral Momentum (RSI 68)",
+          "💧 Low Liquidity Warning"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "Moderate Growth",
+        "rationale": "Stable outlook without high-growth catalysts detected.",
+        "is_high_growth": false
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 158.72285679408483,
+      "badges": [],
+      "price_info": {
+        "current": 168.72999572753906,
+        "change_pct": -0.1124807266551229,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "⚖️ 섹터 중립 (Sector Neutral)",
+        "layers": [
+          {
+            "diagnosis": "⚖️ 섹터 중립 (Sector Neutral)",
+            "detail": "업종 평균과 유사한 흐름",
+            "insight": "섹터 전체 트렌드를 따르는 중"
+          },
+          {
+            "diagnosis": "⚖️ 정상 범위 (Normal Range)",
+            "detail": "VIX 20.0 - 안정적 시장 환경",
+            "action": "전략대로 진행",
+            "color": "blue"
+          },
+          {
+            "diagnosis": "➡️ 중립 흐름 (Neutral Flow)",
+            "detail": "특별한 수급 패턴 없음",
+            "insight": "기술적/펀더멘털 분석 우선"
+          },
+          {
+            "diagnosis": "⚠️ 35% 승률 패턴 (Low Probability)",
+            "detail": "과거 성공률 낮음",
+            "expected_return": "평균 수익률 -1.2% (3일 기준)",
+            "confidence": "낮음"
+          }
+        ]
+      }
+    },
+    {
+      "ticker": "ANET",
+      "name": "ANET",
+      "score": 45.0,
+      "short_term": {
+        "score": 40,
+        "signal": "Hold",
+        "details": [
+          "Neutral Momentum (RSI 53)",
+          "💧 Low Liquidity Warning"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "Moderate Growth",
+        "rationale": "Stable outlook without high-growth catalysts detected.",
+        "is_high_growth": false
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 123.45642634800502,
+      "badges": [],
+      "price_info": {
+        "current": 136.33999633789062,
+        "change_pct": -1.4955619315437008,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "⚖️ 섹터 중립 (Sector Neutral)",
+        "layers": [
+          {
+            "diagnosis": "⚖️ 섹터 중립 (Sector Neutral)",
+            "detail": "업종 평균과 유사한 흐름",
+            "insight": "섹터 전체 트렌드를 따르는 중"
+          },
+          {
+            "diagnosis": "⚖️ 정상 범위 (Normal Range)",
+            "detail": "VIX 20.0 - 안정적 시장 환경",
+            "action": "전략대로 진행",
+            "color": "blue"
+          },
+          {
+            "diagnosis": "➡️ 중립 흐름 (Neutral Flow)",
+            "detail": "특별한 수급 패턴 없음",
+            "insight": "기술적/펀더멘털 분석 우선"
+          },
+          {
+            "diagnosis": "⚠️ 35% 승률 패턴 (Low Probability)",
+            "detail": "과거 성공률 낮음",
+            "expected_return": "평균 수익률 -1.2% (3일 기준)",
+            "confidence": "낮음"
+          }
+        ]
+      }
+    },
+    {
+      "ticker": "ACN",
+      "name": "ACN",
+      "score": 45.0,
+      "short_term": {
+        "score": 40,
+        "signal": "Hold",
+        "details": [
+          "Neutral Momentum (RSI 64)",
+          "💧 Low Liquidity Warning"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "Moderate Growth",
+        "rationale": "Stable outlook without high-growth catalysts detected.",
+        "is_high_growth": false
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 261.5528564453125,
+      "badges": [],
+      "price_info": {
+        "current": 281.07000732421875,
+        "change_pct": -1.4100771915221313,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "⚖️ 섹터 중립 (Sector Neutral)",
+        "layers": [
+          {
+            "diagnosis": "⚖️ 섹터 중립 (Sector Neutral)",
+            "detail": "업종 평균과 유사한 흐름",
+            "insight": "섹터 전체 트렌드를 따르는 중"
+          },
+          {
+            "diagnosis": "⚖️ 정상 범위 (Normal Range)",
+            "detail": "VIX 20.0 - 안정적 시장 환경",
+            "action": "전략대로 진행",
+            "color": "blue"
+          },
+          {
+            "diagnosis": "➡️ 중립 흐름 (Neutral Flow)",
+            "detail": "특별한 수급 패턴 없음",
+            "insight": "기술적/펀더멘털 분석 우선"
+          },
+          {
+            "diagnosis": "⚠️ 35% 승률 패턴 (Low Probability)",
+            "detail": "과거 성공률 낮음",
+            "expected_return": "평균 수익률 -1.2% (3일 기준)",
+            "confidence": "낮음"
+          }
+        ]
+      }
+    },
+    {
+      "ticker": "AKAM",
+      "name": "AKAM",
+      "score": 45.0,
+      "short_term": {
+        "score": 40,
+        "signal": "Hold",
+        "details": [
+          "Neutral Momentum (RSI 65)",
+          "💧 Low Liquidity Warning"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "Moderate Growth",
+        "rationale": "Stable outlook without high-growth catalysts detected.",
+        "is_high_growth": false
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 88.55285971505302,
+      "badges": [],
+      "price_info": {
+        "current": 95.08000183105469,
+        "change_pct": -2.00968460555959,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "⚖️ 섹터 중립 (Sector Neutral)",
+        "layers": [
+          {
+            "diagnosis": "⚖️ 섹터 중립 (Sector Neutral)",
+            "detail": "업종 평균과 유사한 흐름",
+            "insight": "섹터 전체 트렌드를 따르는 중"
+          },
+          {
+            "diagnosis": "⚖️ 정상 범위 (Normal Range)",
+            "detail": "VIX 20.0 - 안정적 시장 환경",
+            "action": "전략대로 진행",
+            "color": "blue"
+          },
+          {
+            "diagnosis": "➡️ 중립 흐름 (Neutral Flow)",
+            "detail": "특별한 수급 패턴 없음",
+            "insight": "기술적/펀더멘털 분석 우선"
+          },
+          {
+            "diagnosis": "⚠️ 35% 승률 패턴 (Low Probability)",
+            "detail": "과거 성공률 낮음",
+            "expected_return": "평균 수익률 -1.2% (3일 기준)",
+            "confidence": "낮음"
+          }
+        ]
+      }
+    },
+    {
+      "ticker": "AOS",
+      "name": "AOS",
+      "score": 45.0,
+      "short_term": {
+        "score": 40,
+        "signal": "Hold",
+        "details": [
+          "Neutral Momentum (RSI 66)",
+          "💧 Low Liquidity Warning"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "Moderate Growth",
+        "rationale": "Stable outlook without high-growth catalysts detected.",
+        "is_high_growth": false
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 68.97571236746651,
+      "badges": [],
+      "price_info": {
+        "current": 72.45999908447266,
+        "change_pct": -0.8619473046701626,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "⚖️ 섹터 중립 (Sector Neutral)",
+        "layers": [
+          {
+            "diagnosis": "⚖️ 섹터 중립 (Sector Neutral)",
+            "detail": "업종 평균과 유사한 흐름",
+            "insight": "섹터 전체 트렌드를 따르는 중"
+          },
+          {
+            "diagnosis": "⚖️ 정상 범위 (Normal Range)",
+            "detail": "VIX 20.0 - 안정적 시장 환경",
+            "action": "전략대로 진행",
+            "color": "blue"
+          },
+          {
+            "diagnosis": "➡️ 중립 흐름 (Neutral Flow)",
+            "detail": "특별한 수급 패턴 없음",
+            "insight": "기술적/펀더멘털 분석 우선"
+          },
+          {
+            "diagnosis": "⚠️ 35% 승률 패턴 (Low Probability)",
+            "detail": "과거 성공률 낮음",
+            "expected_return": "평균 수익률 -1.2% (3일 기준)",
+            "confidence": "낮음"
+          }
+        ]
+      }
+    },
+    {
+      "ticker": "APP",
+      "name": "APP",
+      "score": 45.0,
+      "short_term": {
+        "score": 40,
+        "signal": "Hold",
+        "details": [
+          "Neutral Momentum (RSI 32)",
+          "💧 Low Liquidity Warning"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "Moderate Growth",
+        "rationale": "Stable outlook without high-growth catalysts detected.",
+        "is_high_growth": false
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 446.25296892438615,
+      "badges": [],
+      "price_info": {
+        "current": 524.4099731445312,
+        "change_pct": 0.4732288561082809,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "⚖️ 섹터 중립 (Sector Neutral)",
+        "layers": [
+          {
+            "diagnosis": "⚖️ 섹터 중립 (Sector Neutral)",
+            "detail": "업종 평균과 유사한 흐름",
+            "insight": "섹터 전체 트렌드를 따르는 중"
+          },
+          {
+            "diagnosis": "⚖️ 정상 범위 (Normal Range)",
+            "detail": "VIX 20.0 - 안정적 시장 환경",
+            "action": "전략대로 진행",
+            "color": "blue"
+          },
+          {
+            "diagnosis": "➡️ 중립 흐름 (Neutral Flow)",
+            "detail": "특별한 수급 패턴 없음",
+            "insight": "기술적/펀더멘털 분석 우선"
+          },
+          {
+            "diagnosis": "⚠️ 35% 승률 패턴 (Low Probability)",
+            "detail": "과거 성공률 낮음",
+            "expected_return": "평균 수익률 -1.2% (3일 기준)",
+            "confidence": "낮음"
+          }
+        ]
+      }
+    },
+    {
+      "ticker": "APO",
+      "name": "APO",
+      "score": 45.0,
+      "short_term": {
+        "score": 40,
+        "signal": "Hold",
+        "details": [
+          "Neutral Momentum (RSI 33)",
+          "💧 Low Liquidity Warning"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "Moderate Growth",
+        "rationale": "Stable outlook without high-growth catalysts detected.",
+        "is_high_growth": false
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 127.41142926897321,
+      "badges": [],
+      "price_info": {
+        "current": 136.30999755859375,
+        "change_pct": -2.447576235251593,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "⚖️ 섹터 중립 (Sector Neutral)",
+        "layers": [
+          {
+            "diagnosis": "⚖️ 섹터 중립 (Sector Neutral)",
+            "detail": "업종 평균과 유사한 흐름",
+            "insight": "섹터 전체 트렌드를 따르는 중"
+          },
+          {
+            "diagnosis": "⚖️ 정상 범위 (Normal Range)",
+            "detail": "VIX 20.0 - 안정적 시장 환경",
+            "action": "전략대로 진행",
+            "color": "blue"
+          },
+          {
+            "diagnosis": "➡️ 중립 흐름 (Neutral Flow)",
+            "detail": "특별한 수급 패턴 없음",
+            "insight": "기술적/펀더멘털 분석 우선"
+          },
+          {
+            "diagnosis": "⚠️ 35% 승률 패턴 (Low Probability)",
+            "detail": "과거 성공률 낮음",
+            "expected_return": "평균 수익률 -1.2% (3일 기준)",
+            "confidence": "낮음"
+          }
+        ]
+      }
+    },
+    {
+      "ticker": "AMD",
+      "name": "AMD",
+      "score": 40.0,
+      "short_term": {
+        "score": 30,
+        "signal": "SellNow",
+        "details": [
+          "⚠️ Overbought (RSI 74)"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "Moderate Growth",
+        "rationale": "Stable outlook without high-growth catalysts detected.",
+        "is_high_growth": false
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 237.13999502999442,
+      "badges": [],
+      "price_info": {
+        "current": 259.67999267578125,
+        "change_pct": 2.3450112515003654,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "⚖️ 섹터 중립 (Sector Neutral)",
+        "layers": [
+          {
+            "diagnosis": "⚖️ 섹터 중립 (Sector Neutral)",
+            "detail": "업종 평균과 유사한 흐름",
+            "insight": "섹터 전체 트렌드를 따르는 중"
+          },
+          {
+            "diagnosis": "⚖️ 정상 범위 (Normal Range)",
+            "detail": "VIX 20.0 - 안정적 시장 환경",
+            "action": "전략대로 진행",
+            "color": "blue"
+          },
+          {
+            "diagnosis": "➡️ 중립 흐름 (Neutral Flow)",
+            "detail": "특별한 수급 패턴 없음",
+            "insight": "기술적/펀더멘털 분석 우선"
+          },
+          {
+            "diagnosis": "⚠️ 35% 승률 패턴 (Low Probability)",
+            "detail": "과거 성공률 낮음",
+            "expected_return": "평균 수익률 -1.2% (3일 기준)",
+            "confidence": "낮음"
+          }
+        ]
+      }
+    },
+    {
+      "ticker": "ADI",
+      "name": "ADI",
+      "score": 35.0,
+      "short_term": {
+        "score": 20,
+        "signal": "SellNow",
+        "details": [
+          "⚠️ Overbought (RSI 75)",
+          "💧 Low Liquidity Warning"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "Moderate Growth",
+        "rationale": "Stable outlook without high-growth catalysts detected.",
+        "is_high_growth": false
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 287.5343017578125,
+      "badges": [],
+      "price_info": {
+        "current": 305.6000061035156,
+        "change_pct": -0.9464485330403836,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "⚖️ 섹터 중립 (Sector Neutral)",
+        "layers": [
+          {
+            "diagnosis": "⚖️ 섹터 중립 (Sector Neutral)",
+            "detail": "업종 평균과 유사한 흐름",
+            "insight": "섹터 전체 트렌드를 따르는 중"
+          },
+          {
+            "diagnosis": "⚖️ 정상 범위 (Normal Range)",
+            "detail": "VIX 20.0 - 안정적 시장 환경",
+            "action": "전략대로 진행",
+            "color": "blue"
+          },
+          {
+            "diagnosis": "➡️ 중립 흐름 (Neutral Flow)",
+            "detail": "특별한 수급 패턴 없음",
+            "insight": "기술적/펀더멘털 분석 우선"
+          },
+          {
+            "diagnosis": "⚠️ 35% 승률 패턴 (Low Probability)",
+            "detail": "과거 성공률 낮음",
+            "expected_return": "평균 수익률 -1.2% (3일 기준)",
+            "confidence": "낮음"
+          }
+        ]
+      }
+    },
+    {
+      "ticker": "ALB",
+      "name": "ALB",
+      "score": 35.0,
+      "short_term": {
+        "score": 20,
+        "signal": "SellNow",
+        "details": [
+          "⚠️ Overbought (RSI 78)",
+          "💧 Low Liquidity Warning"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "Moderate Growth",
+        "rationale": "Stable outlook without high-growth catalysts detected.",
+        "is_high_growth": false
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 171.30428205217635,
+      "badges": [],
+      "price_info": {
+        "current": 189.50999450683594,
+        "change_pct": 0.631896312837574,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "⚖️ 섹터 중립 (Sector Neutral)",
+        "layers": [
+          {
+            "diagnosis": "⚖️ 섹터 중립 (Sector Neutral)",
+            "detail": "업종 평균과 유사한 흐름",
+            "insight": "섹터 전체 트렌드를 따르는 중"
+          },
+          {
+            "diagnosis": "⚖️ 정상 범위 (Normal Range)",
+            "detail": "VIX 20.0 - 안정적 시장 환경",
+            "action": "전략대로 진행",
+            "color": "blue"
+          },
+          {
+            "diagnosis": "➡️ 중립 흐름 (Neutral Flow)",
+            "detail": "특별한 수급 패턴 없음",
+            "insight": "기술적/펀더멘털 분석 우선"
+          },
+          {
+            "diagnosis": "⚠️ 35% 승률 패턴 (Low Probability)",
+            "detail": "과거 성공률 낮음",
+            "expected_return": "평균 수익률 -1.2% (3일 기준)",
+            "confidence": "낮음"
+          }
+        ]
+      }
+    },
+    {
+      "ticker": "MO",
+      "name": "MO",
+      "score": 35.0,
+      "short_term": {
+        "score": 20,
+        "signal": "SellNow",
+        "details": [
+          "⚠️ Overbought (RSI 70)",
+          "💧 Low Liquidity Warning"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "Moderate Growth",
+        "rationale": "Stable outlook without high-growth catalysts detected.",
+        "is_high_growth": false
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 59.35428510393415,
+      "badges": [],
+      "price_info": {
+        "current": 61.90999984741211,
+        "change_pct": 1.4419155918675128,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "⚖️ 섹터 중립 (Sector Neutral)",
+        "layers": [
+          {
+            "diagnosis": "⚖️ 섹터 중립 (Sector Neutral)",
+            "detail": "업종 평균과 유사한 흐름",
+            "insight": "섹터 전체 트렌드를 따르는 중"
+          },
+          {
+            "diagnosis": "⚖️ 정상 범위 (Normal Range)",
+            "detail": "VIX 20.0 - 안정적 시장 환경",
+            "action": "전략대로 진행",
+            "color": "blue"
+          },
+          {
+            "diagnosis": "➡️ 중립 흐름 (Neutral Flow)",
+            "detail": "특별한 수급 패턴 없음",
+            "insight": "기술적/펀더멘털 분석 우선"
+          },
+          {
+            "diagnosis": "⚠️ 35% 승률 패턴 (Low Probability)",
+            "detail": "과거 성공률 낮음",
+            "expected_return": "평균 수익률 -1.2% (3일 기준)",
+            "confidence": "낮음"
+          }
+        ]
+      }
+    },
+    {
+      "ticker": "ARE",
+      "name": "ARE",
+      "score": 35.0,
+      "short_term": {
+        "score": 20,
+        "signal": "SellNow",
+        "details": [
+          "⚠️ Overbought (RSI 93)",
+          "💧 Low Liquidity Warning"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "Moderate Growth",
+        "rationale": "Stable outlook without high-growth catalysts detected.",
+        "is_high_growth": false
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 56.3042836870466,
+      "badges": [],
+      "price_info": {
+        "current": 59.689998626708984,
+        "change_pct": 2.7543440694066073,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "⚖️ 섹터 중립 (Sector Neutral)",
+        "layers": [
+          {
+            "diagnosis": "⚖️ 섹터 중립 (Sector Neutral)",
+            "detail": "업종 평균과 유사한 흐름",
+            "insight": "섹터 전체 트렌드를 따르는 중"
+          },
+          {
+            "diagnosis": "⚖️ 정상 범위 (Normal Range)",
+            "detail": "VIX 20.0 - 안정적 시장 환경",
+            "action": "전략대로 진행",
+            "color": "blue"
+          },
+          {
+            "diagnosis": "➡️ 중립 흐름 (Neutral Flow)",
+            "detail": "특별한 수급 패턴 없음",
+            "insight": "기술적/펀더멘털 분석 우선"
+          },
+          {
+            "diagnosis": "⚠️ 35% 승률 패턴 (Low Probability)",
+            "detail": "과거 성공률 낮음",
+            "expected_return": "평균 수익률 -1.2% (3일 기준)",
+            "confidence": "낮음"
+          }
+        ]
+      }
+    },
+    {
+      "ticker": "AMAT",
+      "name": "AMAT",
+      "score": 35.0,
+      "short_term": {
+        "score": 20,
+        "signal": "SellNow",
+        "details": [
+          "⚠️ Overbought (RSI 72)",
+          "💧 Low Liquidity Warning"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "Moderate Growth",
+        "rationale": "Stable outlook without high-growth catalysts detected.",
+        "is_high_growth": false
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 295.38714599609375,
+      "badges": [],
+      "price_info": {
+        "current": 322.3800048828125,
+        "change_pct": 1.1261320121909484,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "⚖️ 섹터 중립 (Sector Neutral)",
+        "layers": [
+          {
+            "diagnosis": "⚖️ 섹터 중립 (Sector Neutral)",
+            "detail": "업종 평균과 유사한 흐름",
+            "insight": "섹터 전체 트렌드를 따르는 중"
+          },
+          {
+            "diagnosis": "⚖️ 정상 범위 (Normal Range)",
+            "detail": "VIX 20.0 - 안정적 시장 환경",
+            "action": "전략대로 진행",
+            "color": "blue"
+          },
+          {
+            "diagnosis": "➡️ 중립 흐름 (Neutral Flow)",
+            "detail": "특별한 수급 패턴 없음",
+            "insight": "기술적/펀더멘털 분석 우선"
+          },
+          {
+            "diagnosis": "⚠️ 35% 승률 패턴 (Low Probability)",
+            "detail": "과거 성공률 낮음",
+            "expected_return": "평균 수익률 -1.2% (3일 기준)",
+            "confidence": "낮음"
+          }
+        ]
+      }
+    },
+    {
+      "ticker": "ADM",
+      "name": "ADM",
+      "score": 35.0,
+      "short_term": {
+        "score": 20,
+        "signal": "SellNow",
+        "details": [
+          "⚠️ Overbought (RSI 76)",
+          "💧 Low Liquidity Warning"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "Moderate Growth",
+        "rationale": "Stable outlook without high-growth catalysts detected.",
+        "is_high_growth": false
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 63.572859627859934,
+      "badges": [],
+      "price_info": {
+        "current": 67.51000213623047,
+        "change_pct": 0.5810479345790812,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "⚖️ 섹터 중립 (Sector Neutral)",
+        "layers": [
+          {
+            "diagnosis": "⚖️ 섹터 중립 (Sector Neutral)",
+            "detail": "업종 평균과 유사한 흐름",
+            "insight": "섹터 전체 트렌드를 따르는 중"
+          },
+          {
+            "diagnosis": "⚖️ 정상 범위 (Normal Range)",
+            "detail": "VIX 20.0 - 안정적 시장 환경",
+            "action": "전략대로 진행",
+            "color": "blue"
+          },
+          {
+            "diagnosis": "➡️ 중립 흐름 (Neutral Flow)",
+            "detail": "특별한 수급 패턴 없음",
+            "insight": "기술적/펀더멘털 분석 우선"
+          },
+          {
+            "diagnosis": "⚠️ 35% 승률 패턴 (Low Probability)",
+            "detail": "과거 성공률 낮음",
+            "expected_return": "평균 수익률 -1.2% (3일 기준)",
+            "confidence": "낮음"
+          }
+        ]
+      }
+    }
+  ]
+}
