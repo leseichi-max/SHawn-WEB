@@ -42,7 +42,7 @@
 ### 1. 초기 설정 (한 번만 실행)
 
 ```bash
-cd ~/Documents/GitHub/SHawn-Lab-Vault/03-Digital-Lab
+cd ~/Documents/GitHub/SHawn-WEB
 
 # 의존성 설치
 npm install
@@ -72,8 +72,8 @@ blog_publish: true      # ⭐ 반드시 true
 ### 3. 동기화 및 빌드
 
 ```bash
-# Vault 루트로 이동
-cd ~/Documents/GitHub/SHawn-Lab-Vault
+# SHawn-WEB으로 이동
+cd ~/Documents/GitHub/SHawn-WEB
 
 # Obsidian Posts → Next.js content/posts 변환
 python3 sync_to_nextjs.py
