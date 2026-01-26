@@ -4,6 +4,7 @@ export const translations = {
             about: "소개",
             blog: "블로그",
             market_intelligence: "주식 시장 분석",
+            reports: "리포트 아카이브",
         },
         common: {
             subscribe: "구독하기",
@@ -50,6 +51,7 @@ export const translations = {
             about: "About",
             blog: "Blog",
             market_intelligence: "Market Intelligence",
+            reports: "Report Archive",
         },
         common: {
             subscribe: "Subscribe",

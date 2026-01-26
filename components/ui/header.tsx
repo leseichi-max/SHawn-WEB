@@ -30,6 +30,9 @@ export function Header() {
                         <Link className="transition-colors hover:text-primary text-muted-foreground" href="/market-intelligence">
                             {t.nav.market_intelligence}
                         </Link>
+                        <Link className="transition-colors hover:text-primary text-muted-foreground" href="/reports">
+                            {t.nav.reports}
+                        </Link>
                     </nav>
                 </div>
 
