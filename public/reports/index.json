@@ -1,6 +1,26 @@
 [
   {
     "date": "2026-01-26",
+    "time": "21:09",
+    "type": "KR",
+    "title": "2026-01-26 21:09 KR Market Report",
+    "path": "/reports/2026-01-26_21-09_KR.html",
+    "filename": "2026-01-26_21-09_KR.html",
+    "timestamp": "2026-01-26T21:09:42.053837",
+    "json_path": "/reports/2026-01-26_21-09_KR.json"
+  },
+  {
+    "date": "2026-01-26",
+    "time": "21:09",
+    "type": "US",
+    "title": "2026-01-26 21:09 US Market Report",
+    "path": "/reports/2026-01-26_21-09_US.html",
+    "filename": "2026-01-26_21-09_US.html",
+    "timestamp": "2026-01-26T21:09:42.053837",
+    "json_path": "/reports/2026-01-26_21-09_US.json"
+  },
+  {
+    "date": "2026-01-26",
     "time": "19:31",
     "type": "KR",
     "title": "2026-01-26 19:31 KR Market Report",

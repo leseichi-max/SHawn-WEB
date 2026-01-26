@@ -1,0 +1,96 @@
+{
+  "meta": {
+    "market": "KR",
+    "date": "2026-01-26",
+    "time": "21:09:41",
+    "timestamp": "2026-01-26T21:09:41.359652",
+    "avg_score": 42.5,
+    "buy_count": 0,
+    "sell_count": 2,
+    "high_growth_count": 0,
+    "top_alpha_ticker": "214450.KQ"
+  },
+  "reports": [
+    {
+      "ticker": "214450.KQ",
+      "name": "파마리서치",
+      "score": 52.5,
+      "short_term": {
+        "score": 55,
+        "signal": "Hold",
+        "details": [
+          "🔥 Whale Flow Detected (Volume Spike)"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,442원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Whale Entry",
+        "consecutive_days": 1
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 444142.85714285716,
+      "badges": [
+        "Macro Risk",
+        "Whale Entry"
+      ],
+      "price_info": {
+        "current": 501000,
+        "change_pct": 5.807814149947202,
+        "currency": "KRW"
+      }
+    },
+    {
+      "ticker": "005930.KS",
+      "name": "삼성전자",
+      "score": 32.5,
+      "short_term": {
+        "score": 15,
+        "signal": "SellNow",
+        "details": [
+          "⚠️ Overbought (RSI 73)"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,442원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 141042.85714285713,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 152100,
+        "change_pct": 0.0,
+        "currency": "KRW"
+      }
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "meta": {
+    "market": "US",
+    "date": "2026-01-26",
+    "time": "21:09:42",
+    "timestamp": "2026-01-26T21:09:42.053220",
+    "avg_score": 48.75,
+    "buy_count": 0,
+    "sell_count": 2,
+    "high_growth_count": 0,
+    "top_alpha_ticker": "AAPL"
+  },
+  "reports": [
+    {
+      "ticker": "AAPL",
+      "name": "AAPL",
+      "score": 55.0,
+      "short_term": {
+        "score": 60,
+        "signal": "Hold",
+        "details": [
+          "❄️ Oversold (RSI 12)"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,442원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 237.91856384277344,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 248.0399932861328,
+        "change_pct": -0.12482899527435284,
+        "currency": "USD"
+      }
+    },
+    {
+      "ticker": "NVDA",
+      "name": "NVDA",
+      "score": 42.5,
+      "short_term": {
+        "score": 35,
+        "signal": "Hold",
+        "details": [
+          "⚡ Volatility Squeeze"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,442원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 177.03714425223214,
+      "badges": [
+        "Macro Risk",
+        "Squeeze Potential"
+      ],
+      "price_info": {
+        "current": 187.6699981689453,
+        "change_pct": 1.5310549053903877,
+        "currency": "USD"
+      }
+    }
+  ]
+}
