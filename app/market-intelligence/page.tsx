@@ -113,6 +113,13 @@ export default function MarketIntelligencePage() {
                             <RefreshCw size={14} className={loadingIndex ? "animate-spin" : ""} />
                             Refresh
                         </button>
+                        <Link
+                            href="/market-intelligence/archive"
+                            className="flex items-center gap-2 px-3 py-1.5 bg-blue-600 hover:bg-blue-500 rounded-lg transition-colors text-xs text-white font-medium"
+                        >
+                            <FileText size={14} />
+                            Go to Archive
+                        </Link>
                     </div>
                 </header>
 
