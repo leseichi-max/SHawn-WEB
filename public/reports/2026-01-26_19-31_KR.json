@@ -1,0 +1,1859 @@
+{
+  "meta": {
+    "market": "KR",
+    "date": "2026-01-26",
+    "time": "19:30:49",
+    "timestamp": "2026-01-26T19:30:49.926412",
+    "avg_score": 59.5,
+    "buy_count": 40,
+    "sell_count": 10,
+    "high_growth_count": 0,
+    "top_alpha_ticker": "005380.KS"
+  },
+  "reports": [
+    {
+      "ticker": "005380.KS",
+      "name": "현대차",
+      "score": 60.0,
+      "short_term": {
+        "score": 70,
+        "signal": "Aggressive Buy",
+        "details": [
+          "🔥 Super Momentum (RSI 77 + Whale Flow)"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "Moderate Growth",
+        "rationale": "Stable outlook without high-growth catalysts detected.",
+        "is_high_growth": false
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 412785.7142857143,
+      "badges": [
+        "Whale Entry"
+      ],
+      "price_info": {
+        "current": 492500,
+        "change_pct": -3.431372549019608,
+        "currency": "KRW"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "006400.KS",
+      "name": "삼성SDI",
+      "score": 60.0,
+      "short_term": {
+        "score": 70,
+        "signal": "Aggressive Buy",
+        "details": [
+          "🔥 Super Momentum (RSI 79 + Whale Flow)"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "Moderate Growth",
+        "rationale": "Stable outlook without high-growth catalysts detected.",
+        "is_high_growth": false
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 345714.28571428574,
+      "badges": [
+        "Whale Entry"
+      ],
+      "price_info": {
+        "current": 387000,
+        "change_pct": 3.753351206434316,
+        "currency": "KRW"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "017670.KS",
+      "name": "SK텔레콤",
+      "score": 60.0,
+      "short_term": {
+        "score": 70,
+        "signal": "Aggressive Buy",
+        "details": [
+          "🔥 Super Momentum (RSI 82 + Whale Flow)"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "Moderate Growth",
+        "rationale": "Stable outlook without high-growth catalysts detected.",
+        "is_high_growth": false
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 58614.28571428572,
+      "badges": [
+        "Whale Entry"
+      ],
+      "price_info": {
+        "current": 61800,
+        "change_pct": -1.4354066985645932,
+        "currency": "KRW"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "377300.KS",
+      "name": "카카오페이",
+      "score": 60.0,
+      "short_term": {
+        "score": 70,
+        "signal": "Aggressive Buy",
+        "details": [
+          "🔥 Super Momentum (RSI 74 + Whale Flow)"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "Moderate Growth",
+        "rationale": "Stable outlook without high-growth catalysts detected.",
+        "is_high_growth": false
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 62264.28571428571,
+      "badges": [
+        "Whale Entry"
+      ],
+      "price_info": {
+        "current": 70900,
+        "change_pct": 4.572271386430678,
+        "currency": "KRW"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "454910.KS",
+      "name": "두산로보틱스",
+      "score": 60.0,
+      "short_term": {
+        "score": 70,
+        "signal": "Aggressive Buy",
+        "details": [
+          "🔥 Super Momentum (RSI 81 + Whale Flow)"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "Moderate Growth",
+        "rationale": "Stable outlook without high-growth catalysts detected.",
+        "is_high_growth": false
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 101221.42857142858,
+      "badges": [
+        "Bear Trap",
+        "Whale Entry"
+      ],
+      "price_info": {
+        "current": 119900,
+        "change_pct": 5.083260297984225,
+        "currency": "KRW"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "028050.KS",
+      "name": "삼성E&A",
+      "score": 60.0,
+      "short_term": {
+        "score": 70,
+        "signal": "Aggressive Buy",
+        "details": [
+          "🔥 Super Momentum (RSI 77 + Whale Flow)"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "Moderate Growth",
+        "rationale": "Stable outlook without high-growth catalysts detected.",
+        "is_high_growth": false
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 26514.285714285714,
+      "badges": [
+        "Whale Entry"
+      ],
+      "price_info": {
+        "current": 28850,
+        "change_pct": 6.851851851851852,
+        "currency": "KRW"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "021240.KS",
+      "name": "코웨이",
+      "score": 60.0,
+      "short_term": {
+        "score": 70,
+        "signal": "Aggressive Buy",
+        "details": [
+          "❄️ Oversold (RSI 19)"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "Moderate Growth",
+        "rationale": "Stable outlook without high-growth catalysts detected.",
+        "is_high_growth": false
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 70214.28571428571,
+      "badges": [],
+      "price_info": {
+        "current": 75300,
+        "change_pct": -2.7131782945736433,
+        "currency": "KRW"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "175330.KS",
+      "name": "JB금융지주",
+      "score": 60.0,
+      "short_term": {
+        "score": 70,
+        "signal": "Aggressive Buy",
+        "details": [
+          "❄️ Oversold (RSI 28)"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "Moderate Growth",
+        "rationale": "Stable outlook without high-growth catalysts detected.",
+        "is_high_growth": false
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 22142.85714285714,
+      "badges": [],
+      "price_info": {
+        "current": 23500,
+        "change_pct": -3.292181069958848,
+        "currency": "KRW"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "035250.KS",
+      "name": "강원랜드",
+      "score": 60.0,
+      "short_term": {
+        "score": 70,
+        "signal": "Aggressive Buy",
+        "details": [
+          "❄️ Oversold (RSI 28)"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "Moderate Growth",
+        "rationale": "Stable outlook without high-growth catalysts detected.",
+        "is_high_growth": false
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 17058.571428571428,
+      "badges": [
+        "Squeeze Potential"
+      ],
+      "price_info": {
+        "current": 17550,
+        "change_pct": -1.0710259301014655,
+        "currency": "KRW"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "457190.KS",
+      "name": "이수스페셜티케미컬",
+      "score": 60.0,
+      "short_term": {
+        "score": 70,
+        "signal": "Aggressive Buy",
+        "details": [
+          "🔥 Super Momentum (RSI 79 + Whale Flow)"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "Moderate Growth",
+        "rationale": "Stable outlook without high-growth catalysts detected.",
+        "is_high_growth": false
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 84214.28571428571,
+      "badges": [
+        "Whale Entry"
+      ],
+      "price_info": {
+        "current": 99100,
+        "change_pct": 2.587991718426501,
+        "currency": "KRW"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "051600.KS",
+      "name": "한전KPS",
+      "score": 60.0,
+      "short_term": {
+        "score": 70,
+        "signal": "Aggressive Buy",
+        "details": [
+          "🔥 Super Momentum (RSI 71 + Whale Flow)"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "Moderate Growth",
+        "rationale": "Stable outlook without high-growth catalysts detected.",
+        "is_high_growth": false
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 53192.857142857145,
+      "badges": [
+        "Whale Entry"
+      ],
+      "price_info": {
+        "current": 57000,
+        "change_pct": -1.384083044982699,
+        "currency": "KRW"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "001450.KS",
+      "name": "현대해상",
+      "score": 60.0,
+      "short_term": {
+        "score": 70,
+        "signal": "Aggressive Buy",
+        "details": [
+          "❄️ Oversold (RSI 26)"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "Moderate Growth",
+        "rationale": "Stable outlook without high-growth catalysts detected.",
+        "is_high_growth": false
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 25885.714285714286,
+      "badges": [],
+      "price_info": {
+        "current": 27800,
+        "change_pct": -0.5366726296958855,
+        "currency": "KRW"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "028670.KS",
+      "name": "팬오션",
+      "score": 60.0,
+      "short_term": {
+        "score": 70,
+        "signal": "Aggressive Buy",
+        "details": [
+          "🔥 Super Momentum (RSI 80 + Whale Flow)"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "Moderate Growth",
+        "rationale": "Stable outlook without high-growth catalysts detected.",
+        "is_high_growth": false
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 4100.0,
+      "badges": [
+        "Whale Entry"
+      ],
+      "price_info": {
+        "current": 4430,
+        "change_pct": -0.11273957158962795,
+        "currency": "KRW"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "020150.KS",
+      "name": "롯데에너지머티리얼즈",
+      "score": 60.0,
+      "short_term": {
+        "score": 70,
+        "signal": "Aggressive Buy",
+        "details": [
+          "🔥 Super Momentum (RSI 73 + Whale Flow)"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "Moderate Growth",
+        "rationale": "Stable outlook without high-growth catalysts detected.",
+        "is_high_growth": false
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 35457.142857142855,
+      "badges": [
+        "Whale Entry"
+      ],
+      "price_info": {
+        "current": 40750,
+        "change_pct": 4.755784061696658,
+        "currency": "KRW"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "0120G0.KS",
+      "name": "Samyang Biopharm",
+      "score": 60.0,
+      "short_term": {
+        "score": 70,
+        "signal": "Aggressive Buy",
+        "details": [
+          "🔥 Super Momentum (RSI 75 + Whale Flow)"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "Moderate Growth",
+        "rationale": "Stable outlook without high-growth catalysts detected.",
+        "is_high_growth": false
+      },
+      "sector": "Healthcare",
+      "explanation": "",
+      "stop_loss": 72692.85714285714,
+      "badges": [
+        "Whale Entry"
+      ],
+      "price_info": {
+        "current": 91000.0,
+        "change_pct": -3.4994697773064685,
+        "currency": "KRW"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "247540.KQ",
+      "name": "에코프로비엠",
+      "score": 60.0,
+      "short_term": {
+        "score": 70,
+        "signal": "Aggressive Buy",
+        "details": [
+          "🔥 Super Momentum (RSI 82 + Whale Flow)"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "Moderate Growth",
+        "rationale": "Stable outlook without high-growth catalysts detected.",
+        "is_high_growth": false
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 189257.14285714287,
+      "badges": [
+        "Whale Entry"
+      ],
+      "price_info": {
+        "current": 209000,
+        "change_pct": 19.908204245553645,
+        "currency": "KRW"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "086520.KQ",
+      "name": "에코프로",
+      "score": 60.0,
+      "short_term": {
+        "score": 70,
+        "signal": "Aggressive Buy",
+        "details": [
+          "🔥 Super Momentum (RSI 79 + Whale Flow)"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "Moderate Growth",
+        "rationale": "Stable outlook without high-growth catalysts detected.",
+        "is_high_growth": false
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 115985.71428571429,
+      "badges": [
+        "Whale Entry"
+      ],
+      "price_info": {
+        "current": 130200,
+        "change_pct": 22.946175637393768,
+        "currency": "KRW"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "277810.KQ",
+      "name": "레인보우로보틱스",
+      "score": 60.0,
+      "short_term": {
+        "score": 70,
+        "signal": "Aggressive Buy",
+        "details": [
+          "🔥 Super Momentum (RSI 81 + Whale Flow)"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "Moderate Growth",
+        "rationale": "Stable outlook without high-growth catalysts detected.",
+        "is_high_growth": false
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 591214.2857142857,
+      "badges": [
+        "Whale Entry"
+      ],
+      "price_info": {
+        "current": 679000,
+        "change_pct": 25.97402597402597,
+        "currency": "KRW"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "000250.KQ",
+      "name": "삼천당제약",
+      "score": 60.0,
+      "short_term": {
+        "score": 70,
+        "signal": "Aggressive Buy",
+        "details": [
+          "🔥 Super Momentum (RSI 85 + Whale Flow)"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "Moderate Growth",
+        "rationale": "Stable outlook without high-growth catalysts detected.",
+        "is_high_growth": false
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 327714.28571428574,
+      "badges": [
+        "Whale Entry"
+      ],
+      "price_info": {
+        "current": 391500,
+        "change_pct": 8.75,
+        "currency": "KRW"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "140410.KQ",
+      "name": "메지온",
+      "score": 60.0,
+      "short_term": {
+        "score": 70,
+        "signal": "Aggressive Buy",
+        "details": [
+          "🔥 Super Momentum (RSI 81 + Whale Flow)"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "Moderate Growth",
+        "rationale": "Stable outlook without high-growth catalysts detected.",
+        "is_high_growth": false
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 136614.2857142857,
+      "badges": [
+        "Whale Entry"
+      ],
+      "price_info": {
+        "current": 153000,
+        "change_pct": 29.55122777307367,
+        "currency": "KRW"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "214150.KQ",
+      "name": "클래시스",
+      "score": 60.0,
+      "short_term": {
+        "score": 70,
+        "signal": "Aggressive Buy",
+        "details": [
+          "🔥 Super Momentum (RSI 71 + Whale Flow)"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "Moderate Growth",
+        "rationale": "Stable outlook without high-growth catalysts detected.",
+        "is_high_growth": false
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 59357.142857142855,
+      "badges": [
+        "Whale Entry"
+      ],
+      "price_info": {
+        "current": 64900,
+        "change_pct": 3.343949044585987,
+        "currency": "KRW"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "145020.KQ",
+      "name": "휴젤",
+      "score": 60.0,
+      "short_term": {
+        "score": 70,
+        "signal": "Aggressive Buy",
+        "details": [
+          "🔥 Super Momentum (RSI 73 + Whale Flow)"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "Moderate Growth",
+        "rationale": "Stable outlook without high-growth catalysts detected.",
+        "is_high_growth": false
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 255285.7142857143,
+      "badges": [
+        "Whale Entry"
+      ],
+      "price_info": {
+        "current": 285500,
+        "change_pct": 8.349146110056926,
+        "currency": "KRW"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "257720.KQ",
+      "name": "실리콘투",
+      "score": 60.0,
+      "short_term": {
+        "score": 70,
+        "signal": "Aggressive Buy",
+        "details": [
+          "🔥 Super Momentum (RSI 76 + Whale Flow)"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "Moderate Growth",
+        "rationale": "Stable outlook without high-growth catalysts detected.",
+        "is_high_growth": false
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 47096.42857142857,
+      "badges": [
+        "Whale Entry"
+      ],
+      "price_info": {
+        "current": 52500,
+        "change_pct": 6.490872210953347,
+        "currency": "KRW"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "263750.KQ",
+      "name": "펄어비스",
+      "score": 60.0,
+      "short_term": {
+        "score": 70,
+        "signal": "Aggressive Buy",
+        "details": [
+          "🔥 Super Momentum (RSI 84 + Whale Flow)"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "Moderate Growth",
+        "rationale": "Stable outlook without high-growth catalysts detected.",
+        "is_high_growth": false
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 45892.857142857145,
+      "badges": [
+        "Whale Entry"
+      ],
+      "price_info": {
+        "current": 49800,
+        "change_pct": 13.310580204778159,
+        "currency": "KRW"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "237690.KQ",
+      "name": "에스티팜",
+      "score": 60.0,
+      "short_term": {
+        "score": 70,
+        "signal": "Aggressive Buy",
+        "details": [
+          "🔥 Super Momentum (RSI 71 + Whale Flow)"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "Moderate Growth",
+        "rationale": "Stable outlook without high-growth catalysts detected.",
+        "is_high_growth": false
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 134185.7142857143,
+      "badges": [
+        "Whale Entry"
+      ],
+      "price_info": {
+        "current": 149500,
+        "change_pct": 7.091690544412607,
+        "currency": "KRW"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "160190.KQ",
+      "name": "하이젠알앤엠",
+      "score": 60.0,
+      "short_term": {
+        "score": 70,
+        "signal": "Aggressive Buy",
+        "details": [
+          "🔥 Super Momentum (RSI 81 + Whale Flow)"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "Moderate Growth",
+        "rationale": "Stable outlook without high-growth catalysts detected.",
+        "is_high_growth": false
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 62085.71428571429,
+      "badges": [
+        "Bear Trap",
+        "Whale Entry"
+      ],
+      "price_info": {
+        "current": 74500,
+        "change_pct": 6.73352435530086,
+        "currency": "KRW"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "178320.KQ",
+      "name": "서진시스템",
+      "score": 60.0,
+      "short_term": {
+        "score": 70,
+        "signal": "Aggressive Buy",
+        "details": [
+          "🔥 Super Momentum (RSI 73 + Whale Flow)"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "Moderate Growth",
+        "rationale": "Stable outlook without high-growth catalysts detected.",
+        "is_high_growth": false
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 29364.285714285714,
+      "badges": [
+        "Bear Trap",
+        "Whale Entry"
+      ],
+      "price_info": {
+        "current": 33250,
+        "change_pct": 3.90625,
+        "currency": "KRW"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "281740.KQ",
+      "name": "레이크머티리얼즈",
+      "score": 60.0,
+      "short_term": {
+        "score": 70,
+        "signal": "Aggressive Buy",
+        "details": [
+          "🔥 Super Momentum (RSI 81 + Whale Flow)"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "Moderate Growth",
+        "rationale": "Stable outlook without high-growth catalysts detected.",
+        "is_high_growth": false
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 21190.0,
+      "badges": [
+        "Whale Entry"
+      ],
+      "price_info": {
+        "current": 24650,
+        "change_pct": 21.428571428571427,
+        "currency": "KRW"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "388720.KQ",
+      "name": "유일로보틱스",
+      "score": 60.0,
+      "short_term": {
+        "score": 70,
+        "signal": "Aggressive Buy",
+        "details": [
+          "🔥 Super Momentum (RSI 89 + Whale Flow)"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "Moderate Growth",
+        "rationale": "Stable outlook without high-growth catalysts detected.",
+        "is_high_growth": false
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 114942.85714285714,
+      "badges": [
+        "Whale Entry"
+      ],
+      "price_info": {
+        "current": 135000,
+        "change_pct": 29.93262752646776,
+        "currency": "KRW"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "031980.KQ",
+      "name": "피에스케이홀딩스",
+      "score": 60.0,
+      "short_term": {
+        "score": 70,
+        "signal": "Aggressive Buy",
+        "details": [
+          "🔥 Super Momentum (RSI 76 + Whale Flow)"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "Moderate Growth",
+        "rationale": "Stable outlook without high-growth catalysts detected.",
+        "is_high_growth": false
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 58728.57142857143,
+      "badges": [
+        "Whale Entry"
+      ],
+      "price_info": {
+        "current": 68500,
+        "change_pct": 13.410596026490065,
+        "currency": "KRW"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "089030.KQ",
+      "name": "테크윙",
+      "score": 60.0,
+      "short_term": {
+        "score": 70,
+        "signal": "Aggressive Buy",
+        "details": [
+          "❄️ Oversold (RSI 16)"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "Moderate Growth",
+        "rationale": "Stable outlook without high-growth catalysts detected.",
+        "is_high_growth": false
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 32892.857142857145,
+      "badges": [],
+      "price_info": {
+        "current": 38500,
+        "change_pct": 3.494623655913978,
+        "currency": "KRW"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "032820.KQ",
+      "name": "우리기술",
+      "score": 60.0,
+      "short_term": {
+        "score": 70,
+        "signal": "Aggressive Buy",
+        "details": [
+          "🔥 Super Momentum (RSI 78 + Whale Flow)"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "Moderate Growth",
+        "rationale": "Stable outlook without high-growth catalysts detected.",
+        "is_high_growth": false
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 6687.142857142857,
+      "badges": [
+        "Whale Entry"
+      ],
+      "price_info": {
+        "current": 8470,
+        "change_pct": 19.464033850493653,
+        "currency": "KRW"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "056080.KQ",
+      "name": "유진로봇",
+      "score": 60.0,
+      "short_term": {
+        "score": 70,
+        "signal": "Aggressive Buy",
+        "details": [
+          "🔥 Super Momentum (RSI 74 + Whale Flow)"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "Moderate Growth",
+        "rationale": "Stable outlook without high-growth catalysts detected.",
+        "is_high_growth": false
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 21730.714285714286,
+      "badges": [
+        "Bear Trap",
+        "Whale Entry"
+      ],
+      "price_info": {
+        "current": 31850,
+        "change_pct": 11.950790861159929,
+        "currency": "KRW"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "078600.KQ",
+      "name": "대주전자재료",
+      "score": 60.0,
+      "short_term": {
+        "score": 70,
+        "signal": "Aggressive Buy",
+        "details": [
+          "🔥 Super Momentum (RSI 75 + Whale Flow)"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "Moderate Growth",
+        "rationale": "Stable outlook without high-growth catalysts detected.",
+        "is_high_growth": false
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 69757.14285714286,
+      "badges": [
+        "Whale Entry"
+      ],
+      "price_info": {
+        "current": 76100,
+        "change_pct": 7.9432624113475185,
+        "currency": "KRW"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "348340.KQ",
+      "name": "뉴로메카",
+      "score": 60.0,
+      "short_term": {
+        "score": 70,
+        "signal": "Aggressive Buy",
+        "details": [
+          "🔥 Super Momentum (RSI 81 + Whale Flow)"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "Moderate Growth",
+        "rationale": "Stable outlook without high-growth catalysts detected.",
+        "is_high_growth": false
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 45200.0,
+      "badges": [
+        "Whale Entry"
+      ],
+      "price_info": {
+        "current": 102000,
+        "change_pct": -16.1873459326212,
+        "currency": "KRW"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "137400.KQ",
+      "name": "피엔티",
+      "score": 60.0,
+      "short_term": {
+        "score": 70,
+        "signal": "Aggressive Buy",
+        "details": [
+          "🔥 Super Momentum (RSI 77 + Whale Flow)"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "Moderate Growth",
+        "rationale": "Stable outlook without high-growth catalysts detected.",
+        "is_high_growth": false
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 43128.57142857143,
+      "badges": [
+        "Whale Entry"
+      ],
+      "price_info": {
+        "current": 47750,
+        "change_pct": 8.64618885096701,
+        "currency": "KRW"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "486990.KQ",
+      "name": "노타",
+      "score": 60.0,
+      "short_term": {
+        "score": 70,
+        "signal": "Aggressive Buy",
+        "details": [
+          "❄️ Oversold (RSI 19)"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "Moderate Growth",
+        "rationale": "Stable outlook without high-growth catalysts detected.",
+        "is_high_growth": false
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 37317.857142857145,
+      "badges": [],
+      "price_info": {
+        "current": 42750,
+        "change_pct": -0.8120649651972157,
+        "currency": "KRW"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "241710.KQ",
+      "name": "코스메카코리아",
+      "score": 60.0,
+      "short_term": {
+        "score": 70,
+        "signal": "Aggressive Buy",
+        "details": [
+          "🔥 Super Momentum (RSI 75 + Whale Flow)"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "Moderate Growth",
+        "rationale": "Stable outlook without high-growth catalysts detected.",
+        "is_high_growth": false
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 73285.71428571429,
+      "badges": [
+        "Whale Entry"
+      ],
+      "price_info": {
+        "current": 81400,
+        "change_pct": 0.36991368680641185,
+        "currency": "KRW"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "060250.KQ",
+      "name": "NHN KCP",
+      "score": 60.0,
+      "short_term": {
+        "score": 70,
+        "signal": "Aggressive Buy",
+        "details": [
+          "🔥 Super Momentum (RSI 71 + Whale Flow)"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "Moderate Growth",
+        "rationale": "Stable outlook without high-growth catalysts detected.",
+        "is_high_growth": false
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 18364.285714285714,
+      "badges": [
+        "Whale Entry"
+      ],
+      "price_info": {
+        "current": 20450,
+        "change_pct": 10.600324499729584,
+        "currency": "KRW"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "060280.KQ",
+      "name": "큐렉소",
+      "score": 60.0,
+      "short_term": {
+        "score": 70,
+        "signal": "Aggressive Buy",
+        "details": [
+          "🔥 Super Momentum (RSI 82 + Whale Flow)"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "Moderate Growth",
+        "rationale": "Stable outlook without high-growth catalysts detected.",
+        "is_high_growth": false
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 16227.142857142857,
+      "badges": [
+        "Whale Entry"
+      ],
+      "price_info": {
+        "current": 18840,
+        "change_pct": 3.8016528925619832,
+        "currency": "KRW"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "000810.KS",
+      "name": "삼성화재",
+      "score": 57.5,
+      "short_term": {
+        "score": 65,
+        "signal": "Hold",
+        "details": [
+          "⚡ Volatility Squeeze (Ready to Breakout)"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "Moderate Growth",
+        "rationale": "Stable outlook without high-growth catalysts detected.",
+        "is_high_growth": false
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 463142.85714285716,
+      "badges": [
+        "Squeeze Potential"
+      ],
+      "price_info": {
+        "current": 490500,
+        "change_pct": -0.3048780487804878,
+        "currency": "KRW"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "316140.KS",
+      "name": "우리금융지주",
+      "score": 57.5,
+      "short_term": {
+        "score": 65,
+        "signal": "Hold",
+        "details": [
+          "⚡ Volatility Squeeze (Ready to Breakout)"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "Moderate Growth",
+        "rationale": "Stable outlook without high-growth catalysts detected.",
+        "is_high_growth": false
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 28150.0,
+      "badges": [
+        "Squeeze Potential"
+      ],
+      "price_info": {
+        "current": 29550,
+        "change_pct": 0.0,
+        "currency": "KRW"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "011200.KS",
+      "name": "HMM",
+      "score": 57.5,
+      "short_term": {
+        "score": 65,
+        "signal": "Hold",
+        "details": [
+          "⚡ Volatility Squeeze (Ready to Breakout)"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "Moderate Growth",
+        "rationale": "Stable outlook without high-growth catalysts detected.",
+        "is_high_growth": false
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 18942.85714285714,
+      "badges": [
+        "Squeeze Potential"
+      ],
+      "price_info": {
+        "current": 20100,
+        "change_pct": -1.2285012285012284,
+        "currency": "KRW"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "033780.KS",
+      "name": "KT&G",
+      "score": 57.5,
+      "short_term": {
+        "score": 65,
+        "signal": "Hold",
+        "details": [
+          "⚡ Volatility Squeeze (Ready to Breakout)"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "Moderate Growth",
+        "rationale": "Stable outlook without high-growth catalysts detected.",
+        "is_high_growth": false
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 136257.14285714287,
+      "badges": [
+        "Squeeze Potential"
+      ],
+      "price_info": {
+        "current": 142000,
+        "change_pct": -2.001380262249828,
+        "currency": "KRW"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "024110.KS",
+      "name": "기업은행",
+      "score": 57.5,
+      "short_term": {
+        "score": 65,
+        "signal": "Hold",
+        "details": [
+          "⚡ Volatility Squeeze (Ready to Breakout)"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "Moderate Growth",
+        "rationale": "Stable outlook without high-growth catalysts detected.",
+        "is_high_growth": false
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 20200.0,
+      "badges": [
+        "Squeeze Potential"
+      ],
+      "price_info": {
+        "current": 20900,
+        "change_pct": -0.7125890736342043,
+        "currency": "KRW"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "030200.KS",
+      "name": "KT",
+      "score": 57.5,
+      "short_term": {
+        "score": 65,
+        "signal": "Hold",
+        "details": [
+          "⚡ Volatility Squeeze (Ready to Breakout)"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "Moderate Growth",
+        "rationale": "Stable outlook without high-growth catalysts detected.",
+        "is_high_growth": false
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 51857.142857142855,
+      "badges": [
+        "Squeeze Potential"
+      ],
+      "price_info": {
+        "current": 54400,
+        "change_pct": 0.36900369003690037,
+        "currency": "KRW"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "018260.KS",
+      "name": "삼성에스디에스",
+      "score": 57.5,
+      "short_term": {
+        "score": 65,
+        "signal": "Hold",
+        "details": [
+          "⚡ Volatility Squeeze (Ready to Breakout)"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "Moderate Growth",
+        "rationale": "Stable outlook without high-growth catalysts detected.",
+        "is_high_growth": false
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 159157.14285714287,
+      "badges": [
+        "Squeeze Potential"
+      ],
+      "price_info": {
+        "current": 172200,
+        "change_pct": -1.3180515759312321,
+        "currency": "KRW"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "005830.KS",
+      "name": "DB손해보험",
+      "score": 57.5,
+      "short_term": {
+        "score": 65,
+        "signal": "Hold",
+        "details": [
+          "⚡ Volatility Squeeze (Ready to Breakout)"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "Moderate Growth",
+        "rationale": "Stable outlook without high-growth catalysts detected.",
+        "is_high_growth": false
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 121585.71428571429,
+      "badges": [
+        "Squeeze Potential"
+      ],
+      "price_info": {
+        "current": 128600,
+        "change_pct": -1.0769230769230769,
+        "currency": "KRW"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "443060.KS",
+      "name": "HD현대마린솔루션",
+      "score": 57.5,
+      "short_term": {
+        "score": 65,
+        "signal": "Hold",
+        "details": [
+          "⚡ Volatility Squeeze (Ready to Breakout)"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "Moderate Growth",
+        "rationale": "Stable outlook without high-growth catalysts detected.",
+        "is_high_growth": false
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 170685.7142857143,
+      "badges": [
+        "Squeeze Potential"
+      ],
+      "price_info": {
+        "current": 184600,
+        "change_pct": -1.0718113612004287,
+        "currency": "KRW"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "011070.KS",
+      "name": "LG이노텍",
+      "score": 57.5,
+      "short_term": {
+        "score": 65,
+        "signal": "Hold",
+        "details": [
+          "⚡ Volatility Squeeze (Ready to Breakout)"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "Moderate Growth",
+        "rationale": "Stable outlook without high-growth catalysts detected.",
+        "is_high_growth": false
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 248785.7142857143,
+      "badges": [
+        "Squeeze Potential"
+      ],
+      "price_info": {
+        "current": 276000,
+        "change_pct": -0.36101083032490977,
+        "currency": "KRW"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (Skipped)",
+        "layers": []
+      }
+    }
+  ]
+}
