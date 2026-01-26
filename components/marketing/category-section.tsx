@@ -32,10 +32,10 @@ export function CategorySection() {
             border: "group-hover:border-orange-500/50",
         },
         {
-            title: t.revenue.title,
-            description: t.revenue.desc,
+            title: t.market_intelligence.title,
+            description: t.market_intelligence.desc,
             icon: TrendingUp,
-            href: "/category/Revenue",
+            href: "/market-intelligence",
             color: "text-purple-500",
             bg: "bg-purple-500/10",
             border: "group-hover:border-purple-500/50",

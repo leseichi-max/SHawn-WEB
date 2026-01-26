@@ -3,7 +3,8 @@ export const translations = {
         nav: {
             about: "소개",
             blog: "블로그",
-            revenue: "수익화",
+            blog: "블로그",
+            market_intelligence: "주식 시장 분석",
         },
         common: {
             subscribe: "구독하기",
@@ -33,9 +34,9 @@ export const translations = {
                 title: "Daily Life",
                 desc: "생산성을 높이는 도구, 효율적인 시간 관리, 그리고 삶의 질을 높이는 노하우.",
             },
-            revenue: {
-                title: "Revenue",
-                desc: "디지털 노마드, 패시브 인컴, 그리고 지속 가능한 수익 모델 구축 전략.",
+            market_intelligence: {
+                title: "Market Intelligence",
+                desc: "SHawn-INV 알고리즘 기반의 한/미 주식 시장 자동 분석 리포트.",
             },
             explore: "탐험하기",
         },
@@ -49,7 +50,8 @@ export const translations = {
         nav: {
             about: "About",
             blog: "Blog",
-            revenue: "Revenue",
+            blog: "Blog",
+            market_intelligence: "Market Intelligence",
         },
         common: {
             subscribe: "Subscribe",
@@ -79,9 +81,9 @@ export const translations = {
                 title: "Daily Life",
                 desc: "Productivity tools, efficient time management, and know-how to improve quality of life.",
             },
-            revenue: {
-                title: "Revenue",
-                desc: "Digital nomad, passive income, and sustainable revenue model strategies.",
+            market_intelligence: {
+                title: "Market Intelligence",
+                desc: "Automated market analysis reports based on SHawn-INV algorithms.",
             },
             explore: "Explore",
         },

@@ -35,7 +35,8 @@ export function MobileNav() {
     const menuItems = [
         { href: "/about", label: t.nav.about },
         { href: "/blog", label: t.nav.blog },
-        { href: "/revenue", label: t.nav.revenue },
+        { href: "/blog", label: t.nav.blog },
+        { href: "/market-intelligence", label: t.nav.market_intelligence },
     ]
 
     const container = {

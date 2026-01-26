@@ -27,8 +27,8 @@ export function Header() {
                         <Link className="transition-colors hover:text-primary text-muted-foreground" href="/blog">
                             {t.nav.blog}
                         </Link>
-                        <Link className="transition-colors hover:text-primary text-muted-foreground" href="/revenue">
-                            {t.nav.revenue}
+                        <Link className="transition-colors hover:text-primary text-muted-foreground" href="/market-intelligence">
+                            {t.nav.market_intelligence}
                         </Link>
                     </nav>
                 </div>
