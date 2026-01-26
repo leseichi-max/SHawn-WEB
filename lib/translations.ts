@@ -3,7 +3,6 @@ export const translations = {
         nav: {
             about: "소개",
             blog: "블로그",
-            blog: "블로그",
             market_intelligence: "주식 시장 분석",
         },
         common: {
@@ -49,7 +48,6 @@ export const translations = {
     en: {
         nav: {
             about: "About",
-            blog: "Blog",
             blog: "Blog",
             market_intelligence: "Market Intelligence",
         },
