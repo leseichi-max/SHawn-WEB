@@ -1,0 +1,2229 @@
+{
+  "meta": {
+    "market": "US",
+    "date": "2026-01-26",
+    "time": "21:39:40",
+    "timestamp": "2026-01-26T21:39:40.438413",
+    "avg_score": 50.55,
+    "buy_count": 1,
+    "sell_count": 49,
+    "high_growth_count": 0,
+    "top_alpha_ticker": "ROP"
+  },
+  "reports": [
+    {
+      "ticker": "ROP",
+      "name": "ROP",
+      "score": 65.0,
+      "short_term": {
+        "score": 80,
+        "signal": "Aggressive Buy",
+        "details": [
+          "❄️ Oversold (RSI 24)",
+          "🔥 Whale Flow Detected (Volume Spike)"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,445원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Whale Entry",
+        "consecutive_days": 1
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 390.7814156668527,
+      "badges": [
+        "Macro Risk",
+        "Whale Entry"
+      ],
+      "price_info": {
+        "current": 407.6099853515625,
+        "change_pct": 0.03189711439335755,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (API Blocked)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "HPE",
+      "name": "HPE",
+      "score": 55.0,
+      "short_term": {
+        "score": 60,
+        "signal": "Hold",
+        "details": [
+          "❄️ Oversold (RSI 23)"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,445원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 19.57714298793248,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 21.049999237060547,
+        "change_pct": -1.451317249217594,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (API Blocked)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "JCI",
+      "name": "JCI",
+      "score": 55.0,
+      "short_term": {
+        "score": 60,
+        "signal": "Hold",
+        "details": [
+          "❄️ Oversold (RSI 26)"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,445원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 107.6285651070731,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 113.58999633789062,
+        "change_pct": -0.8034283304311964,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (API Blocked)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "HIG",
+      "name": "HIG",
+      "score": 55.0,
+      "short_term": {
+        "score": 60,
+        "signal": "Hold",
+        "details": [
+          "❄️ Oversold (RSI 24)"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,445원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 123.9928479875837,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 128.6199951171875,
+        "change_pct": -1.023471998683012,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (API Blocked)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "PSKY",
+      "name": "PSKY",
+      "score": 55.0,
+      "short_term": {
+        "score": 60,
+        "signal": "Hold",
+        "details": [
+          "❄️ Oversold (RSI 15)"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,445원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 11.132857186453682,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 11.699999809265137,
+        "change_pct": -0.6791165154455978,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (API Blocked)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "HPQ",
+      "name": "HPQ",
+      "score": 55.0,
+      "short_term": {
+        "score": 60,
+        "signal": "Hold",
+        "details": [
+          "❄️ Oversold (RSI 23)"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,445원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 17.855714797973633,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 19.43000030517578,
+        "change_pct": -2.017143822840303,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (API Blocked)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "WFC",
+      "name": "WFC",
+      "score": 55.0,
+      "short_term": {
+        "score": 60,
+        "signal": "Hold",
+        "details": [
+          "❄️ Oversold (RSI 27)"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,445원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 82.32142748151507,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 86.95999908447266,
+        "change_pct": -1.2267171965285735,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (API Blocked)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "TMUS",
+      "name": "TMUS",
+      "score": 55.0,
+      "short_term": {
+        "score": 60,
+        "signal": "Hold",
+        "details": [
+          "❄️ Oversold (RSI 29)"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,445원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 177.47999572753906,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 186.02999877929688,
+        "change_pct": 0.3452178605941421,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (API Blocked)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "AIG",
+      "name": "AIG",
+      "score": 55.0,
+      "short_term": {
+        "score": 60,
+        "signal": "Hold",
+        "details": [
+          "❄️ Oversold (RSI 17)"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,445원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 67.96571568080357,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 72.31999969482422,
+        "change_pct": 0.013832300605962387,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (API Blocked)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "MA",
+      "name": "MA",
+      "score": 55.0,
+      "short_term": {
+        "score": 60,
+        "signal": "Hold",
+        "details": [
+          "❄️ Oversold (RSI 28)"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,445원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 498.22141810825894,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 524.739990234375,
+        "change_pct": -1.5238515445722969,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (API Blocked)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "FSLR",
+      "name": "FSLR",
+      "score": 55.0,
+      "short_term": {
+        "score": 60,
+        "signal": "Hold",
+        "details": [
+          "❄️ Oversold (RSI 28)"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,445원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 218.3114275251116,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 242.14999389648438,
+        "change_pct": 1.0305412617582699,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (API Blocked)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "AAPL",
+      "name": "AAPL",
+      "score": 55.0,
+      "short_term": {
+        "score": 60,
+        "signal": "Hold",
+        "details": [
+          "❄️ Oversold (RSI 12)"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,445원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 237.91856384277344,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 248.0399932861328,
+        "change_pct": -0.12482899527435284,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (API Blocked)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "BR",
+      "name": "BR",
+      "score": 55.0,
+      "short_term": {
+        "score": 60,
+        "signal": "Hold",
+        "details": [
+          "❄️ Oversold (RSI 29)"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,445원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 198.36857386997767,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 207.5399932861328,
+        "change_pct": -1.0725011068241097,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (API Blocked)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "CEG",
+      "name": "CEG",
+      "score": 55.0,
+      "short_term": {
+        "score": 60,
+        "signal": "Hold",
+        "details": [
+          "❄️ Oversold (RSI 23)"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,445원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 255.21470860072543,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 289.05999755859375,
+        "change_pct": 0.5950901057096598,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (API Blocked)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "GDDY",
+      "name": "GDDY",
+      "score": 55.0,
+      "short_term": {
+        "score": 60,
+        "signal": "Hold",
+        "details": [
+          "❄️ Oversold (RSI 17)"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,445원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 97.68356759207589,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 103.69999694824219,
+        "change_pct": -2.151355290122512,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (API Blocked)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "ABT",
+      "name": "ABT",
+      "score": 55.0,
+      "short_term": {
+        "score": 60,
+        "signal": "Hold",
+        "details": [
+          "❄️ Oversold (RSI 17)"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,445원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 100.61142294747489,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 107.41999816894531,
+        "change_pct": -1.0956656244534,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (API Blocked)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "LVS",
+      "name": "LVS",
+      "score": 55.0,
+      "short_term": {
+        "score": 60,
+        "signal": "Hold",
+        "details": [
+          "❄️ Oversold (RSI 29)"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,445원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 56.73000008719308,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 59.95000076293945,
+        "change_pct": 0.01668691434706147,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (API Blocked)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "V",
+      "name": "V",
+      "score": 55.0,
+      "short_term": {
+        "score": 60,
+        "signal": "Hold",
+        "details": [
+          "❄️ Oversold (RSI 29)"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,445원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 311.4342694963728,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 326.17999267578125,
+        "change_pct": -0.055151576130682126,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (API Blocked)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "FIS",
+      "name": "FIS",
+      "score": 55.0,
+      "short_term": {
+        "score": 60,
+        "signal": "Hold",
+        "details": [
+          "❄️ Oversold (RSI 29)"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,445원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 56.787141527448384,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 60.5,
+        "change_pct": -1.3050558678912447,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (API Blocked)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "ADBE",
+      "name": "ADBE",
+      "score": 55.0,
+      "short_term": {
+        "score": 60,
+        "signal": "Hold",
+        "details": [
+          "❄️ Oversold (RSI 27)"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,445원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 283.90857369559154,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 301.07000732421875,
+        "change_pct": 0.44706779060297286,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (API Blocked)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "BAC",
+      "name": "BAC",
+      "score": 55.0,
+      "short_term": {
+        "score": 60,
+        "signal": "Hold",
+        "details": [
+          "❄️ Oversold (RSI 28)"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,445원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 49.20285742623465,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 51.720001220703125,
+        "change_pct": -1.391800822912737,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (API Blocked)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "WDAY",
+      "name": "WDAY",
+      "score": 55.0,
+      "short_term": {
+        "score": 60,
+        "signal": "Hold",
+        "details": [
+          "❄️ Oversold (RSI 30)"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,445원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 178.02142769949776,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 189.25999450683594,
+        "change_pct": 0.5739195839567506,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (API Blocked)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "PCG",
+      "name": "PCG",
+      "score": 55.0,
+      "short_term": {
+        "score": 60,
+        "signal": "Hold",
+        "details": [
+          "❄️ Oversold (RSI 21)",
+          "⚡ Volatility Squeeze"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,445원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 14.154285294669014,
+      "badges": [
+        "Macro Risk",
+        "Squeeze Potential"
+      ],
+      "price_info": {
+        "current": 14.949999809265137,
+        "change_pct": -0.9933812477823915,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (API Blocked)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "WST",
+      "name": "WST",
+      "score": 55.0,
+      "short_term": {
+        "score": 60,
+        "signal": "Hold",
+        "details": [
+          "❄️ Oversold (RSI 23)"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,445원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 214.788578578404,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 236.66000366210938,
+        "change_pct": -4.487850178372277,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (API Blocked)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "JPM",
+      "name": "JPM",
+      "score": 55.0,
+      "short_term": {
+        "score": 60,
+        "signal": "Hold",
+        "details": [
+          "❄️ Oversold (RSI 28)"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,445원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 282.30000959123885,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 297.7200012207031,
+        "change_pct": -1.9464491542561382,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (API Blocked)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "GILD",
+      "name": "GILD",
+      "score": 52.5,
+      "short_term": {
+        "score": 55,
+        "signal": "Hold",
+        "details": [
+          "🔥 Whale Flow Detected (Volume Spike)"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,445원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Whale Entry",
+        "consecutive_days": 1
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 127.46999032156808,
+      "badges": [
+        "Macro Risk",
+        "Whale Entry"
+      ],
+      "price_info": {
+        "current": 135.92999267578125,
+        "change_pct": 3.6525799210205814,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (API Blocked)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "HLT",
+      "name": "HLT",
+      "score": 52.5,
+      "short_term": {
+        "score": 55,
+        "signal": "Hold",
+        "details": [
+          "🔥 Whale Flow Detected (Volume Spike)",
+          "⚡ Volatility Squeeze"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,445원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Whale Entry",
+        "consecutive_days": 1
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 285.6599862234933,
+      "badges": [
+        "Macro Risk",
+        "Whale Entry",
+        "Squeeze Potential"
+      ],
+      "price_info": {
+        "current": 298.1099853515625,
+        "change_pct": 0.7400553610622658,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (API Blocked)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "FTNT",
+      "name": "FTNT",
+      "score": 52.5,
+      "short_term": {
+        "score": 55,
+        "signal": "Hold",
+        "details": [
+          "🔥 Whale Flow Detected (Volume Spike)"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,445원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Whale Entry",
+        "consecutive_days": 1
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 77.06571524483817,
+      "badges": [
+        "Macro Risk",
+        "Whale Entry"
+      ],
+      "price_info": {
+        "current": 81.63999938964844,
+        "change_pct": 5.17907304923849,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (API Blocked)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "SW",
+      "name": "SW",
+      "score": 52.5,
+      "short_term": {
+        "score": 55,
+        "signal": "Hold",
+        "details": [
+          "🔥 Whale Flow Detected (Volume Spike)"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,445원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Whale Entry",
+        "consecutive_days": 1
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 40.61785670689174,
+      "badges": [
+        "Macro Risk",
+        "Whale Entry"
+      ],
+      "price_info": {
+        "current": 43.79999923706055,
+        "change_pct": 4.834850447062811,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (API Blocked)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "AMCR",
+      "name": "AMCR",
+      "score": 52.5,
+      "short_term": {
+        "score": 55,
+        "signal": "Hold",
+        "details": [
+          "🔥 Whale Flow Detected (Volume Spike)",
+          "⚡ Volatility Squeeze"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,445원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Whale Entry",
+        "consecutive_days": 1
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 41.64571162632534,
+      "badges": [
+        "Macro Risk",
+        "Whale Entry",
+        "Squeeze Potential"
+      ],
+      "price_info": {
+        "current": 44.279998779296875,
+        "change_pct": 3.5305080789614673,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (API Blocked)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "IP",
+      "name": "IP",
+      "score": 52.5,
+      "short_term": {
+        "score": 55,
+        "signal": "Hold",
+        "details": [
+          "🔥 Whale Flow Detected (Volume Spike)"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,445원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Whale Entry",
+        "consecutive_days": 1
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 40.01000050136021,
+      "badges": [
+        "Macro Risk",
+        "Whale Entry"
+      ],
+      "price_info": {
+        "current": 43.040000915527344,
+        "change_pct": 2.8680706466613874,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (API Blocked)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "LYV",
+      "name": "LYV",
+      "score": 52.5,
+      "short_term": {
+        "score": 55,
+        "signal": "Hold",
+        "details": [
+          "🔥 Whale Flow Detected (Volume Spike)",
+          "⚡ Volatility Squeeze"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,445원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Whale Entry",
+        "consecutive_days": 1
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 138.50142342703683,
+      "badges": [
+        "Macro Risk",
+        "Whale Entry",
+        "Squeeze Potential"
+      ],
+      "price_info": {
+        "current": 146.97000122070312,
+        "change_pct": 6.39206737372866,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (API Blocked)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "PKG",
+      "name": "PKG",
+      "score": 52.5,
+      "short_term": {
+        "score": 55,
+        "signal": "Hold",
+        "details": [
+          "🔥 Whale Flow Detected (Volume Spike)"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,445원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Whale Entry",
+        "consecutive_days": 1
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 214.46285356794084,
+      "badges": [
+        "Macro Risk",
+        "Whale Entry"
+      ],
+      "price_info": {
+        "current": 225.38999938964844,
+        "change_pct": 3.030720903864953,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (API Blocked)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "FOX",
+      "name": "FOX",
+      "score": 42.5,
+      "short_term": {
+        "score": 35,
+        "signal": "Hold",
+        "details": [
+          "⚡ Volatility Squeeze"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,445원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 63.11499786376953,
+      "badges": [
+        "Macro Risk",
+        "Squeeze Potential"
+      ],
+      "price_info": {
+        "current": 65.52999877929688,
+        "change_pct": 0.7688759178620519,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (API Blocked)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "WAT",
+      "name": "WAT",
+      "score": 42.5,
+      "short_term": {
+        "score": 35,
+        "signal": "Hold",
+        "details": [
+          "⚡ Volatility Squeeze"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,445원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 370.6728515625,
+      "badges": [
+        "Macro Risk",
+        "Squeeze Potential"
+      ],
+      "price_info": {
+        "current": 392.30999755859375,
+        "change_pct": -2.0253772531787493,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (API Blocked)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "JKHY",
+      "name": "JKHY",
+      "score": 42.5,
+      "short_term": {
+        "score": 35,
+        "signal": "Hold",
+        "details": [
+          "⚡ Volatility Squeeze"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,445원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 177.50714111328125,
+      "badges": [
+        "Macro Risk",
+        "Squeeze Potential"
+      ],
+      "price_info": {
+        "current": 185.11000061035156,
+        "change_pct": -1.9024888160837181,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (API Blocked)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "WBD",
+      "name": "WBD",
+      "score": 42.5,
+      "short_term": {
+        "score": 35,
+        "signal": "Hold",
+        "details": [
+          "⚡ Volatility Squeeze"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,445원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 27.464285169328964,
+      "badges": [
+        "Macro Risk",
+        "Squeeze Potential"
+      ],
+      "price_info": {
+        "current": 28.579999923706055,
+        "change_pct": 0.7757380416775843,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (API Blocked)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "AVB",
+      "name": "AVB",
+      "score": 42.5,
+      "short_term": {
+        "score": 35,
+        "signal": "Hold",
+        "details": [
+          "⚡ Volatility Squeeze"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,445원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 169.9000004359654,
+      "badges": [
+        "Macro Risk",
+        "Squeeze Potential"
+      ],
+      "price_info": {
+        "current": 178.77000427246094,
+        "change_pct": 1.7125681950951186,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (API Blocked)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "DHI",
+      "name": "DHI",
+      "score": 42.5,
+      "short_term": {
+        "score": 35,
+        "signal": "Hold",
+        "details": []
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,445원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 137.60713413783483,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 150.50999450683594,
+        "change_pct": -3.3581679734547634,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (API Blocked)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "A",
+      "name": "A",
+      "score": 42.5,
+      "short_term": {
+        "score": 35,
+        "signal": "Hold",
+        "details": []
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,445원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 126.36857386997768,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 135.0500030517578,
+        "change_pct": -2.5824148488496084,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (API Blocked)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "C",
+      "name": "C",
+      "score": 42.5,
+      "short_term": {
+        "score": 35,
+        "signal": "Hold",
+        "details": []
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,445원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 106.4057115827288,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 113.58999633789062,
+        "change_pct": -1.789734790486516,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (API Blocked)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "IBM",
+      "name": "IBM",
+      "score": 42.5,
+      "short_term": {
+        "score": 35,
+        "signal": "Hold",
+        "details": [
+          "⚡ Volatility Squeeze"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,445원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 274.2414289202009,
+      "badges": [
+        "Macro Risk",
+        "Squeeze Potential"
+      ],
+      "price_info": {
+        "current": 292.44000244140625,
+        "change_pct": -0.7567824633350481,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (API Blocked)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "DASH",
+      "name": "DASH",
+      "score": 42.5,
+      "short_term": {
+        "score": 35,
+        "signal": "Hold",
+        "details": []
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,445원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 190.58570425851005,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 207.22999572753906,
+        "change_pct": -0.20226254817743258,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (API Blocked)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "DXCM",
+      "name": "DXCM",
+      "score": 42.5,
+      "short_term": {
+        "score": 35,
+        "signal": "Hold",
+        "details": []
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,445원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 67.13714599609375,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 72.86000061035156,
+        "change_pct": -1.4339794167352506,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (API Blocked)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "CME",
+      "name": "CME",
+      "score": 42.5,
+      "short_term": {
+        "score": 35,
+        "signal": "Hold",
+        "details": [
+          "⚡ Volatility Squeeze"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,445원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 270.3200029645647,
+      "badges": [
+        "Macro Risk",
+        "Squeeze Potential"
+      ],
+      "price_info": {
+        "current": 282.739990234375,
+        "change_pct": 0.4797524843318018,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (API Blocked)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "DLTR",
+      "name": "DLTR",
+      "score": 42.5,
+      "short_term": {
+        "score": 35,
+        "signal": "Hold",
+        "details": []
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,445원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 119.98856680733817,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 128.9199981689453,
+        "change_pct": 1.6799410348116168,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (API Blocked)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "LW",
+      "name": "LW",
+      "score": 42.5,
+      "short_term": {
+        "score": 35,
+        "signal": "Hold",
+        "details": []
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,445원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 41.29685974121094,
+      "badges": [
+        "Macro Risk"
+      ],
+      "price_info": {
+        "current": 43.720001220703125,
+        "change_pct": -0.8841518572931372,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (API Blocked)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "CAG",
+      "name": "CAG",
+      "score": 42.5,
+      "short_term": {
+        "score": 35,
+        "signal": "Hold",
+        "details": [
+          "⚡ Volatility Squeeze"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,445원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 16.557143211364746,
+      "badges": [
+        "Macro Risk",
+        "Squeeze Potential"
+      ],
+      "price_info": {
+        "current": 17.5,
+        "change_pct": 0.1717268908108918,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (API Blocked)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "ATO",
+      "name": "ATO",
+      "score": 42.5,
+      "short_term": {
+        "score": 35,
+        "signal": "Hold",
+        "details": [
+          "⚡ Volatility Squeeze"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,445원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 159.79571315220423,
+      "badges": [
+        "Macro Risk",
+        "Squeeze Potential"
+      ],
+      "price_info": {
+        "current": 165.33999633789062,
+        "change_pct": -0.03627422056091458,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (API Blocked)",
+        "layers": []
+      }
+    },
+    {
+      "ticker": "KR",
+      "name": "KR",
+      "score": 42.5,
+      "short_term": {
+        "score": 35,
+        "signal": "Hold",
+        "details": [
+          "⚡ Volatility Squeeze"
+        ]
+      },
+      "long_term": {
+        "score": 50,
+        "signal": "Accumulate",
+        "details": []
+      },
+      "future_value": {
+        "prediction": "N/A",
+        "rationale": "Calculating..."
+      },
+      "macro_impact": {
+        "status": "Risk High",
+        "detail": "환율 1,445원 상회 (외인 이탈 압력)"
+      },
+      "whale_flow": {
+        "status": "Neutral",
+        "consecutive_days": 0
+      },
+      "sector": "Market",
+      "explanation": "",
+      "stop_loss": 60.81428473336356,
+      "badges": [
+        "Macro Risk",
+        "Squeeze Potential"
+      ],
+      "price_info": {
+        "current": 64.25,
+        "change_pct": 2.553868212533372,
+        "currency": "USD"
+      },
+      "enhanced_diagnosis": {
+        "primary": "N/A (API Blocked)",
+        "layers": []
+      }
+    }
+  ]
+}
