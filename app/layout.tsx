@@ -28,6 +28,8 @@ export const metadata: Metadata = {
   },
 };
 
+import { SpeedInsights } from "@vercel/speed-insights/next"
+
 export default function RootLayout({
   children,
 }: Readonly<{
@@ -51,6 +53,7 @@ export default function RootLayout({
             <ShawnChatUI />
             <Analytics gaId={process.env.NEXT_PUBLIC_GOOGLE_ANALYTICS || ""} />
             <AdSense pId={process.env.NEXT_PUBLIC_ADSENSE_ID || ""} />
+            <SpeedInsights />
           </LanguageProvider>
         </ThemeProvider>
       </body>
