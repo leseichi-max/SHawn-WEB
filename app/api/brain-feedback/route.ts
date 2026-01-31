@@ -6,7 +6,7 @@ import path from 'path';
  * SHawn Brain Feedback API
  * Web에서 수집된 피드백을 BOT의 LearningCore로 전달합니다.
  */
-export async function POST(req: NextRequest) {
+export async function POST(req: NextRequest): Promise<Response> {
     try {
         const { interactionId, score, comment } = await req.json();
 
@@ -17,7 +17,7 @@ export async function POST(req: NextRequest) {
         const scriptPath = path.join(process.cwd(), 'scripts', 'add_feedback.py');
         const command = `python3 ${scriptPath} "${interactionId}" "${score}" "${comment || ''}"`;
 
-        return new Promise((resolve) => {
+        return new Promise<Response>((resolve) => {
             exec(command, (error, stdout, stderr) => {
                 if (error) {
                     console.error(`Feedback bridge error: ${stderr}`);
