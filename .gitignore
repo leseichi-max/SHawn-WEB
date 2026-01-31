@@ -1,12 +1,29 @@
-# Next.js
+# SHawn-WEB: Digital Lab Ignore
+
+# Dependency & Build
 node_modules/
 .next/
 out/
-*.log
+build/
+.pnp
+.pnp.js
 
-# 환경 변수
+# Environments
+.env*
 .env.local
 .env*.local
 
-# 기타
+# Virtual Environment (Python Fallback)
+.venv/
+venv/
+ENV/
+
+# OS & Logs
 .DS_Store
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Vercel
+.vercel

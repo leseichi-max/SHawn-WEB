@@ -1,35 +1,24 @@
-# 🖥️ 03-Digital-Lab (SHawn-WEB)
+# 🖥️ SHawn-WEB: Digital Lab (v2.0)
 
-> **SHawn Lab: Web Project Headquarters**
+> **SHawn Lab: Web Platform & Digital Asset Headquarters**
 
-This repository contains the source code for the SHawn Lab homepage and other web-based digital assets.
+SHawn Lab의 공식 홈페이지(`Lab-Homepage`)와 블로그, 디지털 디자인 자산들을 관리하는 웹 프로젝트 본부입니다.
 
-## 📂 Directory Structure
-
-| Folder | Description |
-| :--- | :--- |
-| `Lab-Homepage/` | Main website source code (Next.js / Jekyll). |
-| `posts/` | Blog posts, articles, and static content files. |
-| `assets/` | Web images, icons, and static resources. |
+## 🌐 Assets
+- **Lab-Homepage**: Next.js 기반의 고성능 웹 서비스.
+- **Posts**: MDX 기반의 블로그 및 기술 아티클.
+- **Sovereign Alpha Design**: 디자인 토큰 및 UI 컴포넌트 라이브러리.
 
 ## 🚀 Development
-
-### Tech Stack
-- **Framework:** Next.js / React (or Jekyll for static sites)
-- **Styling:** CSS Modules / Tailwind (Optional)
-
-### Running Locally
 ```bash
-# Install dependencies
+# 의존성 설치 및 로컬 서버 실행
 npm install
-
-# Run development server
 npm run dev
 ```
 
 ## 📜 Governance
-- **Protocol:** See `GEMINI.md` for the global system constitution.
-- **Design System:** Sovereign Alpha (Dark Mode First, Neon Accents).
+- **Sovereign Alpha**: 네온 하이라이트와 다크 프리미엄 디자인 원칙 고수.
+- 상세 프로토콜은 `GEMINI.md`를 참조하십시오.
 
 ---
-*Maintained by SHawn-Bot (Antigravity Assistant)*
+*Maintained by SHawn-Bot Creative Engine*
