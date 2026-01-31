@@ -1,16 +1,83 @@
+'use client';
+
 import { Header } from "@/components/ui/header";
 import { Footer } from "@/components/ui/footer";
 import Link from "next/link";
+import { useBrainStatus, useCartridgeSwitch, ConnectionState } from "@/lib/brain-client";
+import { useEffect, useState } from "react";
 
 export default function BrainDashboard() {
+  const { status, connected, connectionState } = useBrainStatus();
+  const { activeCartridge, switchCartridge } = useCartridgeSwitch();
+  const [isLoading, setIsLoading] = useState(true);
+  
+  useEffect(() => {
+    // Stop loading after 2 seconds or when status arrives
+    const timer = setTimeout(() => setIsLoading(false), 2000);
+    if (status) setIsLoading(false);
+    return () => clearTimeout(timer);
+  }, [status]);
+
+  // Fallback values when not connected
+  const brainStatus = status || {
+    brainstem: {
+      ethics: 100,
+      ethics_status: "✅ All actions validated",
+      reasoning: 85,
+      reasoning_status: "Evidence-based reasoning active",
+      awareness: 90,
+      awareness_status: "Monitoring knowledge gaps"
+    },
+    limbic: {
+      memory: 75,
+      memory_status: "FAISS vectorized memory online",
+      emotion: 70,
+      emotion_status: "Neutral-Positive",
+      values: 85,
+      values_status: "Core ethics engaged"
+    },
+    neocortex: {
+      decision_making: 88,
+      decision_status: "Strategic planning mode",
+      learning: 75,
+      learning_status: "Adaptive learning active",
+      innovation: 82,
+      innovation_status: "Cross-domain synthesis enabled"
+    },
+    cartridge: {
+      active: activeCartridge,
+      status: `🧬 ${activeCartridge} world active`,
+      available: ["biology", "investment", "astronomy", "literature"]
+    },
+    overall_health: 82.5,
+    system_status: "OPERATIONAL"
+  };
+
   return (
     <div className="min-h-screen flex flex-col bg-black text-white">
       <Header />
       <main className="flex-1 max-w-7xl mx-auto w-full px-4 py-12">
+        {/* Connection Status Badge */}
+        <div className="mb-8 flex items-center gap-4">
+          <div className={`px-4 py-2 rounded-lg text-sm font-bold flex items-center gap-2 ${
+            connected ? 'bg-green-500/20 text-green-400 border border-green-500/50' : 'bg-red-500/20 text-red-400 border border-red-500/50'
+          }`}>
+            <span className={`w-2 h-2 rounded-full ${connected ? 'bg-green-400 animate-pulse' : 'bg-red-400'}`}></span>
+            {connected ? 'Live Connection' : 'Disconnected'}
+          </div>
+          <div className="text-sm text-gray-400">
+            {connectionState !== ConnectionState.CONNECTED && (
+              <span>{connectionState}</span>
+            )}
+          </div>
+        </div>
+
         {/* 제목 */}
         <div className="mb-12">
-          <h1 className="text-5xl font-bold mb-4">
+          <h1 className="text-5xl font-bold mb-4 flex items-center gap-4">
             🧠 Brain Dashboard
+            {isLoading && <span className="text-lg animate-pulse">⏳ Connecting...</span>}
+            {connected && <span className="text-lg">✅ Live</span>}
           </h1>
           <p className="text-gray-400">
             Digital Da Vinci의 신경 시스템을 실시간으로 모니터합니다
@@ -20,7 +87,7 @@ export default function BrainDashboard() {
         {/* 뇌의 4가지 구성 */}
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mb-12">
           {/* Brainstem */}
-          <div className="bg-gradient-to-br from-red-900/30 to-orange-900/30 border border-red-500/50 rounded-xl p-8">
+          <div className="bg-gradient-to-br from-red-900/30 to-orange-900/30 border border-red-500/50 rounded-xl p-8 transition-all hover:border-red-400/80">
             <div className="flex items-start gap-4 mb-6">
               <span className="text-4xl">🔴</span>
               <div>
@@ -30,49 +97,58 @@ export default function BrainDashboard() {
             </div>
             
             <div className="space-y-4">
-              <div className="bg-black/50 p-4 rounded-lg border border-red-500/20">
+              <div className="bg-black/50 p-4 rounded-lg border border-red-500/20 hover:border-red-500/50 transition">
                 <h3 className="text-sm font-bold text-red-400 mb-2">윤리 검증</h3>
                 <div className="flex items-center gap-2">
                   <div className="w-full bg-gray-700 rounded-full h-2">
-                    <div className="bg-green-500 h-2 rounded-full" style={{width: "100%"}}></div>
+                    <div 
+                      className="bg-green-500 h-2 rounded-full transition-all duration-500" 
+                      style={{width: `${brainStatus.brainstem.ethics}%`}}
+                    ></div>
                   </div>
-                  <span className="text-xs text-green-400">100%</span>
+                  <span className="text-xs text-green-400 font-bold">{brainStatus.brainstem.ethics}%</span>
                 </div>
                 <p className="text-xs text-gray-500 mt-2">
-                  ✅ 모든 행동이 윤리 검증을 통과합니다
+                  {brainStatus.brainstem.ethics_status}
                 </p>
               </div>
 
-              <div className="bg-black/50 p-4 rounded-lg border border-red-500/20">
+              <div className="bg-black/50 p-4 rounded-lg border border-red-500/20 hover:border-red-500/50 transition">
                 <h3 className="text-sm font-bold text-red-400 mb-2">추론 엔진</h3>
                 <div className="flex items-center gap-2">
                   <div className="w-full bg-gray-700 rounded-full h-2">
-                    <div className="bg-blue-500 h-2 rounded-full" style={{width: "85%"}}></div>
+                    <div 
+                      className="bg-blue-500 h-2 rounded-full transition-all duration-500" 
+                      style={{width: `${brainStatus.brainstem.reasoning}%`}}
+                    ></div>
                   </div>
-                  <span className="text-xs text-blue-400">85%</span>
+                  <span className="text-xs text-blue-400 font-bold">{brainStatus.brainstem.reasoning}%</span>
                 </div>
                 <p className="text-xs text-gray-500 mt-2">
-                  증거 기반 추론 활성화 중
+                  {brainStatus.brainstem.reasoning_status}
                 </p>
               </div>
 
-              <div className="bg-black/50 p-4 rounded-lg border border-red-500/20">
+              <div className="bg-black/50 p-4 rounded-lg border border-red-500/20 hover:border-red-500/50 transition">
                 <h3 className="text-sm font-bold text-red-400 mb-2">자각 모니터</h3>
                 <div className="flex items-center gap-2">
                   <div className="w-full bg-gray-700 rounded-full h-2">
-                    <div className="bg-purple-500 h-2 rounded-full" style={{width: "90%"}}></div>
+                    <div 
+                      className="bg-purple-500 h-2 rounded-full transition-all duration-500" 
+                      style={{width: `${brainStatus.brainstem.awareness}%`}}
+                    ></div>
                   </div>
-                  <span className="text-xs text-purple-400">90%</span>
+                  <span className="text-xs text-purple-400 font-bold">{brainStatus.brainstem.awareness}%</span>
                 </div>
                 <p className="text-xs text-gray-500 mt-2">
-                  한계 인식 및 불확실성 명시적 표현
+                  {brainStatus.brainstem.awareness_status}
                 </p>
               </div>
             </div>
           </div>
 
           {/* Limbic System */}
-          <div className="bg-gradient-to-br from-purple-900/30 to-pink-900/30 border border-purple-500/50 rounded-xl p-8">
+          <div className="bg-gradient-to-br from-purple-900/30 to-pink-900/30 border border-purple-500/50 rounded-xl p-8 transition-all hover:border-purple-400/80">
             <div className="flex items-start gap-4 mb-6">
               <span className="text-4xl">🟣</span>
               <div>
@@ -82,37 +158,40 @@ export default function BrainDashboard() {
             </div>
             
             <div className="space-y-4">
-              <div className="bg-black/50 p-4 rounded-lg border border-purple-500/20">
+              <div className="bg-black/50 p-4 rounded-lg border border-purple-500/20 hover:border-purple-500/50 transition">
                 <h3 className="text-sm font-bold text-purple-400 mb-2">기억 저장소</h3>
-                <p className="text-sm text-gray-400 mb-2">
-                  🧬 Bio: 자궁 오가노이드 (250+ 논문)<br />
-                  📊 Quant: 시장 데이터 (7500+ 주식)<br />
-                  🌌 Astro: 우주 연구 (준비 중)<br />
-                  📚 Lit: 문학 (준비 중)
+                <div className="flex items-center gap-2 mb-2">
+                  <div className="w-full bg-gray-700 rounded-full h-2">
+                    <div 
+                      className="bg-purple-500 h-2 rounded-full transition-all duration-500" 
+                      style={{width: `${brainStatus.limbic.memory}%`}}
+                    ></div>
+                  </div>
+                  <span className="text-xs text-purple-400 font-bold">{brainStatus.limbic.memory}%</span>
+                </div>
+                <p className="text-sm text-gray-400">
+                  {brainStatus.limbic.memory_status}
                 </p>
               </div>
 
-              <div className="bg-black/50 p-4 rounded-lg border border-purple-500/20">
+              <div className="bg-black/50 p-4 rounded-lg border border-purple-500/20 hover:border-purple-500/50 transition">
                 <h3 className="text-sm font-bold text-purple-400 mb-2">감정 상태</h3>
                 <p className="text-sm text-gray-400">
-                  현재: <span className="text-green-400">😊 낙관 (발견 모드)</span>
+                  현재: <span className="text-green-400">{brainStatus.limbic.emotion_status}</span>
                 </p>
               </div>
 
-              <div className="bg-black/50 p-4 rounded-lg border border-purple-500/20">
+              <div className="bg-black/50 p-4 rounded-lg border border-purple-500/20 hover:border-purple-500/50 transition">
                 <h3 className="text-sm font-bold text-purple-400 mb-2">가치 체계</h3>
-                <ul className="text-xs text-gray-400 space-y-1">
-                  <li>✅ 생명 윤리 최우선</li>
-                  <li>✅ 재현성 필수</li>
-                  <li>✅ 투명성 기본</li>
-                  <li>✅ 혁신 추구</li>
-                </ul>
+                <p className="text-sm text-gray-400">
+                  {brainStatus.limbic.values_status}
+                </p>
               </div>
             </div>
           </div>
 
           {/* Neocortex */}
-          <div className="bg-gradient-to-br from-blue-900/30 to-cyan-900/30 border border-blue-500/50 rounded-xl p-8">
+          <div className="bg-gradient-to-br from-blue-900/30 to-cyan-900/30 border border-blue-500/50 rounded-xl p-8 transition-all hover:border-blue-400/80">
             <div className="flex items-start gap-4 mb-6">
               <span className="text-4xl">🔵</span>
               <div>
@@ -122,40 +201,52 @@ export default function BrainDashboard() {
             </div>
             
             <div className="space-y-4">
-              <div className="bg-black/50 p-4 rounded-lg border border-blue-500/20">
+              <div className="bg-black/50 p-4 rounded-lg border border-blue-500/20 hover:border-blue-500/50 transition">
                 <h3 className="text-sm font-bold text-blue-400 mb-2">의사결정 수준</h3>
                 <div className="flex items-center gap-2">
                   <div className="w-full bg-gray-700 rounded-full h-2">
-                    <div className="bg-blue-500 h-2 rounded-full" style={{width: "88%"}}></div>
+                    <div 
+                      className="bg-blue-500 h-2 rounded-full transition-all duration-500" 
+                      style={{width: `${brainStatus.neocortex.decision_making}%`}}
+                    ></div>
                   </div>
-                  <span className="text-xs text-blue-400">88%</span>
+                  <span className="text-xs text-blue-400 font-bold">{brainStatus.neocortex.decision_making}%</span>
                 </div>
+                <p className="text-xs text-gray-500 mt-2">{brainStatus.neocortex.decision_status}</p>
               </div>
 
-              <div className="bg-black/50 p-4 rounded-lg border border-blue-500/20">
+              <div className="bg-black/50 p-4 rounded-lg border border-blue-500/20 hover:border-blue-500/50 transition">
                 <h3 className="text-sm font-bold text-blue-400 mb-2">학습 곡선</h3>
                 <div className="flex items-center gap-2">
                   <div className="w-full bg-gray-700 rounded-full h-2">
-                    <div className="bg-green-500 h-2 rounded-full" style={{width: "75%"}}></div>
+                    <div 
+                      className="bg-green-500 h-2 rounded-full transition-all duration-500" 
+                      style={{width: `${brainStatus.neocortex.learning}%`}}
+                    ></div>
                   </div>
-                  <span className="text-xs text-green-400">75%</span>
+                  <span className="text-xs text-green-400 font-bold">{brainStatus.neocortex.learning}%</span>
                 </div>
+                <p className="text-xs text-gray-500 mt-2">{brainStatus.neocortex.learning_status}</p>
               </div>
 
-              <div className="bg-black/50 p-4 rounded-lg border border-blue-500/20">
+              <div className="bg-black/50 p-4 rounded-lg border border-blue-500/20 hover:border-blue-500/50 transition">
                 <h3 className="text-sm font-bold text-blue-400 mb-2">혁신 능력</h3>
                 <div className="flex items-center gap-2">
                   <div className="w-full bg-gray-700 rounded-full h-2">
-                    <div className="bg-yellow-500 h-2 rounded-full" style={{width: "82%"}}></div>
+                    <div 
+                      className="bg-yellow-500 h-2 rounded-full transition-all duration-500" 
+                      style={{width: `${brainStatus.neocortex.innovation}%`}}
+                    ></div>
                   </div>
-                  <span className="text-xs text-yellow-400">82%</span>
+                  <span className="text-xs text-yellow-400 font-bold">{brainStatus.neocortex.innovation}%</span>
                 </div>
+                <p className="text-xs text-gray-500 mt-2">{brainStatus.neocortex.innovation_status}</p>
               </div>
             </div>
           </div>
 
           {/* Cartridge System */}
-          <div className="bg-gradient-to-br from-yellow-900/30 to-orange-900/30 border border-yellow-500/50 rounded-xl p-8">
+          <div className="bg-gradient-to-br from-yellow-900/30 to-orange-900/30 border border-yellow-500/50 rounded-xl p-8 transition-all hover:border-yellow-400/80">
             <div className="flex items-start gap-4 mb-6">
               <span className="text-4xl">⚙️</span>
               <div>
@@ -165,35 +256,38 @@ export default function BrainDashboard() {
             </div>
             
             <div className="space-y-4">
-              <div className="bg-black/50 p-4 rounded-lg border border-yellow-500/20">
+              <div className="bg-black/50 p-4 rounded-lg border border-yellow-500/20 hover:border-yellow-500/50 transition">
                 <h3 className="text-sm font-bold text-yellow-400 mb-2">활성 정체성</h3>
-                <p className="text-sm text-green-400 font-bold">🧬 Biology</p>
-                <p className="text-xs text-gray-500">자궁 오가노이드 연구 모드</p>
+                <p className="text-sm text-green-400 font-bold">🧬 {brainStatus.cartridge.active}</p>
+                <p className="text-xs text-gray-500">{brainStatus.cartridge.status}</p>
               </div>
 
-              <div className="bg-black/50 p-4 rounded-lg border border-yellow-500/20">
+              <div className="bg-black/50 p-4 rounded-lg border border-yellow-500/20 hover:border-yellow-500/50 transition">
                 <h3 className="text-sm font-bold text-yellow-400 mb-2">사용 가능한 Cartridge</h3>
                 <div className="space-y-2">
-                  <div className="flex items-center justify-between text-xs">
-                    <span>🧬 Biology (활성)</span>
-                    <span className="text-green-400">✅</span>
-                  </div>
-                  <div className="flex items-center justify-between text-xs">
-                    <span>📈 Investment (준비)</span>
-                    <span className="text-yellow-400">⏳</span>
-                  </div>
-                  <div className="flex items-center justify-between text-xs">
-                    <span>🌌 Astronomy</span>
-                    <span className="text-gray-500">⬜</span>
-                  </div>
-                  <div className="flex items-center justify-between text-xs">
-                    <span>📚 Literature</span>
-                    <span className="text-gray-500">⬜</span>
-                  </div>
+                  {brainStatus.cartridge.available.map((cartridge) => (
+                    <button
+                      key={cartridge}
+                      onClick={() => switchCartridge(cartridge)}
+                      className={`w-full text-left px-3 py-2 rounded text-xs transition flex items-center justify-between ${
+                        activeCartridge === cartridge
+                          ? 'bg-yellow-500/30 border border-yellow-500/50 text-yellow-300'
+                          : 'bg-gray-800/30 border border-gray-700/30 text-gray-400 hover:bg-gray-700/30'
+                      }`}
+                    >
+                      <span>
+                        {cartridge === 'biology' && '🧬 Biology'}
+                        {cartridge === 'investment' && '📈 Investment'}
+                        {cartridge === 'astronomy' && '🌌 Astronomy'}
+                        {cartridge === 'literature' && '📚 Literature'}
+                      </span>
+                      {activeCartridge === cartridge && <span>✅</span>}
+                    </button>
+                  ))}
                 </div>
               </div>
 
-              <div className="bg-black/50 p-4 rounded-lg border border-yellow-500/20">
+              <div className="bg-black/50 p-4 rounded-lg border border-yellow-500/20 hover:border-yellow-500/50 transition">
                 <h3 className="text-sm font-bold text-yellow-400 mb-2">정체성 전환</h3>
                 <p className="text-xs text-gray-400">
                   모든 정체성이 완벽히 격리되어 독립적으로 동작합니다
@@ -208,21 +302,23 @@ export default function BrainDashboard() {
           <h2 className="text-2xl font-bold mb-6">📊 System Status</h2>
           
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
-            <div className="bg-black/50 p-4 rounded-lg">
+            <div className="bg-black/50 p-4 rounded-lg hover:bg-black/70 transition">
               <p className="text-gray-500 text-sm mb-2">Overall Health</p>
-              <p className="text-2xl font-bold text-green-400">98%</p>
+              <p className="text-2xl font-bold text-green-400">{brainStatus.overall_health}%</p>
             </div>
-            <div className="bg-black/50 p-4 rounded-lg">
-              <p className="text-gray-500 text-sm mb-2">API Response</p>
-              <p className="text-2xl font-bold text-green-400">42ms</p>
+            <div className="bg-black/50 p-4 rounded-lg hover:bg-black/70 transition">
+              <p className="text-gray-500 text-sm mb-2">System Status</p>
+              <p className="text-2xl font-bold text-green-400">{brainStatus.system_status}</p>
             </div>
-            <div className="bg-black/50 p-4 rounded-lg">
-              <p className="text-gray-500 text-sm mb-2">Research Projects</p>
-              <p className="text-2xl font-bold text-blue-400">12</p>
+            <div className="bg-black/50 p-4 rounded-lg hover:bg-black/70 transition">
+              <p className="text-gray-500 text-sm mb-2">WebSocket</p>
+              <p className={`text-2xl font-bold ${connected ? 'text-green-400' : 'text-red-400'}`}>
+                {connected ? '✅ Connected' : '❌ Offline'}
+              </p>
             </div>
-            <div className="bg-black/50 p-4 rounded-lg">
-              <p className="text-gray-500 text-sm mb-2">Market Data</p>
-              <p className="text-2xl font-bold text-yellow-400">Live</p>
+            <div className="bg-black/50 p-4 rounded-lg hover:bg-black/70 transition">
+              <p className="text-gray-500 text-sm mb-2">Live Updates</p>
+              <p className="text-2xl font-bold text-blue-400">{connected ? 'Live' : 'Cached'}</p>
             </div>
           </div>
         </div>
